@@ -1,0 +1,4675 @@
+.:
+total 3280
+drwxr-xr-x 10 root root    4096 Aug 18 17:20 1
+drwxr-xr-x  5 root root    4096 Aug 26 14:32 123
+drwxr-xr-x  3 root root    4096 Aug 26 10:29 161038002
+drwxr-xr-x  8 root root    4096 Sep  2 09:23 161043003
+drwxr-xr-x  8 root root    4096 Aug 19 16:45 2
+drwxr-xr-x  5 root root    4096 Aug 10 00:01 akshay-161043006
+drwxr-xr-x  7 root root    4096 Aug  9 15:49 Ayan
+drwxr-xr-x  5 root root    4096 Aug 10 23:49 Dhanush.v-161043008
+drwxr-xr-x  2 root root    4096 Aug  8 16:37 dhd
+drwxr-xr-x  6 root root    4096 Aug 19 16:19 edi11_tutorial
+drwx------  9 root root    4096 Aug 26  2015 Fast-Track-C
+-rw-r--r--  1 root root   56469 Aug 25 14:51 fsm.jpg
+drwx------  9 root root    4096 Aug 26  2015 j
+drwxr-xr-x  4 root root    4096 Aug 11 16:53 kumar
+-rw-r--r--  1 root root 2951793 Aug 11 17:12 kumar.zip
+drwxr-xr-x  2 root root    4096 Sep 14 13:14 linklist own
+-rw-r--r--  1 root root     694 Aug  3 11:50 mask.c~
+drwx------ 11 root root    4096 Aug 23 19:05 nagur
+drwxr-xr-x  8 root root    4096 Aug  9 16:35 Naresh
+-rw-r--r--  1 root root       0 Mar 12  2016 new file.txt~
+-rw-r--r--  1 root root     923 Aug  5 15:26 patt.c~
+-rwxr-xr-x  1 root root    8782 Aug 11 16:21 Q1.out
+-rw-r--r--  1 root root     568 Apr 12 16:27 seq.sv~
+-rw-r--r--  1 root root     349 Apr 12 16:25 seq_tb.sv~
+drwxr-xr-x  3 root root    4096 Aug 10 14:36 SV
+-rw-r--r--  1 root root      44 Feb 27  2016 test.py~
+drwxr-xr-x  2 root root    4096 Sep 10 16:51 untitled folder
+drwx------  4 root root    4096 Sep  1 14:09 Verification
+-rw-r--r--  1 root root       0 Oct  7 18:19 vlsi2.txt
+-rw-r--r--  1 root root     284 Oct  7 18:19 vlsimount.txt
+-rw-r--r--  1 root root   90209 Oct  7 18:19 vlsitree.txt
+
+./1:
+total 64
+drwxr-xr-x 2 root root 4096 Aug 25 23:19 Q1
+drwxr-xr-x 2 root root 4096 Aug 25 16:57 Q2
+drwxr-xr-x 2 root root 4096 Aug 25 23:55 Q3
+drwxr-xr-x 2 root root 4096 Aug 17 09:00 Q4
+drwxr-xr-x 2 root root 4096 Aug 25 23:59 Q5
+drwxr-xr-x 2 root root 4096 Aug 25 23:46 Q6
+drwxr-xr-x 2 root root 4096 Aug 26 00:05 Q7
+drwxr-xr-x 2 root root 4096 Aug 26 00:15 Q8
+
+./1/Q1:
+total 168
+-rwxr-xr-x 1 root root   209 Aug 25 16:36 5_1spec.h
+-rwxr-xr-x 1 root root  8782 Aug 11 16:21 Q1.out
+-rwxr-xr-x 1 root root 89300 Aug 11 16:22 Q2_screen.png
+-rwxr-xr-x 1 root root  1437 Aug 25 16:55 structPoint.c
+-rwxr-xr-x 1 root root  1545 Aug 25 16:55 structPoint.c~
+-rwxr-xr-x 1 root root   209 Aug 11 16:17 structPoint.h
+-rwxr-xr-x 1 root root   214 Aug 11 16:10 structPoint.h~
+-rwxr-xr-x 1 root root   969 Aug 25 16:53 structPoint-spec.c
+-rwxr-xr-x 1 root root   968 Aug 11 16:21 structPoint-spec.c~
+
+./1/Q2:
+total 196
+-rwxr-xr-x 1 root root   7792 Aug 25 16:57 a.out
+-rwxr-xr-x 1 root root    213 Aug 11 16:30 Point.h~
+-rwxr-xr-x 1 root root    251 Aug 11 16:45 PointLine.c
+-rwxr-xr-x 1 root root    152 Aug 11 16:38 PointLine.c~
+-rwxr-xr-x 1 root root    219 Aug 11 16:38 PointLine.h
+-rwxr-xr-x 1 root root    219 Aug 11 16:38 PointLine.h~
+-rwxr-xr-x 1 root root    644 Aug 11 16:48 PointLine-spec.c
+-rwxr-xr-x 1 root root    645 Aug 11 16:48 PointLine-spec.c~
+-rwxr-xr-x 1 root root   8735 Aug 11 16:49 Q2.out
+-rwxr-xr-x 1 root root 105124 Aug 11 16:50 Q2_SCREEN.png
+
+./1/Q3:
+total 176
+-rwxr-xr-x 1 root root  8695 Aug 17 08:36 a.out
+-rwxr-xr-x 1 root root   588 Aug 12 09:56 checkParallel.c
+-rwxr-xr-x 1 root root   588 Aug 12 09:56 checkParallel.c~
+-rwxr-xr-x 1 root root   785 Aug 12 09:53 checkParallel-spec.c
+-rwxr-xr-x 1 root root   781 Aug 12 09:50 checkParallel-spec.c~
+-rwxr-xr-x 1 root root   219 Aug 11 16:38 PointLine.h
+-rwxr-xr-x 1 root root  7705 Aug 25 23:36 point.out
+-rwxr-xr-x 1 root root  8695 Aug 17 08:37 Q3.out
+-rwxr-xr-x 1 root root 84376 Aug 17 08:39 Q3_screen.png
+
+./1/Q4:
+total 224
+-rwxr-xr-x 1 root root   8686 Aug 17 08:43 a.out
+-rwxr-xr-x 1 root root    585 Aug 17 09:00 checkCross.c
+-rwxr-xr-x 1 root root    585 Aug 17 08:44 checkCross.c~
+-rwxr-xr-x 1 root root    772 Aug 17 08:40 checkCross-spec.c
+-rwxr-xr-x 1 root root    782 Aug 17 08:40 checkCross-spec.c~
+-rwxr-xr-x 1 root root    588 Aug 12 09:56 checkParallel.c~
+-rwxr-xr-x 1 root root    219 Aug 17 08:40 PointLine.h
+-rwxr-xr-x 1 root root    219 Aug 11 16:38 PointLine.h~
+-rwxr-xr-x 1 root root   8686 Aug 17 08:44 Q4.out
+-rwxr-xr-x 1 root root 127339 Aug 17 09:00 Q4_screen.png
+
+./1/Q5:
+total 180
+-rwxr-xr-x 1 root root 13072 Aug 17 16:54 Q5.out
+-rwxr-xr-x 1 root root 89262 Aug 17 16:55 Q5_screen.png
+-rwxr-xr-x 1 root root  1840 Aug 17 16:50 Rectangle-functions.c
+-rwxr-xr-x 1 root root  1840 Aug 17 16:50 Rectangle-functions.c~
+-rwxr-xr-x 1 root root   618 Aug 17 16:51 Rectangle.h
+-rwxr-xr-x 1 root root   617 Aug 17 16:51 Rectangle.h~
+-rwxr-xr-x 1 root root   289 Aug 17 16:53 Rectangle-spec.c
+-rwxr-xr-x 1 root root   289 Aug 17 16:53 Rectangle-spec.c~
+-rwxr-xr-x 1 root root  9370 Aug 25 23:59 rect.out
+
+./1/Q6:
+total 284
+-rwxr-xr-x 1 root root 11094 Aug 17 18:47 a.out
+-rwxr-xr-x 1 root root  8544 Aug 25 23:46 clk.out
+-rwxr-xr-x 1 root root   699 Aug 17 18:49 clock-functions.c
+-rwxr-xr-x 1 root root   818 Aug 17 18:47 clock-functions.c~
+-rwxr-xr-x 1 root root   340 Aug 17 19:13 clock.h
+-rwxr-xr-x 1 root root   324 Aug 17 19:09 clock.h~
+-rwxr-xr-x 1 root root   858 Aug 17 19:08 clock-spec.c
+-rwxr-xr-x 1 root root   931 Aug 17 19:08 clock-spec.c~
+-rwxr-xr-x 1 root root 11094 Aug 17 18:49 Q6.out
+-rwxr-xr-x 1 root root 79267 Aug 17 18:51 Q6_screen1.png
+-rwxr-xr-x 1 root root 92409 Aug 17 18:51 Q6_screen.png
+
+./1/Q7:
+total 172
+-rwxr-xr-x 1 root root 12898 Aug 17 19:30 a.out
+-rwxr-xr-x 1 root root   340 Aug 17 19:20 clock.h
+-rwxr-xr-x 1 root root  9180 Aug 26 00:05 clok.out
+-rwxr-xr-x 1 root root  1263 Aug 17 19:29 Q7clock-functions.c
+-rwxr-xr-x 1 root root  1228 Aug 17 19:29 Q7clock-functions.c~
+-rwxr-xr-x 1 root root   930 Aug 17 19:28 Q7clock-spec.c
+-rwxr-xr-x 1 root root   930 Aug 17 19:21 Q7clock-spec.c~
+-rwxr-xr-x 1 root root 86560 Aug 17 19:33 Q7_screen.png
+
+./1/Q8:
+total 176
+-rwxr-xr-x 1 root root 15879 Aug 18 16:41 a.out
+-rwxr-xr-x 1 root root 10749 Aug 26 00:15 clk.out
+-rwxr-xr-x 1 root root   548 Aug 18 16:00 clock.h
+-rwxr-xr-x 1 root root   543 Aug 18 15:49 clock.h~
+-rwxr-xr-x 1 root root  1423 Aug 18 16:44 Q8clock-functions.c
+-rwxr-xr-x 1 root root  1423 Aug 18 16:41 Q8clock-functions.c~
+-rwxr-xr-x 1 root root  1780 Aug 18 16:40 Q8clock-spec.c
+-rwxr-xr-x 1 root root  1778 Aug 18 16:40 Q8clock-spec.c~
+-rwxr-xr-x 1 root root 82403 Aug 18 17:20 Q8_screen.png
+
+./123:
+total 24
+drwxr-xr-x 10 root root 4096 Aug 26 03:41 1
+drwxr-xr-x  8 root root 4096 Aug 26 03:41 2
+drwxr-xr-x  4 root root 4096 Aug 26 03:41 ex 5 sshots
+
+./123/1:
+total 64
+drwxr-xr-x 2 root root 4096 Aug 27 15:30 Q1
+drwxr-xr-x 2 root root 4096 Aug 27 15:28 Q2
+drwxr-xr-x 2 root root 4096 Aug 26 03:41 Q3
+drwxr-xr-x 2 root root 4096 Aug 26 03:41 Q4
+drwxr-xr-x 2 root root 4096 Aug 26 03:41 Q5
+drwxr-xr-x 2 root root 4096 Aug 26 03:41 Q6
+drwxr-xr-x 2 root root 4096 Aug 26 03:41 Q7
+drwxr-xr-x 2 root root 4096 Aug 26 03:41 Q8
+
+./123/1/Q1:
+total 2040
+-rwxr-xr-x 1 root root     209 Aug 25 16:36 5_1spec.h
+-rwxr-xr-x 1 root root    8782 Aug 11 16:21 Q1.out
+-rwxr-xr-x 1 root root    1435 Aug 27 15:30 structPoint.c
+-rw-r--r-- 1 root root    1437 Aug 25 16:55 structPoint.c~
+-rwxr-xr-x 1 root root     209 Aug 11 16:17 structPoint.h
+-rwxr-xr-x 1 root root     214 Aug 11 16:10 structPoint.h~
+-rw-r--r-- 1 root root 2003288 Aug 27 15:25 structPoint.h.gch
+-rwxr-xr-x 1 root root     969 Aug 25 16:53 structPoint-spec.c
+-rwxr-xr-x 1 root root     968 Aug 11 16:21 structPoint-spec.c~
+
+./123/1/Q2:
+total 2056
+-rwxr-xr-x 1 root root    7792 Aug 27 15:28 a.out
+-rwxr-xr-x 1 root root     213 Aug 11 16:30 Point.h~
+-rwxr-xr-x 1 root root     251 Aug 11 16:45 PointLine.c
+-rwxr-xr-x 1 root root     152 Aug 11 16:38 PointLine.c~
+-rwxr-xr-x 1 root root     219 Aug 11 16:38 PointLine.h
+-rwxr-xr-x 1 root root     219 Aug 11 16:38 PointLine.h~
+-rw-r--r-- 1 root root 2007384 Aug 27 15:28 PointLine.h.gch
+-rwxr-xr-x 1 root root     644 Aug 11 16:48 PointLine-spec.c
+-rwxr-xr-x 1 root root     645 Aug 11 16:48 PointLine-spec.c~
+-rwxr-xr-x 1 root root    8735 Aug 11 16:49 Q2.out
+
+./123/1/Q3:
+total 84
+-rwxr-xr-x 1 root root 8695 Aug 17 08:36 a.out
+-rwxr-xr-x 1 root root  588 Aug 12 09:56 checkParallel.c
+-rwxr-xr-x 1 root root  588 Aug 12 09:56 checkParallel.c~
+-rwxr-xr-x 1 root root  785 Aug 12 09:53 checkParallel-spec.c
+-rwxr-xr-x 1 root root  781 Aug 12 09:50 checkParallel-spec.c~
+-rwxr-xr-x 1 root root  219 Aug 11 16:38 PointLine.h
+-rwxr-xr-x 1 root root 7705 Aug 25 23:36 point.out
+-rwxr-xr-x 1 root root 8695 Aug 17 08:37 Q3.out
+
+./123/1/Q4:
+total 88
+-rwxr-xr-x 1 root root 8686 Aug 17 08:43 a.out
+-rwxr-xr-x 1 root root  585 Aug 17 09:00 checkCross.c
+-rwxr-xr-x 1 root root  585 Aug 17 08:44 checkCross.c~
+-rwxr-xr-x 1 root root  772 Aug 17 08:40 checkCross-spec.c
+-rwxr-xr-x 1 root root  782 Aug 17 08:40 checkCross-spec.c~
+-rwxr-xr-x 1 root root  588 Aug 12 09:56 checkParallel.c~
+-rwxr-xr-x 1 root root  219 Aug 17 08:40 PointLine.h
+-rwxr-xr-x 1 root root  219 Aug 11 16:38 PointLine.h~
+-rwxr-xr-x 1 root root 8686 Aug 17 08:44 Q4.out
+
+./123/1/Q5:
+total 84
+-rwxr-xr-x 1 root root 13072 Aug 17 16:54 Q5.out
+-rwxr-xr-x 1 root root  1840 Aug 17 16:50 Rectangle-functions.c
+-rwxr-xr-x 1 root root  1840 Aug 17 16:50 Rectangle-functions.c~
+-rwxr-xr-x 1 root root   618 Aug 17 16:51 Rectangle.h
+-rwxr-xr-x 1 root root   617 Aug 17 16:51 Rectangle.h~
+-rwxr-xr-x 1 root root   289 Aug 17 16:53 Rectangle-spec.c
+-rwxr-xr-x 1 root root   289 Aug 17 16:53 Rectangle-spec.c~
+-rwxr-xr-x 1 root root  9370 Aug 25 23:59 rect.out
+
+./123/1/Q6:
+total 96
+-rwxr-xr-x 1 root root 11094 Aug 17 18:47 a.out
+-rwxr-xr-x 1 root root  8544 Aug 25 23:46 clk.out
+-rwxr-xr-x 1 root root   699 Aug 17 18:49 clock-functions.c
+-rwxr-xr-x 1 root root   818 Aug 17 18:47 clock-functions.c~
+-rwxr-xr-x 1 root root   340 Aug 17 19:13 clock.h
+-rwxr-xr-x 1 root root   324 Aug 17 19:09 clock.h~
+-rwxr-xr-x 1 root root   858 Aug 17 19:08 clock-spec.c
+-rwxr-xr-x 1 root root   931 Aug 17 19:08 clock-spec.c~
+-rwxr-xr-x 1 root root 11094 Aug 17 18:49 Q6.out
+
+./123/1/Q7:
+total 76
+-rwxr-xr-x 1 root root 12898 Aug 17 19:30 a.out
+-rwxr-xr-x 1 root root   340 Aug 17 19:20 clock.h
+-rwxr-xr-x 1 root root  9180 Aug 26 00:05 clok.out
+-rwxr-xr-x 1 root root  1263 Aug 17 19:29 Q7clock-functions.c
+-rwxr-xr-x 1 root root  1228 Aug 17 19:29 Q7clock-functions.c~
+-rwxr-xr-x 1 root root   930 Aug 17 19:28 Q7clock-spec.c
+-rwxr-xr-x 1 root root   930 Aug 17 19:21 Q7clock-spec.c~
+
+./123/1/Q8:
+total 84
+-rwxr-xr-x 1 root root 15879 Aug 18 16:41 a.out
+-rwxr-xr-x 1 root root 10749 Aug 26 00:15 clk.out
+-rwxr-xr-x 1 root root   548 Aug 18 16:00 clock.h
+-rwxr-xr-x 1 root root   543 Aug 18 15:49 clock.h~
+-rwxr-xr-x 1 root root  1423 Aug 18 16:44 Q8clock-functions.c
+-rwxr-xr-x 1 root root  1423 Aug 18 16:41 Q8clock-functions.c~
+-rwxr-xr-x 1 root root  1780 Aug 18 16:40 Q8clock-spec.c
+-rwxr-xr-x 1 root root  1778 Aug 18 16:40 Q8clock-spec.c~
+
+./123/2:
+total 48
+drwxr-xr-x 2 root root 4096 Aug 26 03:41 Q1
+drwxr-xr-x 2 root root 4096 Aug 26 03:41 Q2
+drwxr-xr-x 2 root root 4096 Aug 26 03:41 Q3
+drwxr-xr-x 2 root root 4096 Aug 26 03:41 Q4
+drwxr-xr-x 2 root root 4096 Aug 26 03:41 Q5
+drwxr-xr-x 2 root root 4096 Aug 26 03:41 Q6
+
+./123/2/Q1:
+total 76
+-rwxr-xr-x 1 root root 11609 Aug 18 18:22 a.out
+-rwxr-xr-x 1 root root 11609 Aug 18 18:25 Q1.out
+-rwxr-xr-x 1 root root   234 Aug 18 18:24 StrCopyPointer.c
+-rwxr-xr-x 1 root root   234 Aug 18 18:19 StrCopyPointer.c~
+-rwxr-xr-x 1 root root   164 Aug 18 18:23 StrCopyPointer-functions.c
+-rwxr-xr-x 1 root root   164 Aug 18 18:22 StrCopyPointer-functions.c~
+-rwxr-xr-x 1 root root  7159 Aug 26 00:25 strptr.out
+
+./123/2/Q2:
+total 60
+-rwxr-xr-x 1 root root 7148 Aug 26 00:39 lenptr.out
+-rwxr-xr-x 1 root root 8806 Aug 18 19:21 Q2.out
+-rwxr-xr-x 1 root root  238 Aug 18 19:21 StrLenPointer.c
+-rwxr-xr-x 1 root root  243 Aug 18 19:20 StrLenPointer.c~
+-rwxr-xr-x 1 root root  124 Aug 18 19:20 StrLenPointer-functions.c
+-rwxr-xr-x 1 root root  124 Aug 18 19:20 StrLenPointer-functions.c~
+
+./123/2/Q3:
+total 60
+-rwxr-xr-x 1 root root 8837 Aug 19 08:50 a.out
+-rwxr-xr-x 1 root root 7339 Aug 26 00:40 revptr.out
+-rwxr-xr-x 1 root root  202 Aug 19 08:51 StrRevPointer.c
+-rwxr-xr-x 1 root root  202 Aug 19 08:47 StrRevPointer.c~
+-rwxr-xr-x 1 root root  365 Aug 19 08:49 StrRevPointer-Functions.c
+-rwxr-xr-x 1 root root  357 Aug 19 08:47 StrRevPointer-Functions.c~
+
+./123/2/Q4:
+total 76
+-rwxr-xr-x 1 root root 8755 Aug 19 09:01 a.out
+-rwxr-xr-x 1 root root 7153 Aug 26 00:44 cmpr.out
+-rwxr-xr-x 1 root root 8755 Aug 19 09:01 Q4.out
+-rwxr-xr-x 1 root root  349 Aug 19 09:01 StrCmpPointer.c
+-rwxr-xr-x 1 root root  348 Aug 19 09:00 StrCmpPointer.c~
+-rwxr-xr-x 1 root root  214 Aug 19 08:55 StrCmpPointer-Functions.c
+-rwxr-xr-x 1 root root  214 Aug 19 08:54 StrCmpPointer-Functions.c~
+
+./123/2/Q5:
+total 60
+-rwxr-xr-x 1 root root 7405 Aug 26 00:48 name.out
+-rwxr-xr-x 1 root root  258 Aug 19 09:22 NamePointers.c
+-rwxr-xr-x 1 root root  258 Aug 19 09:19 NamePointers.c~
+-rwxr-xr-x 1 root root  378 Aug 19 09:22 NamePointers-Functions.c
+-rwxr-xr-x 1 root root  374 Aug 19 09:22 NamePointers-Functions.c~
+-rwxr-xr-x 1 root root 8807 Aug 19 09:24 Q5.out
+
+./123/2/Q6:
+total 104
+-rwxr-xr-x 1 root root 13534 Aug 19 17:55 a.out
+-rwxr-xr-x 1 root root 13479 Aug 26 10:29 Q6.o
+-rwxr-xr-x 1 root root   711 Aug 26 10:15 studentDetails.c
+-rwxr-xr-x 1 root root   709 Aug 19 18:09 studentDetails.c~
+-rwxr-xr-x 1 root root  1795 Aug 26 10:37 studentDetails-Functions.c
+-rwxr-xr-x 1 root root  1795 Aug 26 10:25 studentDetails-Functions.c~
+-rwxr-xr-x 1 root root   306 Aug 19 18:03 studentDetails.h
+-rwxr-xr-x 1 root root   303 Aug 19 17:38 studentDetails.h~
+-rwxr-xr-x 1 root root    90 Aug 26 10:30 studentDetails.txt
+-rwxr-xr-x 1 root root    89 Aug 26 10:27 studentDetails.txt~
+
+./123/ex 5 sshots:
+total 16
+drwxr-xr-x 2 root root 4096 Aug 26 03:41 1_shots
+drwxr-xr-x 2 root root 4096 Aug 26 03:41 2_shots
+
+./123/ex 5 sshots/1_shots:
+total 1196
+-rwxr-xr-x 1 root root  70064 Aug 26 03:24 1.Screenshot.png
+-rwxr-xr-x 1 root root  85161 Aug 26 03:26 2.Screenshot.png
+-rwxr-xr-x 1 root root 121421 Aug 26 03:28 3.Screenshot.png
+-rwxr-xr-x 1 root root  75760 Aug 26 03:31 4-Screenshot.png
+-rwxr-xr-x 1 root root 118862 Aug 26 00:03 5.Screenshot.png
+-rwxr-xr-x 1 root root  88565 Aug 25 23:54 6.Screenshot-2.png
+-rwxr-xr-x 1 root root  87597 Aug 25 23:55 6.Screenshot-3.png
+-rwxr-xr-x 1 root root  96158 Aug 25 23:53 6.Screenshot.png
+-rwxr-xr-x 1 root root  89177 Aug 26 00:08 7.Screenshot_1.png
+-rwxr-xr-x 1 root root  93192 Aug 26 00:07 7.Screenshot.png
+-rwxr-xr-x 1 root root  89841 Aug 26 00:18 8.Screenshot_1.png
+-rwxr-xr-x 1 root root  87796 Aug 26 00:17 8.Screenshot.png
+
+./123/ex 5 sshots/2_shots:
+total 480
+-rwxr-xr-x 1 root root  79895 Aug 26 00:36 1.Screenshot.png
+-rwxr-xr-x 1 root root 107568 Aug 26 00:39 2.Screenshot.png
+-rwxr-xr-x 1 root root  59970 Aug 26 00:42 3.Screenshot.png
+-rwxr-xr-x 1 root root 109252 Aug 26 00:45 4.Screenshot.png
+-rwxr-xr-x 1 root root  84130 Aug 26 00:48 5.Screenshot.png
+
+./161038002:
+total 964
+-rwxr-xr-x 1 root root  7300 Aug 18 14:56 a.out
+drwxr-xr-x 4 root root  4096 Aug 26 15:22 exercise 5
+-rw-r--r-- 1 root root   822 Aug 18 14:49 qs10.c
+-rw-r--r-- 1 root root   716 Aug 18 14:49 qs11.c
+-rw-r--r-- 1 root root   727 Aug 18 14:49 qs12.c
+-rw-r--r-- 1 root root   493 Aug 18 14:02 qs1.c
+-rw-r--r-- 1 root root   714 Aug 18 14:13 qs2.c
+-rw-r--r-- 1 root root  1923 Aug 18 14:23 qs3.c
+-rw-r--r-- 1 root root  1944 Aug 18 14:20 qs3.c~
+-rw-r--r-- 1 root root   601 Aug 18 14:36 qs4.c
+-rw-r--r-- 1 root root   453 Aug 18 14:38 qs5.c
+-rw-r--r-- 1 root root   384 Aug 18 14:40 qs6.c
+-rw-r--r-- 1 root root   364 Aug 18 14:42 qs7.c
+-rw-r--r-- 1 root root   353 Aug 18 14:43 qs8.c
+-rw-r--r-- 1 root root  1374 Aug 18 14:46 qs9.c
+-rw-r--r-- 1 root root 60811 Aug 18 14:50 Screenshot10.png
+-rw-r--r-- 1 root root 81415 Aug 18 14:54 Screenshot11.png
+-rw-r--r-- 1 root root 61202 Aug 18 14:56 Screenshot12.png
+-rw-r--r-- 1 root root 58629 Aug 18 14:17 Screenshot1.png
+-rw-r--r-- 1 root root 55366 Aug 18 14:18 Screenshot2.png
+-rw-r--r-- 1 root root 56682 Aug 18 14:24 Screenshot3.png
+-rw-r--r-- 1 root root 57491 Aug 18 14:37 Screenshot4.png
+-rw-r--r-- 1 root root 56644 Aug 18 14:39 Screenshot5.png
+-rw-r--r-- 1 root root 65264 Aug 18 14:41 Screenshot6.png
+-rw-r--r-- 1 root root 58150 Aug 18 14:43 Screenshot7.png
+-rw-r--r-- 1 root root 60122 Aug 18 14:44 Screenshot8.png
+-rw-r--r-- 1 root root 73629 Aug 18 14:48 Screenshot9.png
+
+./161038002/exercise 5:
+total 52
+drwxr-xr-x  2 root root 4096 Aug 26 14:46 ex5_1
+drwxr-xr-x 10 root root 4096 Aug 26 15:03 ex5_2
+-rw-r--r--  1 root root  426 Aug 26 10:43 ex5_2.c~
+-rw-r--r--  1 root root  415 Aug 26 10:51 ex5_3.c~
+-rw-r--r--  1 root root  258 Aug 26 15:22 ex5_5.c
+-rwxr-xr-x  1 root root 7659 Aug 26 14:42 name.out
+
+./161038002/exercise 5/ex5_1:
+total 460
+-rw-r--r-- 1 root root   452 Aug 26 10:30 ex5_1.c
+-rw-r--r-- 1 root root   391 Aug 26 10:46 ex5_2.c
+-rw-r--r-- 1 root root   452 Aug 26 10:52 ex5_3.c
+-rw-r--r-- 1 root root   684 Aug 26 10:56 ex5_4.c
+-rwxr-xr-x 1 root root   258 Aug 19 09:22 NamePointers.c
+-rwxr-xr-x 1 root root   378 Aug 19 09:22 NamePointers-Functions.c
+-rw-r--r-- 1 root root 61417 Aug 26 10:35 Screenshot1.png
+-rw-r--r-- 1 root root 98185 Aug 26 10:44 Screenshot2.png
+-rw-r--r-- 1 root root 57608 Aug 26 10:53 Screenshot3.png
+-rw-r--r-- 1 root root 62490 Aug 26 10:57 Screenshot4.png
+-rw-r--r-- 1 root root 58140 Aug 26 14:43 Screenshot5.png
+-rwxr-xr-x 1 root root   711 Aug 26 10:15 studentDetails.c
+-rwxr-xr-x 1 root root  1795 Aug 26 10:37 studentDetails-Functions.c
+-rwxr-xr-x 1 root root   306 Aug 19 18:03 studentDetails.h
+-rwxr-xr-x 1 root root    90 Aug 26 10:30 studentDetails.txt
+
+./161038002/exercise 5/ex5_2:
+total 1260
+-rwxr-xr-x 1 root root  70064 Aug 26 03:24 1.Screenshot.png
+-rwxr-xr-x 1 root root  85161 Aug 26 03:26 2.Screenshot.png
+-rwxr-xr-x 1 root root 121421 Aug 26 03:28 3.Screenshot.png
+-rwxr-xr-x 1 root root  75760 Aug 26 03:31 4-Screenshot.png
+-rwxr-xr-x 1 root root 118862 Aug 26 00:03 5.Screenshot.png
+-rwxr-xr-x 1 root root  88565 Aug 25 23:54 6.Screenshot-2.png
+-rwxr-xr-x 1 root root  87597 Aug 25 23:55 6.Screenshot-3.png
+-rwxr-xr-x 1 root root  96158 Aug 25 23:53 6.Screenshot.png
+-rwxr-xr-x 1 root root  89177 Aug 26 00:08 7.Screenshot_1.png
+-rwxr-xr-x 1 root root  93192 Aug 26 00:07 7.Screenshot.png
+-rwxr-xr-x 1 root root  89841 Aug 26 00:18 8.Screenshot_1.png
+-rwxr-xr-x 1 root root  87796 Aug 26 00:17 8.Screenshot.png
+drwxr-xr-x 2 root root   4096 Aug 26 14:56 Q1
+drwxr-xr-x 2 root root   4096 Aug 26 03:41 Q2
+drwxr-xr-x 2 root root   4096 Aug 26 03:41 Q3
+drwxr-xr-x 2 root root   4096 Aug 26 03:41 Q4
+drwxr-xr-x 2 root root   4096 Aug 26 03:41 Q5
+drwxr-xr-x 2 root root   4096 Aug 26 03:41 Q6
+drwxr-xr-x 2 root root   4096 Aug 26 03:41 Q7
+drwxr-xr-x 2 root root   4096 Aug 26 03:41 Q8
+
+./161038002/exercise 5/ex5_2/Q1:
+total 56
+-rwxr-xr-x 1 root root  209 Aug 25 16:36 5_1spec.h
+-rwxr-xr-x 1 root root 1437 Aug 25 16:55 structPoint.c
+-rwxr-xr-x 1 root root 1545 Aug 25 16:55 structPoint.c~
+-rwxr-xr-x 1 root root  209 Aug 11 16:17 structPoint.h
+-rwxr-xr-x 1 root root  214 Aug 11 16:10 structPoint.h~
+-rwxr-xr-x 1 root root  969 Aug 25 16:53 structPoint-spec.c
+-rwxr-xr-x 1 root root  968 Aug 11 16:21 structPoint-spec.c~
+
+./161038002/exercise 5/ex5_2/Q2:
+total 84
+-rwxr-xr-x 1 root root 7792 Aug 25 16:57 a.out
+-rwxr-xr-x 1 root root  213 Aug 11 16:30 Point.h~
+-rwxr-xr-x 1 root root  251 Aug 11 16:45 PointLine.c
+-rwxr-xr-x 1 root root  152 Aug 11 16:38 PointLine.c~
+-rwxr-xr-x 1 root root  219 Aug 11 16:38 PointLine.h
+-rwxr-xr-x 1 root root  219 Aug 11 16:38 PointLine.h~
+-rwxr-xr-x 1 root root  644 Aug 11 16:48 PointLine-spec.c
+-rwxr-xr-x 1 root root  645 Aug 11 16:48 PointLine-spec.c~
+-rwxr-xr-x 1 root root 8735 Aug 11 16:49 Q2.out
+
+./161038002/exercise 5/ex5_2/Q3:
+total 84
+-rwxr-xr-x 1 root root 8695 Aug 17 08:36 a.out
+-rwxr-xr-x 1 root root  588 Aug 12 09:56 checkParallel.c
+-rwxr-xr-x 1 root root  588 Aug 12 09:56 checkParallel.c~
+-rwxr-xr-x 1 root root  785 Aug 12 09:53 checkParallel-spec.c
+-rwxr-xr-x 1 root root  781 Aug 12 09:50 checkParallel-spec.c~
+-rwxr-xr-x 1 root root  219 Aug 11 16:38 PointLine.h
+-rwxr-xr-x 1 root root 7705 Aug 25 23:36 point.out
+-rwxr-xr-x 1 root root 8695 Aug 17 08:37 Q3.out
+
+./161038002/exercise 5/ex5_2/Q4:
+total 88
+-rwxr-xr-x 1 root root 8686 Aug 17 08:43 a.out
+-rwxr-xr-x 1 root root  585 Aug 17 09:00 checkCross.c
+-rwxr-xr-x 1 root root  585 Aug 17 08:44 checkCross.c~
+-rwxr-xr-x 1 root root  772 Aug 17 08:40 checkCross-spec.c
+-rwxr-xr-x 1 root root  782 Aug 17 08:40 checkCross-spec.c~
+-rwxr-xr-x 1 root root  588 Aug 12 09:56 checkParallel.c~
+-rwxr-xr-x 1 root root  219 Aug 17 08:40 PointLine.h
+-rwxr-xr-x 1 root root  219 Aug 11 16:38 PointLine.h~
+-rwxr-xr-x 1 root root 8686 Aug 17 08:44 Q4.out
+
+./161038002/exercise 5/ex5_2/Q5:
+total 84
+-rwxr-xr-x 1 root root 13072 Aug 17 16:54 Q5.out
+-rwxr-xr-x 1 root root  1840 Aug 17 16:50 Rectangle-functions.c
+-rwxr-xr-x 1 root root  1840 Aug 17 16:50 Rectangle-functions.c~
+-rwxr-xr-x 1 root root   618 Aug 17 16:51 Rectangle.h
+-rwxr-xr-x 1 root root   617 Aug 17 16:51 Rectangle.h~
+-rwxr-xr-x 1 root root   289 Aug 17 16:53 Rectangle-spec.c
+-rwxr-xr-x 1 root root   289 Aug 17 16:53 Rectangle-spec.c~
+-rwxr-xr-x 1 root root  9370 Aug 25 23:59 rect.out
+
+./161038002/exercise 5/ex5_2/Q6:
+total 96
+-rwxr-xr-x 1 root root 11094 Aug 17 18:47 a.out
+-rwxr-xr-x 1 root root  8544 Aug 25 23:46 clk.out
+-rwxr-xr-x 1 root root   699 Aug 17 18:49 clock-functions.c
+-rwxr-xr-x 1 root root   818 Aug 17 18:47 clock-functions.c~
+-rwxr-xr-x 1 root root   340 Aug 17 19:13 clock.h
+-rwxr-xr-x 1 root root   324 Aug 17 19:09 clock.h~
+-rwxr-xr-x 1 root root   858 Aug 17 19:08 clock-spec.c
+-rwxr-xr-x 1 root root   931 Aug 17 19:08 clock-spec.c~
+-rwxr-xr-x 1 root root 11094 Aug 17 18:49 Q6.out
+
+./161038002/exercise 5/ex5_2/Q7:
+total 76
+-rwxr-xr-x 1 root root 12898 Aug 17 19:30 a.out
+-rwxr-xr-x 1 root root   340 Aug 17 19:20 clock.h
+-rwxr-xr-x 1 root root  9180 Aug 26 00:05 clok.out
+-rwxr-xr-x 1 root root  1263 Aug 17 19:29 Q7clock-functions.c
+-rwxr-xr-x 1 root root  1228 Aug 17 19:29 Q7clock-functions.c~
+-rwxr-xr-x 1 root root   930 Aug 17 19:28 Q7clock-spec.c
+-rwxr-xr-x 1 root root   930 Aug 17 19:21 Q7clock-spec.c~
+
+./161038002/exercise 5/ex5_2/Q8:
+total 84
+-rwxr-xr-x 1 root root 15879 Aug 18 16:41 a.out
+-rwxr-xr-x 1 root root 10749 Aug 26 00:15 clk.out
+-rwxr-xr-x 1 root root   548 Aug 18 16:00 clock.h
+-rwxr-xr-x 1 root root   543 Aug 18 15:49 clock.h~
+-rwxr-xr-x 1 root root  1423 Aug 18 16:44 Q8clock-functions.c
+-rwxr-xr-x 1 root root  1423 Aug 18 16:41 Q8clock-functions.c~
+-rwxr-xr-x 1 root root  1780 Aug 18 16:40 Q8clock-spec.c
+-rwxr-xr-x 1 root root  1778 Aug 18 16:40 Q8clock-spec.c~
+
+./161043003:
+total 48
+drwxr-xr-x  2 root root 4096 Aug 11 11:01 Exercise-1
+drwxr-xr-x 18 root root 4096 Aug 11 14:42 Exercise-2
+drwxr-xr-x  2 root root 4096 Aug 11 14:24 Exercise-3
+drwxr-xr-x  2 root root 4096 Aug 18 09:52 Exercise-4
+drwxr-xr-x  4 root root 4096 Aug 26 07:56 Exercise-5
+drwxr-xr-x  6 root root 4096 Sep  2 10:10 Exercise-6
+
+./161043003/Exercise-1:
+total 1712
+-rwxr-xr-x 1 root root   8768 Aug 11 10:54 a.out
+-rwxr-xr-x 1 root root    191 Aug  9 12:19 pgm1.c
+-rwxr-xr-x 1 root root    191 Aug  9 12:18 pgm1.c~
+-rwxr-xr-x 1 root root   7337 Aug  9 12:24 pgm1.o
+-rwxr-xr-x 1 root root 161537 Aug 11 10:39 pgm1.png
+-rwxr-xr-x 1 root root    469 Aug 11 10:39 pgm2.c
+-rwxr-xr-x 1 root root    482 Aug  2 15:37 pgm2.c~
+-rwxr-xr-x 1 root root   7375 Aug  9 12:27 pgm2.o
+-rwxr-xr-x 1 root root 158454 Aug 11 10:40 pgm2.png
+-rwxr-xr-x 1 root root    316 Aug  9 12:23 pgm3.c
+-rwxr-xr-x 1 root root    316 Aug  2 16:37 pgm3.c~
+-rwxr-xr-x 1 root root   7414 Aug  9 12:30 pgm3.o
+-rwxr-xr-x 1 root root 169892 Aug 11 10:41 pgm3.png
+-rwxr-xr-x 1 root root    433 Aug  2 15:50 pgm4.c
+-rwxr-xr-x 1 root root    433 Aug  2 15:49 pgm4.c~
+-rwxr-xr-x 1 root root   7375 Aug  9 12:36 pgm4.o
+-rwxr-xr-x 1 root root 174103 Aug 11 10:42 pgm4.png
+-rwxr-xr-x 1 root root    483 Aug 11 10:43 pgm5.c
+-rwxr-xr-x 1 root root    484 Aug  2 16:03 pgm5.c~
+-rwxr-xr-x 1 root root   7375 Aug  9 12:41 pgm5.o
+-rwxr-xr-x 1 root root 169328 Aug 11 10:45 pgm5.png
+-rwxr-xr-x 1 root root    298 Aug  9 12:45 pgm6.c
+-rwxr-xr-x 1 root root    296 Aug  9 12:42 pgm6.c~
+-rwxr-xr-x 1 root root   7339 Aug  9 12:45 pgm6.o
+-rwxr-xr-x 1 root root 169885 Aug 11 10:46 pgm6.png
+-rwxr-xr-x 1 root root    706 Aug  9 12:47 pgm7.c
+-rwxr-xr-x 1 root root    706 Aug  3 11:51 pgm7.c~
+-rwxr-xr-x 1 root root   7445 Aug  9 12:47 pgm7.o
+-rwxr-xr-x 1 root root 161406 Aug 11 10:47 pgm7.png
+-rwxr-xr-x 1 root root    299 Aug 11 10:48 pgm8.c
+-rwxr-xr-x 1 root root    299 Aug  3 10:24 pgm8.c~
+-rwxr-xr-x 1 root root   7293 Aug  9 12:51 pgm8.o
+-rwxr-xr-x 1 root root 237879 Aug 11 10:49 pgm8.png
+-rwxr-xr-x 1 root root   7083 Aug  2 16:33 pgm.o
+-rwxr-xr-x 1 root root    147 Aug  1  2015 README.txt
+
+./161043003/Exercise-2:
+total 180
+drwxr-xr-x 2 root root  4096 Aug 11 14:27 1
+drwxr-xr-x 2 root root  4096 Aug 11 14:38 10
+drwxr-xr-x 2 root root  4096 Aug 11 14:39 11
+drwxr-xr-x 2 root root  4096 Aug 11 14:40 12
+drwxr-xr-x 2 root root  4096 Aug 11 14:40 13
+drwxr-xr-x 2 root root  4096 Aug 11 14:41 14
+drwxr-xr-x 2 root root  4096 Aug 11 14:42 15
+drwxr-xr-x 2 root root  4096 Aug 11 14:42 16
+drwxr-xr-x 2 root root  4096 Aug 11 14:27 2
+drwxr-xr-x 2 root root  4096 Aug 11 14:27 3
+drwxr-xr-x 2 root root  4096 Aug 11 14:28 4
+drwxr-xr-x 2 root root  4096 Aug 11 14:33 5
+drwxr-xr-x 2 root root  4096 Aug 11 14:34 6
+drwxr-xr-x 2 root root  4096 Aug 11 14:35 7
+drwxr-xr-x 2 root root  4096 Aug 11 14:36 8
+drwxr-xr-x 2 root root  4096 Aug 11 14:36 9
+-rwxr-xr-x 1 root root  7396 Aug 11 14:32 a.out
+-rw-r--r-- 1 root root   525 Aug 11 14:30 car.c~
+-rwxr-xr-x 1 root root 16478 Aug  1  2015 Excercise-2.docx
+-rwxr-xr-x 1 root root  2233 Aug  3 09:38 Exercise 2.txt
+
+./161043003/Exercise-2/1:
+total 212
+-rwxr-xr-x 1 root root    217 Aug 11 10:15 leap.c
+-rwxr-xr-x 1 root root   7622 Aug  3 10:28 leap.o
+-rwxr-xr-x 1 root root 187147 Aug 11 10:16 leap.png
+
+./161043003/Exercise-2/10:
+total 228
+-rwxr-xr-x 1 root root    167 Aug  9 15:32 case.c
+-rwxr-xr-x 1 root root   6930 Aug  3 14:47 case.o
+-rwxr-xr-x 1 root root 200710 Aug 11 09:56 case.png
+
+./161043003/Exercise-2/11:
+total 248
+-rwxr-xr-x 1 root root    256 Aug  9 15:31 bintodec.c
+-rwxr-xr-x 1 root root   8768 Aug 11 09:50 bintodec.o
+-rwxr-xr-x 1 root root 217279 Aug 11 09:51 bintodec.png
+
+./161043003/Exercise-2/12:
+total 228
+-rwxr-xr-x 1 root root    346 Aug 11 09:58 dectobin.c
+-rwxr-xr-x 1 root root   7249 Aug  3 15:37 dectobin.o
+-rwxr-xr-x 1 root root 203633 Aug 11 09:59 dectobin.png
+
+./161043003/Exercise-2/13:
+total 216
+-rwxr-xr-x 1 root root    336 Aug 11 10:21 pali.c
+-rwxr-xr-x 1 root root   7189 Aug  8 16:35 pali.o
+-rwxr-xr-x 1 root root 191790 Aug 11 10:22 pali.png
+
+./161043003/Exercise-2/14:
+total 208
+-rwxr-xr-x 1 root root    964 Aug 11 10:29 roman.c
+-rwxr-xr-x 1 root root   7675 Aug  9 16:05 roman.o
+-rwxr-xr-x 1 root root 182186 Aug 11 10:29 roman.png
+
+./161043003/Exercise-2/15:
+total 228
+-rwxr-xr-x 1 root root    247 Aug 11 10:27 pow.c
+-rwxr-xr-x 1 root root   6978 Aug  5 10:29 pow.o
+-rwxr-xr-x 1 root root 203660 Aug 11 10:27 pow.png
+
+./161043003/Exercise-2/16:
+total 248
+-rwxr-xr-x 1 root root    543 Aug 11 10:24 pattern.c
+-rwxr-xr-x 1 root root   8760 Aug 11 10:25 pattern.o
+-rwxr-xr-x 1 root root 219652 Aug 11 10:25 pattern.png
+
+./161043003/Exercise-2/2:
+total 220
+-rwxr-xr-x 1 root root    276 Aug  3 11:08 joules.c
+-rwxr-xr-x 1 root root   7147 Aug  3 11:08 joules.o
+-rwxr-xr-x 1 root root 195608 Aug 11 10:15 joules.png
+
+./161043003/Exercise-2/3:
+total 224
+-rwxr-xr-x 1 root root    454 Aug 11 10:19 lumi.c
+-rwxr-xr-x 1 root root   7493 Aug  3 11:23 lumi.o
+-rwxr-xr-x 1 root root 198973 Aug 11 10:21 lumi.png
+
+./161043003/Exercise-2/4:
+total 208
+-rwxr-xr-x 1 root root    229 Aug 11 10:35 velocity.c
+-rwxr-xr-x 1 root root   6961 Aug  3 11:32 velocity.o
+-rwxr-xr-x 1 root root 182989 Aug 11 10:36 velocity.png
+
+./161043003/Exercise-2/5:
+total 188
+-rwxr-xr-x 1 root root    527 Aug 11 14:32 car.c
+-rwxr-xr-x 1 root root   8712 Aug 11 09:52 car.o
+-rw-r--r-- 1 root root 156109 Aug 11 14:32 car.png
+
+./161043003/Exercise-2/6:
+total 256
+-rwxr-xr-x 1 root root    376 Aug 11 09:32 aircraft.c
+-rwxr-xr-x 1 root root   8768 Aug 11 09:44 aircraft.o
+-rwxr-xr-x 1 root root 226980 Aug 11 09:47 aircraft.png
+
+./161043003/Exercise-2/7:
+total 216
+-rwxr-xr-x 1 root root    288 Aug 11 10:02 fact.c
+-rwxr-xr-x 1 root root   7085 Aug  9 16:12 fact.o
+-rwxr-xr-x 1 root root 190682 Aug 11 10:03 fact.png
+
+./161043003/Exercise-2/8:
+total 204
+-rwxr-xr-x 1 root root    198 Aug 11 10:30 sum.c
+-rwxr-xr-x 1 root root   7001 Aug  3 14:27 sum.o
+-rwxr-xr-x 1 root root 177879 Aug 11 10:31 sum.png
+
+./161043003/Exercise-2/9:
+total 232
+-rwxr-xr-x 1 root root    367 Aug 11 10:03 fib.c
+-rwxr-xr-x 1 root root   7219 Aug  3 14:35 fib.o
+-rwxr-xr-x 1 root root 204921 Aug 11 10:06 fib.png
+
+./161043003/Exercise-3:
+total 1136
+-rwxr-xr-x 1 root root   7627 Aug 11 14:21 a.out
+-rwxr-xr-x 1 root root    721 Aug  5 15:37 pgm1.c
+-rwxr-xr-x 1 root root    721 Aug  5 15:35 pgm1.c~
+-rwxr-xr-x 1 root root   7370 Aug  5 15:37 pgm1.o
+-rwxr-xr-x 1 root root 160986 Aug 11 10:51 pgm1.png
+-rwxr-xr-x 1 root root    373 Aug  5 16:05 pgm2.c
+-rwxr-xr-x 1 root root    373 Aug  5 16:05 pgm2.c~
+-rwxr-xr-x 1 root root   7186 Aug  5 15:40 pgm2.o
+-rwxr-xr-x 1 root root 182295 Aug 11 10:52 pgm2.png
+-rwxr-xr-x 1 root root    569 Aug  5 16:13 pgm3.c
+-rwxr-xr-x 1 root root    569 Aug  5 16:12 pgm3.c~
+-rwxr-xr-x 1 root root   7345 Aug  5 16:11 pgm3.o
+-rwxr-xr-x 1 root root 174061 Aug 11 10:53 pgm3.png
+-rwxr-xr-x 1 root root    687 Aug 11 10:58 pgm4.c
+-rwxr-xr-x 1 root root    734 Aug  5 16:24 pgm4.c~
+-rwxr-xr-x 1 root root   7421 Aug  5 16:15 pgm4.o
+-rwxr-xr-x 1 root root 178482 Aug 11 10:59 pgm4.png
+-rwxr-xr-x 1 root root    912 Aug 11 01:06 pgm5.c
+-rwxr-xr-x 1 root root    811 Aug  5 16:47 pgm5.c~
+-rwxr-xr-x 1 root root   7688 Aug 11 14:19 pgm5.o
+-rw-r--r-- 1 root root 105672 Aug 11 14:24 pgm5.png
+-rwxr-xr-x 1 root root   2090 Aug 11 13:34 pgm6.c
+-rwxr-xr-x 1 root root   9332 Aug 11 14:12 pgm6.o
+-rw-r--r-- 1 root root 113151 Aug 11 14:17 pgm6.png
+-rwxr-xr-x 1 root root    875 Aug  4  2015 stack.c
+
+./161043003/Exercise-4:
+total 2148
+-rwxr-xr-x 1 root root   9080 Aug 18 09:50 a.out
+-rwxr-xr-x 1 root root    461 Aug 17 09:25 array.c
+-rwxr-xr-x 1 root root    479 Aug  9 14:22 array.c~
+-rwxr-xr-x 1 root root   7291 Aug  9 14:19 array.o
+-rwxr-xr-x 1 root root  99063 Aug 17 09:31 array.png
+-rwxr-xr-x 1 root root    534 Aug 17 09:33 ascdes.c
+-rwxr-xr-x 1 root root    536 Aug  9 14:56 ascdes.c~
+-rwxr-xr-x 1 root root   7492 Aug  9 14:58 ascdes.o
+-rwxr-xr-x 1 root root 101097 Aug 17 09:35 ascdes.png
+-rwxr-xr-x 1 root root 200943 Aug 18 09:49 boost
+-rwxr-xr-x 1 root root   1575 Aug 17 09:51 boost.c
+-rwxr-xr-x 1 root root   1561 Aug 17 09:41 boost.c~
+-rwxr-xr-x 1 root root   8796 Aug  9 14:53 boost.o
+-rwxr-xr-x 1 root root  14763 Aug  7  2015 Exercise-4.docx
+-rwxr-xr-x 1 root root  84717 Aug  8 15:17 Exercise-4.pdf
+-rwxr-xr-x 1 root root    665 Aug 17 09:45 grade.c
+-rwxr-xr-x 1 root root    667 Aug  9 14:41 grade.c~
+-rwxr-xr-x 1 root root   7406 Aug  7 15:50 grade.o
+-rwxr-xr-x 1 root root  95991 Aug 17 09:46 grades.png
+-rwxr-xr-x 1 root root    426 Aug 17 09:48 maxnum.c
+-rwxr-xr-x 1 root root    426 Aug 17 09:47 maxnum.c~
+-rwxr-xr-x 1 root root   7093 Aug  9 15:04 maxnum.o
+-rwxr-xr-x 1 root root  93919 Aug 17 09:49 maxnum.png
+-rwxr-xr-x 1 root root    713 Aug 17 09:54 name.c
+-rwxr-xr-x 1 root root    711 Aug 17 09:53 name.c~
+-rwxr-xr-x 1 root root   7177 Aug  7 16:18 name.o
+-rwxr-xr-x 1 root root 103189 Aug 17 09:55 name.png
+-rwxr-xr-x 1 root root    359 Aug 17 09:56 palin.c
+-rwxr-xr-x 1 root root    363 Aug  9 15:09 palin.c~
+-rwxr-xr-x 1 root root   7197 Aug  9 15:07 palin.o
+-rwxr-xr-x 1 root root  96898 Aug 17 09:57 palin.png
+-rwxr-xr-x 1 root root    678 Aug  9 15:27 patt.c
+-rwxr-xr-x 1 root root   7299 Aug  7 16:18 patt.o
+-rwxr-xr-x 1 root root    678 Aug  9 15:28 pattoc.c
+-rwxr-xr-x 1 root root   7299 Aug  7 16:19 pattoc.o
+-rwxr-xr-x 1 root root 128245 Jan  2  2002 pattoc.png
+-rwxr-xr-x 1 root root 104506 Aug 17 10:00 patt.png
+-rwxr-xr-x 1 root root    822 Aug  7 16:17 Q10.c~
+-rwxr-xr-x 1 root root    683 Aug  7 18:47 Q11.c~
+-rwxr-xr-x 1 root root    716 Aug  7 16:19 Q12.c~
+-rwxr-xr-x 1 root root    493 Aug  7 15:22 Q1.c~
+-rwxr-xr-x 1 root root    714 Aug  7 15:50 Q2.c~
+-rwxr-xr-x 1 root root   1814 Aug  7 15:54 Q3.c~
+-rwxr-xr-x 1 root root    626 Aug  7 15:59 Q4.c~
+-rwxr-xr-x 1 root root    454 Aug  7 16:01 Q5.c~
+-rwxr-xr-x 1 root root    383 Aug  7 17:25 Q6.c~
+-rwxr-xr-x 1 root root    362 Aug  7 17:28 Q7.c~
+-rwxr-xr-x 1 root root    376 Aug  7 16:05 Q8.c~
+-rwxr-xr-x 1 root root   1354 Aug  7 16:14 Q9.c~
+-rwxr-xr-x 1 root root   1313 Jan  2  2002 string.c
+-rwxr-xr-x 1 root root   1303 Jan  2  2002 string.c~
+-rwxr-xr-x 1 root root   8298 Aug  7 16:15 string.o
+-rwxr-xr-x 1 root root 244731 Aug 18 09:52 string.png
+-rwxr-xr-x 1 root root    339 Aug  9 15:11 vowel.c
+-rwxr-xr-x 1 root root   7068 Aug  9 15:12 vowel.o
+-rwxr-xr-x 1 root root    337 Aug  9 15:20 voweloc.c
+-rwxr-xr-x 1 root root 129098 Jan  2  2002 voweloc.png
+-rwxr-xr-x 1 root root 128148 Jan  2  2002 vowel.png
+-rwxr-xr-x 1 root root   7030 Aug  9 15:16 vowloc.o
+
+./161043003/Exercise-5:
+total 16
+drwxr-xr-x 10 root root 4096 Aug 26 18:23 1
+drwxr-xr-x  8 root root 4096 Aug 26 18:25 2
+
+./161043003/Exercise-5/1:
+total 64
+drwxr-xr-x 2 root root 4096 Aug 26 09:43 clock
+drwxr-xr-x 2 root root 4096 Aug 26 09:59 clock2
+drwxr-xr-x 2 root root 4096 Aug 26 10:03 clock3
+drwxr-xr-x 2 root root 4096 Aug 26 18:24 coordinates
+drwxr-xr-x 2 root root 4096 Aug 26 18:23 cross
+drwxr-xr-x 2 root root 4096 Aug 26 18:24 parallel
+drwxr-xr-x 2 root root 4096 Aug 26 18:24 pointline
+drwxr-xr-x 2 root root 4096 Aug 26 18:24 rectangle
+
+./161043003/Exercise-5/1/clock:
+total 164
+-rwxr-xr-x 1 root root  8624 Aug 26 09:40 a.out
+-rwxr-xr-x 1 root root   699 Aug 17 18:49 clock-functions.c
+-rwxr-xr-x 1 root root   818 Aug 17 18:47 clock-functions.c~
+-rwxr-xr-x 1 root root   340 Aug 17 19:13 clock.h
+-rwxr-xr-x 1 root root   324 Aug 17 19:09 clock.h~
+-rwxr-xr-x 1 root root 92337 Aug 26 09:42 clock.png
+-rwxr-xr-x 1 root root   858 Aug 17 19:08 clock-spec.c
+-rwxr-xr-x 1 root root   931 Aug 17 19:08 clock-spec.c~
+
+./161043003/Exercise-5/1/clock2:
+total 152
+-rwxr-xr-x 1 root root  9194 Aug 26 09:45 a.out
+-rwxr-xr-x 1 root root  1263 Aug 17 19:29 clock2-functions.c
+-rwxr-xr-x 1 root root 87599 Aug 26 09:59 clock2.png
+-rwxr-xr-x 1 root root   930 Aug 17 19:28 clock2-spec.c
+-rwxr-xr-x 1 root root   340 Aug 17 19:20 clock.h
+-rwxr-xr-x 1 root root  1228 Aug 17 19:29 Q7clock-functions.c~
+-rwxr-xr-x 1 root root   930 Aug 17 19:21 Q7clock-spec.c~
+
+./161043003/Exercise-5/1/clock3:
+total 168
+-rwxr-xr-x 1 root root 10827 Aug 26 10:00 a.out
+-rwxr-xr-x 1 root root  1423 Aug 18 16:44 clock3-functions.c
+-rwxr-xr-x 1 root root  1780 Aug 18 16:40 clock3-spec.c
+-rwxr-xr-x 1 root root   548 Aug 18 16:00 clock.h
+-rwxr-xr-x 1 root root   543 Aug 18 15:49 clock.h~
+-rwxr-xr-x 1 root root  1423 Aug 18 16:41 Q8clock-functions.c~
+-rwxr-xr-x 1 root root  1778 Aug 18 16:40 Q8clock-spec.c~
+-rwxr-xr-x 1 root root 96935 Aug 26 10:03 Screenshot.png
+
+./161043003/Exercise-5/1/coordinates:
+total 176
+-rwxr-xr-x 1 root root   8215 Aug 26 17:45 a.out
+-rwxr-xr-x 1 root root    378 Aug 11 16:17 structPoint.c
+-rwxr-xr-x 1 root root    362 Aug 11 16:09 structPoint.c~
+-rwxr-xr-x 1 root root    209 Aug 11 16:17 structPoint.h
+-rwxr-xr-x 1 root root    214 Aug 11 16:10 structPoint.h~
+-rwxr-xr-x 1 root root 104547 Aug 26 17:46 structpoint.png
+-rwxr-xr-x 1 root root    968 Aug 11 16:21 structPoint-spec.c
+-rwxr-xr-x 1 root root    965 Aug 11 16:20 structPoint-spec.c~
+
+./161043003/Exercise-5/1/cross:
+total 196
+-rwxr-xr-x 1 root root   7983 Aug 26 17:47 a.out
+-rwxr-xr-x 1 root root    585 Aug 17 09:00 checkCross.c
+-rwxr-xr-x 1 root root    585 Aug 17 08:44 checkCross.c~
+-rwxr-xr-x 1 root root 119941 Aug 26 17:48 checkcross.png
+-rwxr-xr-x 1 root root    772 Aug 17 08:40 checkCross-spec.c
+-rwxr-xr-x 1 root root    782 Aug 17 08:40 checkCross-spec.c~
+-rwxr-xr-x 1 root root    588 Aug 12 09:56 checkParallel.c~
+-rwxr-xr-x 1 root root    219 Aug 17 08:40 PointLine.h
+-rwxr-xr-x 1 root root    219 Aug 11 16:38 PointLine.h~
+
+./161043003/Exercise-5/1/parallel:
+total 184
+-rwxr-xr-x 1 root root   7992 Aug 26 17:50 a.out
+-rwxr-xr-x 1 root root    588 Aug 12 09:56 checkParallel.c
+-rwxr-xr-x 1 root root    588 Aug 12 09:56 checkParallel.c~
+-rwxr-xr-x 1 root root    785 Aug 12 09:53 checkParallel-spec.c
+-rwxr-xr-x 1 root root    781 Aug 12 09:50 checkParallel-spec.c~
+-rwxr-xr-x 1 root root 123629 Aug 26 17:52 parallel.png
+-rwxr-xr-x 1 root root    219 Aug 11 16:38 PointLine.h
+
+./161043003/Exercise-5/1/pointline:
+total 208
+-rwxr-xr-x 1 root root   7856 Aug 26 17:54 a.out
+-rwxr-xr-x 1 root root    213 Aug 11 16:30 Point.h~
+-rwxr-xr-x 1 root root    251 Aug 11 16:45 PointLine.c
+-rwxr-xr-x 1 root root    152 Aug 11 16:38 PointLine.c~
+-rwxr-xr-x 1 root root    219 Aug 11 16:38 PointLine.h
+-rwxr-xr-x 1 root root    219 Aug 11 16:38 PointLine.h~
+-rwxr-xr-x 1 root root 132081 Aug 26 17:56 PointLine.png
+-rwxr-xr-x 1 root root    644 Aug 11 16:48 PointLine-spec.c
+-rwxr-xr-x 1 root root    645 Aug 11 16:48 PointLine-spec.c~
+
+./161043003/Exercise-5/1/rectangle:
+total 200
+-rwxr-xr-x 1 root root   9665 Aug 26 17:59 a.out
+-rwxr-xr-x 1 root root   1840 Aug 17 16:50 Rectangle-functions.c
+-rwxr-xr-x 1 root root   1840 Aug 17 16:50 Rectangle-functions.c~
+-rwxr-xr-x 1 root root    618 Aug 17 16:51 Rectangle.h
+-rwxr-xr-x 1 root root    617 Aug 17 16:51 Rectangle.h~
+-rwxr-xr-x 1 root root 130805 Aug 26 18:02 Rectangle.png
+-rwxr-xr-x 1 root root    289 Aug 17 16:53 Rectangle-spec.c
+-rwxr-xr-x 1 root root    289 Aug 17 16:53 Rectangle-spec.c~
+
+./161043003/Exercise-5/2:
+total 48
+drwxr-xr-x 2 root root 4096 Aug 26 18:18 Name
+drwxr-xr-x 2 root root 4096 Aug 26 18:11 String Compare
+drwxr-xr-x 2 root root 4096 Aug 26 18:13 String copy
+drwxr-xr-x 2 root root 4096 Aug 26 18:15 String Length
+drwxr-xr-x 2 root root 4096 Aug 26 07:56 String Reverse
+drwxr-xr-x 2 root root 4096 Aug 26 07:56 Student Details
+
+./161043003/Exercise-5/2/Name:
+total 152
+-rwxr-xr-x 1 root root   7723 Aug 26 18:17 a.out
+-rwxr-xr-x 1 root root 100190 Aug 26 18:17 Name.png
+-rwxr-xr-x 1 root root    258 Aug 19 09:22 NamePointers.c
+-rwxr-xr-x 1 root root    258 Aug 19 09:19 NamePointers.c~
+-rwxr-xr-x 1 root root    378 Aug 19 09:22 NamePointers-Functions.c
+-rwxr-xr-x 1 root root    374 Aug 19 09:22 NamePointers-Functions.c~
+
+./161043003/Exercise-5/2/String Compare:
+total 168
+-rwxr-xr-x 1 root root   7511 Aug 26 18:10 a.out
+-rwxr-xr-x 1 root root    349 Aug 19 09:01 StrCmpPointer.c
+-rwxr-xr-x 1 root root    348 Aug 19 09:00 StrCmpPointer.c~
+-rwxr-xr-x 1 root root    214 Aug 19 08:55 StrCmpPointer-Functions.c
+-rwxr-xr-x 1 root root    214 Aug 19 08:54 StrCmpPointer-Functions.c~
+-rwxr-xr-x 1 root root 118110 Aug 26 18:11 Stringcmp.png
+
+./161043003/Exercise-5/2/String copy:
+total 152
+-rwxr-xr-x 1 root root  7501 Aug 26 18:12 a.out
+-rwxr-xr-x 1 root root 99454 Aug 26 18:13 Copy.png
+-rwxr-xr-x 1 root root   234 Aug 18 18:24 StrCopyPointer.c
+-rwxr-xr-x 1 root root   234 Aug 18 18:19 StrCopyPointer.c~
+-rwxr-xr-x 1 root root   164 Aug 18 18:23 StrCopyPointer-functions.c
+-rwxr-xr-x 1 root root   164 Aug 18 18:22 StrCopyPointer-functions.c~
+
+./161043003/Exercise-5/2/String Length:
+total 148
+-rwxr-xr-x 1 root root  7474 Aug 26 18:14 a.out
+-rwxr-xr-x 1 root root 97707 Aug 26 18:14 Length.png
+-rwxr-xr-x 1 root root   238 Aug 18 19:21 StrLenPointer.c
+-rwxr-xr-x 1 root root   243 Aug 18 19:20 StrLenPointer.c~
+-rwxr-xr-x 1 root root   124 Aug 18 19:20 StrLenPointer-functions.c
+-rwxr-xr-x 1 root root   124 Aug 18 19:20 StrLenPointer-functions.c~
+
+./161043003/Exercise-5/2/String Reverse:
+total 48
+-rwxr-xr-x 1 root root 8837 Aug 19 08:50 a.out
+-rwxr-xr-x 1 root root  202 Aug 19 08:51 StrRevPointer.c
+-rwxr-xr-x 1 root root  202 Aug 19 08:47 StrRevPointer.c~
+-rwxr-xr-x 1 root root  365 Aug 19 08:49 StrRevPointer-Functions.c
+-rwxr-xr-x 1 root root  357 Aug 19 08:47 StrRevPointer-Functions.c~
+
+./161043003/Exercise-5/2/Student Details:
+total 76
+-rwxr-xr-x 1 root root 13534 Aug 19 17:55 a.out
+-rwxr-xr-x 1 root root   709 Aug 19 18:09 studentDetails.c
+-rwxr-xr-x 1 root root   743 Aug 19 18:05 studentDetails.c~
+-rwxr-xr-x 1 root root  1804 Aug 19 19:08 studentDetails-Functions.c
+-rwxr-xr-x 1 root root  1804 Aug 19 18:13 studentDetails-Functions.c~
+-rwxr-xr-x 1 root root   306 Aug 19 18:03 studentDetails.h
+-rwxr-xr-x 1 root root   303 Aug 19 17:38 studentDetails.h~
+-rwxr-xr-x 1 root root   215 Aug 19 17:51 studentDetails.txt
+
+./161043003/Exercise-6:
+total 44
+drwxr-xr-x 2 root root 4096 Sep  2 09:45 Copyfile
+drwxr-xr-x 2 root root 4096 Sep  2 10:07 Count
+drwxr-xr-x 2 root root 4096 Sep  2 09:38 Display
+-rw-r--r-- 1 root root  299 Sep  2 09:33 display.c~
+drwxr-xr-x 2 root root 4096 Sep  2 10:50 Odd or Even
+-rw-r--r-- 1 root root    0 Sep  2 09:34 text.txt~
+
+./161043003/Exercise-6/Copyfile:
+total 180
+-rwxr-xr-x 1 root root   7348 Sep  2 09:43 a.out
+-rwxr-xr-x 1 root root    303 Aug 25 09:57 copyfile.c
+-rwxr-xr-x 1 root root   7348 Sep  2 09:44 copyfile.o
+-rw-r--r-- 1 root root 107706 Sep  2 09:44 copyfile.png
+-rwxr-xr-x 1 root root     85 Sep  2 09:42 sample.txt
+-rw-r--r-- 1 root root      7 Aug 25 09:44 sample.txt~
+-rwxr-xr-x 1 root root     85 Sep  2 09:44 target.txt
+-rw-r--r-- 1 root root      7 Sep  2 09:41 target.txt~
+
+./161043003/Exercise-6/Count:
+total 56
+-rwxr-xr-x 1 root root 7812 Sep  2 10:06 a.out
+-rw-r--r-- 1 root root  728 Sep  2 10:06 count.c
+-rw-r--r-- 1 root root  836 Sep  2 10:02 count.c~
+-rwxr-xr-x 1 root root 7812 Sep  2 10:06 count.o
+-rw-r--r-- 1 root root   28 Sep  2 10:07 text.txt
+-rw-r--r-- 1 root root   20 Sep  2 10:04 text.txt~
+
+./161043003/Exercise-6/Display:
+total 144
+-rwxr-xr-x 1 root root  7724 Sep  2 09:35 a.out
+-rw-r--r-- 1 root root   299 Sep  2 09:35 display.c
+-rwxr-xr-x 1 root root  7724 Sep  2 09:35 display.o
+-rw-r--r-- 1 root root 95094 Sep  2 09:36 display.png
+-rw-r--r-- 1 root root     7 Sep  2 09:34 text.txt
+
+./161043003/Exercise-6/Odd or Even:
+total 100
+-rwxr-xr-x 1 root root 8291 Sep  2 10:50 a.out
+-rw-r--r-- 1 root root    0 Sep  2 10:13 DATA~
+-rw-r--r-- 1 root root    0 Sep  2 10:20 even
+-rw-r--r-- 1 root root    9 Sep  2 10:23 even1.txt
+-rw-r--r-- 1 root root    0 Sep  2 10:50 even.txt
+-rw-r--r-- 1 root root    0 Sep  2 10:20 num
+-rw-r--r-- 1 root root    0 Sep  2 10:50 num.txt
+-rw-r--r-- 1 root root    0 Sep  2 10:20 odd
+-rw-r--r-- 1 root root    0 Sep  2 10:16 ODD
+-rw-r--r-- 1 root root    6 Sep  2 10:23 odd1.txt
+-rw-r--r-- 1 root root  870 Sep  2 10:22 odd.c~
+-rw-r--r-- 1 root root  870 Sep  2 10:50 oddoreven.c
+-rw-r--r-- 1 root root  859 Sep  2 10:25 oddoreven.c~
+-rwxr-xr-x 1 root root 8042 Sep  2 10:13 oddoreven.o
+-rw-r--r-- 1 root root    0 Sep  2 10:50 odd.txt
+
+./2:
+total 60
+drwxr-xr-x 2 root root 4096 Aug 18 18:25 Q1
+drwxr-xr-x 2 root root 4096 Aug 19 08:40 Q2
+drwxr-xr-x 2 root root 4096 Aug 19 08:51 Q3
+drwxr-xr-x 2 root root 4096 Aug 19 09:02 Q4
+drwxr-xr-x 2 root root 4096 Aug 19 09:25 Q5
+drwxr-xr-x 2 root root 4096 Aug 19 19:08 Q6
+-rwxr-xr-x 1 root root 5055 Aug 19 16:45 Q6.zip
+
+./2/Q1:
+total 116
+-rwxr-xr-x 1 root root 11609 Aug 18 18:22 a.out
+-rwxr-xr-x 1 root root 11609 Aug 18 18:25 Q1.out
+-rwxr-xr-x 1 root root 46170 Aug 18 18:25 Q1_screen.png
+-rwxr-xr-x 1 root root   234 Aug 18 18:24 StrCopyPointer.c
+-rwxr-xr-x 1 root root   234 Aug 18 18:19 StrCopyPointer.c~
+-rwxr-xr-x 1 root root   164 Aug 18 18:23 StrCopyPointer-functions.c
+-rwxr-xr-x 1 root root   164 Aug 18 18:22 StrCopyPointer-functions.c~
+
+./2/Q2:
+total 96
+-rwxr-xr-x 1 root root  8806 Aug 18 19:21 Q2.out
+-rwxr-xr-x 1 root root 44462 Aug 18 19:21 Q2_screen.png
+-rwxr-xr-x 1 root root   238 Aug 18 19:21 StrLenPointer.c
+-rwxr-xr-x 1 root root   243 Aug 18 19:20 StrLenPointer.c~
+-rwxr-xr-x 1 root root   124 Aug 18 19:20 StrLenPointer-functions.c
+-rwxr-xr-x 1 root root   124 Aug 18 19:20 StrLenPointer-functions.c~
+
+./2/Q3:
+total 48
+-rwxr-xr-x 1 root root 8837 Aug 19 08:50 a.out
+-rwxr-xr-x 1 root root  202 Aug 19 08:51 StrRevPointer.c
+-rwxr-xr-x 1 root root  202 Aug 19 08:47 StrRevPointer.c~
+-rwxr-xr-x 1 root root  365 Aug 19 08:49 StrRevPointer-Functions.c
+-rwxr-xr-x 1 root root  357 Aug 19 08:47 StrRevPointer-Functions.c~
+
+./2/Q4:
+total 140
+-rwxr-xr-x 1 root root  8755 Aug 19 09:01 a.out
+-rwxr-xr-x 1 root root  8755 Aug 19 09:01 Q4.out
+-rwxr-xr-x 1 root root 67985 Aug 19 09:02 Q4_screen.png
+-rwxr-xr-x 1 root root   349 Aug 19 09:01 StrCmpPointer.c
+-rwxr-xr-x 1 root root   348 Aug 19 09:00 StrCmpPointer.c~
+-rwxr-xr-x 1 root root   214 Aug 19 08:55 StrCmpPointer-Functions.c
+-rwxr-xr-x 1 root root   214 Aug 19 08:54 StrCmpPointer-Functions.c~
+
+./2/Q5:
+total 128
+-rwxr-xr-x 1 root root   258 Aug 19 09:22 NamePointers.c
+-rwxr-xr-x 1 root root   258 Aug 19 09:19 NamePointers.c~
+-rwxr-xr-x 1 root root   378 Aug 19 09:22 NamePointers-Functions.c
+-rwxr-xr-x 1 root root   374 Aug 19 09:22 NamePointers-Functions.c~
+-rwxr-xr-x 1 root root  8807 Aug 19 09:24 Q5.out
+-rwxr-xr-x 1 root root 69986 Aug 19 09:25 Q5_screen.png
+
+./2/Q6:
+total 76
+-rwxr-xr-x 1 root root 13534 Aug 19 17:55 a.out
+-rwxr-xr-x 1 root root   709 Aug 19 18:09 studentDetails.c
+-rwxr-xr-x 1 root root   743 Aug 19 18:05 studentDetails.c~
+-rwxr-xr-x 1 root root  1804 Aug 19 19:08 studentDetails-Functions.c
+-rwxr-xr-x 1 root root  1804 Aug 19 18:13 studentDetails-Functions.c~
+-rwxr-xr-x 1 root root   306 Aug 19 18:03 studentDetails.h
+-rwxr-xr-x 1 root root   303 Aug 19 17:38 studentDetails.h~
+-rwxr-xr-x 1 root root   215 Aug 19 17:51 studentDetails.txt
+
+./akshay-161043006:
+total 24
+drwxr-xr-x 2 root root 4096 Aug 12 04:16 Exercise-1
+drwxr-xr-x 2 root root 4096 Aug 12 05:25 Exercise-2
+drwxr-xr-x 2 root root 4096 Aug 11 14:10 Exercise-3
+
+./akshay-161043006/Exercise-1:
+total 2868
+-rwxr-xr-x 1 root root   8864 Aug 12 04:15 a.out
+-rwxr-xr-x 1 root root    191 Aug  9 12:19 pgm1.c
+-rwxr-xr-x 1 root root    191 Aug  9 12:18 pgm1.c~
+-rwxr-xr-x 1 root root   8720 Aug 12 04:05 pgm1.o
+-rwxr-xr-x 1 root root 457303 Aug 12 04:06 pgm1.png
+-rwxr-xr-x 1 root root   8776 Aug 12 04:08 pgm21.o
+-rwxr-xr-x 1 root root    482 Aug  9 12:19 pgm2.c
+-rwxr-xr-x 1 root root    482 Aug  2 15:37 pgm2.c~
+-rwxr-xr-x 1 root root   8776 Aug 12 04:09 pgm2.o
+-rwxr-xr-x 1 root root 374880 Aug 12 04:09 pgm2 .png
+-rwxr-xr-x 1 root root    316 Aug  9 12:23 pgm3.c
+-rwxr-xr-x 1 root root    316 Aug  2 16:37 pgm3.c~
+-rwxr-xr-x 1 root root   8824 Aug 12 04:10 pgm3.o
+-rwxr-xr-x 1 root root 353796 Aug 12 04:11 pgm3.png
+-rwxr-xr-x 1 root root    433 Aug  2 15:50 pgm4.c
+-rwxr-xr-x 1 root root    433 Aug  2 15:49 pgm4.c~
+-rwxr-xr-x 1 root root   8776 Aug 12 04:12 pgm4.o
+-rwxr-xr-x 1 root root 359528 Aug 12 04:12 pgm4.png
+-rwxr-xr-x 1 root root    484 Aug  9 12:40 pgm5.c
+-rwxr-xr-x 1 root root    484 Aug  2 16:03 pgm5.c~
+-rwxr-xr-x 1 root root   8776 Aug 12 04:13 pgm5.o
+-rwxr-xr-x 1 root root 345396 Aug 12 04:13 pgm5 .png
+-rwxr-xr-x 1 root root    298 Aug  9 12:45 pgm6.c
+-rwxr-xr-x 1 root root    296 Aug  9 12:42 pgm6.c~
+-rwxr-xr-x 1 root root   8720 Aug 12 04:14 pgm6.o
+-rwxr-xr-x 1 root root 341973 Aug 12 04:14 pgm6.png
+-rwxr-xr-x 1 root root    706 Aug  9 12:47 pgm7.c
+-rwxr-xr-x 1 root root    706 Aug  3 11:51 pgm7.c~
+-rwxr-xr-x 1 root root   8864 Aug 12 04:15 pgm7.o
+-rwxr-xr-x 1 root root 343814 Aug 12 04:15 pgm 7 .png
+-rwxr-xr-x 1 root root    299 Aug  9 12:50 pgm8.c
+-rwxr-xr-x 1 root root    299 Aug  3 10:24 pgm8.c~
+-rwxr-xr-x 1 root root   7293 Aug  9 12:51 pgm8.o
+
+./akshay-161043006/Exercise-2:
+total 3676
+-rwxr-xr-x 1 root root    391 Aug 12 04:33 aircraftland.c
+-rwxr-xr-x 1 root root    377 Aug  3 12:07 aircraftland.c~
+-rwxr-xr-x 1 root root   8776 Aug 12 04:34 aircraftland.o
+-rwxr-xr-x 1 root root 127600 Aug 12 04:34 aircraftland.png
+-rwxr-xr-x 1 root root    183 Aug 12 04:40 alpcase.c
+-rwxr-xr-x 1 root root    167 Aug  9 15:32 alpcase.c~
+-rwxr-xr-x 1 root root   8728 Aug 12 04:44 alpcase.o
+-rwxr-xr-x 1 root root 216815 Aug 12 04:44 alpcase.png
+-rwxr-xr-x 1 root root   8728 Aug 12 05:22 a.out
+-rwxr-xr-x 1 root root    258 Aug 10 13:34 bintodec.c
+-rwxr-xr-x 1 root root    256 Aug  9 15:31 bintodec.c~
+-rwxr-xr-x 1 root root   8776 Aug 12 04:49 bintodec.o
+-rwxr-xr-x 1 root root 178184 Aug 12 04:50 bintodec.png
+-rwxr-xr-x 1 root root    463 Aug  9 15:32 car.c~
+-rwxr-xr-x 1 root root    478 Aug 10 12:56 carvelocity.c
+-rwxr-xr-x 1 root root   8728 Aug 12 04:54 carvelocity.o
+-rwxr-xr-x 1 root root 255536 Aug 12 04:55 carvelocity.png
+-rwxr-xr-x 1 root root    346 Aug 10 13:36 dectobin.c
+-rwxr-xr-x 1 root root    346 Aug  3 15:37 dectobin.c~
+-rwxr-xr-x 1 root root   8832 Aug 12 04:57 dectobin.o
+-rwxr-xr-x 1 root root    966 Aug  9 16:04 dectorom.c
+-rwxr-xr-x 1 root root   8832 Aug 12 04:58 dectorom.o
+-rwxr-xr-x 1 root root 258692 Aug 12 04:59 dectorom.png
+-rwxr-xr-x 1 root root    285 Aug 10 13:15 factser.c
+-rwxr-xr-x 1 root root    288 Aug 10 13:15 factser.c~
+-rwxr-xr-x 1 root root   8760 Aug 12 05:00 factser.o
+-rwxr-xr-x 1 root root 236985 Aug 12 05:00 factser.png
+-rwxr-xr-x 1 root root   7379 Aug 10 13:28 fibnicic.o
+-rwxr-xr-x 1 root root    356 Aug 10 13:27 fibnocic.c
+-rwxr-xr-x 1 root root    365 Aug 10 13:26 fibnocic.c~
+-rwxr-xr-x 1 root root   8776 Aug 12 05:03 fibnocic.o
+-rwxr-xr-x 1 root root 234569 Aug 12 05:04 fibnocic.png
+-rwxr-xr-x 1 root root    276 Aug 10 00:09 joultokilo.c
+-rwxr-xr-x 1 root root    276 Aug 10 00:05 joultokilo.c~
+-rwxr-xr-x 1 root root   8776 Aug 12 05:05 joultokilo.o
+-rwxr-xr-x 1 root root 245500 Aug 12 05:06 joultokilo.png
+-rwxr-xr-x 1 root root    189 Aug 10 12:45 kmperhour.c
+-rwxr-xr-x 1 root root      0 Aug 10 13:04 kmperhour.cclear
+-rwxr-xr-x 1 root root   8728 Aug 12 05:07 kmperhour.o
+-rwxr-xr-x 1 root root 226707 Aug 12 05:08 kmperhour.png
+-rwxr-xr-x 1 root root    318 Aug  9 14:42 leap.c~
+-rwxr-xr-x 1 root root    318 Aug 10 00:00 leapyr.c
+-rwxr-xr-x 1 root root   8728 Aug 12 05:09 leapyr.o
+-rwxr-xr-x 1 root root    273 Aug 12 05:10 luminous.c
+-rwxr-xr-x 1 root root    314 Aug 10 12:39 luminous.c~
+-rwxr-xr-x 1 root root   8776 Aug 12 05:11 luminous.o
+-rwxr-xr-x 1 root root 163408 Aug 12 05:11 luminous.png
+-rwxr-xr-x 1 root root    340 Aug  3 15:45 palindrome.c
+-rwxr-xr-x 1 root root   8776 Aug 12 05:13 palindrome.o
+-rwxr-xr-x 1 root root 234352 Aug 12 05:14 palindrome.png
+-rwxr-xr-x 1 root root    578 Aug 10 13:49 pattern.c
+-rwxr-xr-x 1 root root    578 Aug  5 13:42 pattern.c~
+-rwxr-xr-x 1 root root   8768 Aug 12 05:16 pattern.o
+-rwxr-xr-x 1 root root 269428 Aug 12 05:17 pattern.png
+-rwxr-xr-x 1 root root    247 Aug 10 13:47 pow.c
+-rwxr-xr-x 1 root root    247 Aug 10 13:47 pow.c~
+-rwxr-xr-x 1 root root 251418 Aug 12 05:20 pow.png
+-rwxr-xr-x 1 root root    203 Aug 10 13:21 sumdig.c
+-rwxr-xr-x 1 root root    203 Aug 10 13:21 sumdig.c~
+-rwxr-xr-x 1 root root   8728 Aug 12 05:22 sumdig.o
+-rwxr-xr-x 1 root root 199664 Aug 12 05:22 sum of dig.png
+-rwxr-xr-x 1 root root    216 Aug  3 11:32 velocity.c~
+
+./akshay-161043006/Exercise-3:
+total 1712
+-rwxr-xr-x 1 root root   9332 Aug 11 14:04 a.out
+-rwxr-xr-x 1 root root    763 Aug  4 14:12 pgm1.c
+-rwxr-xr-x 1 root root    721 Aug 11 00:04 pgm1.c~
+-rwxr-xr-x 1 root root   7386 Aug 11 12:59 pgm1.o
+-rw-r--r-- 1 root root 594935 Aug 11 12:59 pgm1.png
+-rwxr-xr-x 1 root root    373 Aug 11 00:14 pgm2.c
+-rwxr-xr-x 1 root root    373 Aug  5 16:05 pgm2.c~
+-rwxr-xr-x 1 root root   7218 Aug 11 13:01 pgm2.o
+-rw-r--r-- 1 root root 136043 Aug 11 13:02 pgm2.png
+-rwxr-xr-x 1 root root    548 Aug 11 00:24 pgm3.c
+-rwxr-xr-x 1 root root    548 Aug 11 00:24 pgm3.c~
+-rwxr-xr-x 1 root root   7337 Aug 11 13:04 pgm3.o
+-rw-r--r-- 1 root root 133175 Aug 11 13:04 pgm3.png
+-rwxr-xr-x 1 root root    734 Aug 11 00:33 pgm4.c
+-rwxr-xr-x 1 root root    734 Aug 11 00:33 pgm4.c~
+-rwxr-xr-x 1 root root   7437 Aug 11 13:07 pgm4.o
+-rw-r--r-- 1 root root 155121 Aug 11 13:07 pgm4.png
+-rwxr-xr-x 1 root root    912 Aug 11 01:06 pgm5.c
+-rwxr-xr-x 1 root root    853 Aug  4 16:31 pgm5.c~
+-rwxr-xr-x 1 root root   7627 Aug 11 13:19 pgm5.o
+-rw-r--r-- 1 root root 138879 Aug 11 13:19 pgm5.png
+-rwxr-xr-x 1 root root   2090 Aug 11 13:34 pgm6.c
+-rw-r--r-- 1 root root   1912 Aug 11 13:31 pgm6.c~
+-rwxr-xr-x 1 root root   9332 Aug 11 14:09 pgm6.o
+-rw-r--r-- 1 root root 152109 Aug 11 14:09 pgm6.png
+-rwxr-xr-x 1 root root   1013 Aug 11 13:46 stack.c
+-rw-r--r-- 1 root root    875 Aug  4  2015 stack.c~
+-rwxr-xr-x 1 root root   7998 Aug 11 13:47 stack.o
+-rw-r--r-- 1 root root 150668 Aug 11 13:51 stack.png
+
+./Ayan:
+total 768
+-rwxr-xr-x 1 root root  429 Aug  3 10:42 abs.c~
+-rwxr-xr-x 1 root root  429 Aug  3 10:47 absolute.c~
+-rwxr-xr-x 1 root root  430 Aug  3 11:11 absolute_test.c
+-rwxr-xr-x 1 root root  429 Aug  3 11:10 absolute_test.c~
+-rwxr-xr-x 1 root root 6988 Aug  3 11:12 absolute_test.o
+-rwxr-xr-x 1 root root 6841 Aug  9 15:29 a.out
+-rwxr-xr-x 1 root root  419 Aug  3 15:06 assert.c
+-rwxr-xr-x 1 root root  419 Aug  3 15:06 assert.c~
+-rwxr-xr-x 1 root root  445 Aug  3 15:48 assert_isdigit.c
+-rwxr-xr-x 1 root root  445 Aug  3 15:48 assert_isdigit.c~
+-rwxr-xr-x 1 root root 7285 Aug  3 15:49 assert_isdigit.o
+-rwxr-xr-x 1 root root 6564 Aug  3 15:06 assert.o
+-rwxr-xr-x 1 root root  245 Aug  5 11:54 case_alphabet.c
+-rwxr-xr-x 1 root root  245 Aug  5 11:54 case_alphabet.c~
+-rwxr-xr-x 1 root root 6951 Aug  5 11:54 case_alphabet.o
+-rwxr-xr-x 1 root root  330 Aug  2 15:18 decimaltobinary.c
+-rwxr-xr-x 1 root root  331 Aug  2 15:08 decimaltobinary.c~
+-rwxr-xr-x 1 root root 7118 Aug  2 15:19 decimaltobinary.o
+-rwxr-xr-x 1 root root  690 Aug  3 11:52 dtobmask.c
+-rwxr-xr-x 1 root root  690 Aug  3 11:52 dtobmask.c~
+drwxr-xr-x 2 root root 4096 Aug 10 13:42 Exercise-1
+drwxr-xr-x 3 root root 4096 Aug  9 15:58 Exercise-2
+drwxr-xr-x 2 root root 4096 Aug 10 20:10 Exercise-3
+drwxr-xr-x 2 root root 4096 Aug  7 16:19 Exercise 4
+drwxr-xr-x 9 root root 4096 Aug  4 11:47 Fast-Track-C
+-rwxr-xr-x 1 root root  376 Aug  5 16:17 fibonacci1.c
+-rwxr-xr-x 1 root root  376 Aug  5 16:17 fibonacci1.c~
+-rwxr-xr-x 1 root root 6922 Aug  5 16:13 fibonacci1.o
+-rwxr-xr-x 1 root root  431 Aug  2 15:45 fibonacciseries.c
+-rwxr-xr-x 1 root root  431 Aug  2 15:45 fibonacciseries.c~
+-rwxr-xr-x 1 root root 6977 Aug  2 15:46 fibonacciseries.o
+-rwxr-xr-x 1 root root  194 Aug  3 15:42 hours_to_mins.c
+-rwxr-xr-x 1 root root  194 Aug  3 15:42 hours_to_mins.c~
+-rwxr-xr-x 1 root root 6895 Aug  3 15:42 hours_to_mins.o
+-rwxr-xr-x 1 root root  346 Aug  2 10:37 largestof3numbers
+-rwxr-xr-x 1 root root   19 Aug  2 10:29 largestof3numbers~
+-rwxr-xr-x 1 root root  346 Aug  2 10:39 largestof3numbers.c
+-rwxr-xr-x 1 root root 6623 Aug  2 10:40 largestof3numbers.o
+-rwxr-xr-x 1 root root  365 Aug  5 15:31 leapyear.c
+-rwxr-xr-x 1 root root  365 Aug  5 15:31 leapyear.c~
+-rwxr-xr-x 1 root root 7034 Aug  5 15:31 leapyear.o
+-rwxr-xr-x 1 root root  251 Aug  2 16:56 mintohour.c
+-rwxr-xr-x 1 root root  251 Aug  2 16:55 mintohour.c~
+-rwxr-xr-x 1 root root 6995 Aug  2 16:56 mintohour.o
+-rwxr-xr-x 1 root root  153 Aug  2 14:46 nrbd.c
+-rwxr-xr-x 1 root root  141 Aug  2 14:43 nrbd.c~
+-rwxr-xr-x 1 root root 6560 Aug  2 14:46 nrbd.o
+-rwxr-xr-x 1 root root  498 Aug  5 14:18 palindrome.c
+-rwxr-xr-x 1 root root  500 Aug  5 14:13 palindrome.c~
+-rwxr-xr-x 1 root root 7028 Aug  5 14:20 palindrome.o
+-rwxr-xr-x 1 root root  307 Aug  4 12:09 parallel_resistance.c
+-rwxr-xr-x 1 root root  307 Aug  4 12:09 parallel_resistance.c~
+-rwxr-xr-x 1 root root 6965 Aug  4 12:11 parallel_resistance.o
+-rwxr-xr-x 1 root root  689 Aug  3 11:55 pgm7.c
+-rwxr-xr-x 1 root root  689 Aug  3 11:55 pgm7.c~
+-rwxr-xr-x 1 root root 7258 Aug  3 11:55 pgm7.o
+-rwxr-xr-x 1 root root  628 Aug  9 14:38 pgmc1.c
+-rwxr-xr-x 1 root root  628 Aug  9 14:38 pgmc1.c~
+-rwxr-xr-x 1 root root 7212 Aug  9 14:38 pgmc1.o
+-rwxr-xr-x 1 root root  337 Aug  9 14:52 pgmc2.c
+-rwxr-xr-x 1 root root  343 Aug  9 14:49 pgmc2.c~
+-rwxr-xr-x 1 root root 6980 Aug  9 14:52 pgmc2.o
+-rwxr-xr-x 1 root root  247 Aug  9 15:29 power_m^n.c
+-rwxr-xr-x 1 root root  247 Aug  9 15:29 power_m^n.c~
+-rwxr-xr-x 1 root root 6841 Aug  9 15:30 power_m^n.o
+-rwxr-xr-x 1 root root  125 Aug  6 10:33 prefixtion.c
+-rwxr-xr-x 1 root root  126 Aug  6 10:32 prefixtion.c~
+-rwxr-xr-x 1 root root 6544 Aug  6 10:34 prefixtion.o
+-rwxr-xr-x 1 root root  230 Aug  2 11:34 primenumber.c~
+-rwxr-xr-x 1 root root  227 Aug  2 11:42 primenumberornot.c
+-rwxr-xr-x 1 root root    0 Aug  2 11:42 primenumberornot.c~
+-rwxr-xr-x 1 root root 6816 Aug  2 16:07 primenumberornot.o
+-rwxr-xr-x 1 root root  166 Aug  6 10:37 product_of_elements.c
+-rwxr-xr-x 1 root root  166 Aug  6 10:37 product_of_elements.c~
+-rwxr-xr-x 1 root root 6681 Aug  6 10:37 product_of_elements.o
+-rwxr-xr-x 1 root root  381 Aug  5 10:59 series.c
+-rwxr-xr-x 1 root root  381 Aug  5 10:52 series.c~
+-rwxr-xr-x 1 root root 6976 Aug  5 11:00 series.o
+-rwxr-xr-x 1 root root  309 Aug  5 15:38 sum_digits_number.c
+-rwxr-xr-x 1 root root  309 Aug  5 15:38 sum_digits_number.c~
+-rwxr-xr-x 1 root root 6939 Aug  5 15:38 sum_digits_number.o
+-rwxr-xr-x 1 root root  132 Aug  2 11:00 volumeofacylinder~
+-rwxr-xr-x 1 root root  132 Aug  2 11:00 volumeofacylinder.c
+-rwxr-xr-x 1 root root 6559 Aug  2 11:03 volumeofacylinder.o
+
+./Ayan/Exercise-1:
+total 128
+-rwxr-xr-x 1 root root 6706 Aug 10 13:42 a.out
+-rwxr-xr-x 1 root root  190 Aug 10 13:42 pgm1.c
+-rwxr-xr-x 1 root root  188 Aug 10 13:42 pgm1.c~
+-rwxr-xr-x 1 root root 6706 Aug 10 13:42 pgm1.o
+-rwxr-xr-x 1 root root  477 Aug 10 13:42 pgm2.c
+-rwxr-xr-x 1 root root  481 Aug 10 13:42 pgm2.c~
+-rwxr-xr-x 1 root root  332 Aug 10 13:42 pgm3.c
+-rwxr-xr-x 1 root root  416 Aug 10 13:42 pgm4.c
+-rwxr-xr-x 1 root root  429 Aug 10 13:42 pgm5.c
+-rwxr-xr-x 1 root root  296 Aug 10 13:42 pgm6.c
+-rwxr-xr-x 1 root root  294 Aug 10 13:42 pgm6.c~
+-rwxr-xr-x 1 root root  666 Aug 10 13:42 pgm7.c
+-rwxr-xr-x 1 root root  298 Aug 10 13:42 pgm8.c
+-rwxr-xr-x 1 root root  298 Aug 10 13:42 pgm8.c~
+-rwxr-xr-x 1 root root  147 Aug 10 13:42 README.txt
+
+./Ayan/Exercise-2:
+total 444
+-rwxr-xr-x 1 root root 7514 Aug  9 15:52 a.out
+-rwxr-xr-x 1 root root 2233 Aug  3 09:38 Exercise 2.txt
+-rwxr-xr-x 1 root root 2234 Aug  3 09:38 Exercise 2.txt~
+-rwxr-xr-x 1 root root  171 Aug  3 14:47 Q10.c
+-rwxr-xr-x 1 root root  170 Aug  3 14:47 Q10.c~
+-rwxr-xr-x 1 root root 6930 Aug  3 14:47 Q10.o
+-rwxr-xr-x 1 root root  262 Aug  3 15:03 Q11.c
+-rwxr-xr-x 1 root root  225 Aug  3 15:03 Q11.c~
+-rwxr-xr-x 1 root root 7323 Aug  3 15:03 Q11.o
+-rwxr-xr-x 1 root root  346 Aug  3 15:37 Q12.c
+-rwxr-xr-x 1 root root  342 Aug  3 15:30 Q12.c~
+-rwxr-xr-x 1 root root 7249 Aug  3 15:37 Q12.o
+-rwxr-xr-x 1 root root  340 Aug  3 15:45 Q13.c
+-rwxr-xr-x 1 root root  303 Aug  3 15:45 Q13.c~
+-rwxr-xr-x 1 root root 1219 Aug  9 15:58 Q14.c
+-rwxr-xr-x 1 root root 1137 Aug  4 13:49 Q14.c~
+-rwxr-xr-x 1 root root 7514 Aug  9 15:52 Q14.o
+-rwxr-xr-x 1 root root  247 Aug  9 15:29 Q15.c
+-rwxr-xr-x 1 root root 6841 Aug  9 15:30 Q15.o
+-rwxr-xr-x 1 root root  578 Aug  5 13:42 Q16.c
+-rwxr-xr-x 1 root root  643 Aug  3 10:28 Q1.c
+-rwxr-xr-x 1 root root  643 Aug  3 10:26 Q1.c~
+-rwxr-xr-x 1 root root 7622 Aug  3 10:28 Q1.o
+-rwxr-xr-x 1 root root  276 Aug  3 11:08 Q2.c
+-rwxr-xr-x 1 root root  276 Aug  3 11:08 Q2.c~
+-rwxr-xr-x 1 root root 7147 Aug  3 11:08 Q2.o
+-rwxr-xr-x 1 root root  452 Aug  3 11:23 Q3.c
+-rwxr-xr-x 1 root root  452 Aug  3 11:23 Q3.c~
+-rwxr-xr-x 1 root root 7493 Aug  3 11:23 Q3.o
+-rwxr-xr-x 1 root root  216 Aug  3 11:32 Q4.c
+-rwxr-xr-x 1 root root  214 Aug  3 11:31 Q4.c~
+-rwxr-xr-x 1 root root 6961 Aug  3 11:32 Q4.o
+-rwxr-xr-x 1 root root  477 Aug  3 11:49 Q5.c
+-rwxr-xr-x 1 root root  453 Aug  3 11:45 Q5.c~
+-rwxr-xr-x 1 root root 7225 Aug  3 11:49 Q5.o
+-rwxr-xr-x 1 root root  377 Aug  3 12:07 Q6.c
+-rwxr-xr-x 1 root root  377 Aug  3 12:07 Q6.c~
+-rwxr-xr-x 1 root root 7201 Aug  3 12:07 Q6.o
+-rwxr-xr-x 1 root root  324 Aug  3 13:59 Q7.c
+-rwxr-xr-x 1 root root  320 Aug  3 12:27 Q7.c~
+-rwxr-xr-x 1 root root 7256 Aug  3 13:59 Q7.o
+-rwxr-xr-x 1 root root  205 Aug  3 14:27 Q8.c
+-rwxr-xr-x 1 root root  205 Aug  3 14:27 Q8.c~
+-rwxr-xr-x 1 root root 7001 Aug  3 14:27 Q8.o
+-rwxr-xr-x 1 root root  369 Aug  3 14:35 Q9.c
+-rwxr-xr-x 1 root root  369 Aug  3 14:35 Q9.c~
+-rwxr-xr-x 1 root root 7219 Aug  3 14:35 Q9.o
+drwxr-xr-x 5 root root 4096 Aug  1 12:02 second
+
+./Ayan/Exercise-2/second:
+total 24
+drwxr-xr-x 2 root root 4096 Aug  1 12:02 fib
+drwxr-xr-x 6 root root 4096 Aug  1 12:02 quad-root
+drwxr-xr-x 2 root root 4096 Aug  1 12:02 sum-nums
+
+./Ayan/Exercise-2/second/fib:
+total 24
+-rwxr-xr-x 1 root root 416 Jul 21  2015 fib-spec.c
+-rwxr-xr-x 1 root root 275 Jul 21  2015 fib-v1.c
+-rwxr-xr-x 1 root root 133 Jul 21  2015 fib-v2.c
+
+./Ayan/Exercise-2/second/quad-root:
+total 32
+drwxr-xr-x 2 root root 4096 Aug  2 11:15 base
+drwxr-xr-x 2 root root 4096 Aug  1 12:02 multi-roots-globals
+drwxr-xr-x 2 root root 4096 Aug  1 12:02 one-root
+drwxr-xr-x 2 root root 4096 Aug 26  2015 working-with-globals
+
+./Ayan/Exercise-2/second/quad-root/base:
+total 48
+-rwxr-xr-x 1 root root  883 Jul 23  2015 naive-quad-root.c
+-rwxr-xr-x 1 root root 9819 Aug  2 11:15 output.o
+-rwxr-xr-x 1 root root 1000 Jul 23  2015 quad-root.c
+-rwxr-xr-x 1 root root 2238 Aug  2 11:15 quad-root-spec.c
+-rwxr-xr-x 1 root root 2238 Aug  2 11:15 quad-root-spec.c~
+
+./Ayan/Exercise-2/second/quad-root/multi-roots-globals:
+total 8
+-rwxr-xr-x 1 root root 3717 Jul 23  2015 quad-root-spec.c
+
+./Ayan/Exercise-2/second/quad-root/one-root:
+total 24
+-rwxr-xr-x 1 root root  883 Jul 23  2015 naive-quad-root.c
+-rwxr-xr-x 1 root root 1000 Jul 23  2015 quad-root.c
+-rwxr-xr-x 1 root root 1627 Jul 23  2015 quad-root-spec.c
+
+./Ayan/Exercise-2/second/quad-root/working-with-globals:
+total 0
+
+./Ayan/Exercise-2/second/sum-nums:
+total 48
+-rwxr-xr-x 1 root root 344 Jul 22  2015 sum-nums-spec.c
+-rwxr-xr-x 1 root root 242 Jul 22  2015 sum_nums-v1.c
+-rwxr-xr-x 1 root root 242 Jul 22  2015 sum-nums-v1.c
+-rwxr-xr-x 1 root root 230 Jul 22  2015 sum-nums-v2.c
+-rwxr-xr-x 1 root root 204 Jul 22  2015 sum-nums-v3.c
+-rwxr-xr-x 1 root root 192 Jul 22  2015 sum-nums-v4.c
+
+./Ayan/Exercise-3:
+total 200
+-rwxr-xr-x 1 root root  763 Aug  4 14:12 pgm1.c
+-rwxr-xr-x 1 root root  763 Aug  4 14:12 pgm1.c~
+-rwxr-xr-x 1 root root 7386 Aug  4 14:10 pgm1.o
+-rwxr-xr-x 1 root root  380 Aug  4 14:33 pgm2.c
+-rwxr-xr-x 1 root root  361 Aug  4 14:32 pgm2.c~
+-rwxr-xr-x 1 root root 7186 Aug  4 14:32 pgm2.o
+-rwxr-xr-x 1 root root  584 Aug  4 14:40 pgm3.c
+-rwxr-xr-x 1 root root  584 Aug  4 14:39 pgm3.c~
+-rwxr-xr-x 1 root root 7329 Aug  4 14:39 pgm3.o
+-rwxr-xr-x 1 root root  789 Aug  4 15:45 pgm4.c
+-rwxr-xr-x 1 root root  789 Aug  4 15:45 pgm4.c~
+-rwxr-xr-x 1 root root 7428 Aug  4 15:19 pgm4.o
+-rwxr-xr-x 1 root root  853 Aug  4 16:31 pgm5.c
+-rwxr-xr-x 1 root root  841 Aug  4 15:27 pgm5.c~
+-rwxr-xr-x 1 root root 7539 Aug  4 15:30 pgm5.o
+-rwxr-xr-x 1 root root 2090 Aug  5 12:30 pgm6.c
+-rwxr-xr-x 1 root root 2090 Aug  5 12:30 pgm6.c~
+-rwxr-xr-x 1 root root 9332 Aug  5 12:30 pgm6.o
+-rwxr-xr-x 1 root root 1013 Aug 10 20:10 stack.c
+-rwxr-xr-x 1 root root 1013 Aug  4 15:55 stack.c~
+-rwxr-xr-x 1 root root 7998 Aug  4 15:52 stack.o
+
+./Ayan/Exercise 4:
+total 364
+-rwxr-xr-x 1 root root 14763 Aug  7  2015 Exercise-4.docx
+-rwxr-xr-x 1 root root   822 Aug  7 16:17 Q10.c
+-rwxr-xr-x 1 root root   822 Aug  7 16:17 Q10.c~
+-rwxr-xr-x 1 root root  7177 Aug  7 16:18 Q10.o
+-rwxr-xr-x 1 root root   716 Aug  7 16:18 Q11.c
+-rwxr-xr-x 1 root root   683 Aug  7 18:47 Q11.c~
+-rwxr-xr-x 1 root root  7299 Aug  7 16:18 Q11.o
+-rwxr-xr-x 1 root root   727 Aug  7 16:19 Q12.c
+-rwxr-xr-x 1 root root   716 Aug  7 16:19 Q12.c~
+-rwxr-xr-x 1 root root  7299 Aug  7 16:19 Q12.o
+-rwxr-xr-x 1 root root   545 Aug  7 15:23 Q1.c
+-rwxr-xr-x 1 root root   493 Aug  7 15:22 Q1.c~
+-rwxr-xr-x 1 root root  7291 Aug  7 15:23 Q1.o
+-rwxr-xr-x 1 root root   738 Aug  7 16:00 Q2.c
+-rwxr-xr-x 1 root root   714 Aug  7 15:50 Q2.c~
+-rwxr-xr-x 1 root root  7406 Aug  7 15:50 Q2.o
+-rwxr-xr-x 1 root root  1835 Aug  7 16:01 Q3.c
+-rwxr-xr-x 1 root root  1814 Aug  7 15:54 Q3.c~
+-rwxr-xr-x 1 root root  8793 Aug  7 15:53 Q3.o
+-rwxr-xr-x 1 root root   626 Aug  7 15:59 Q4.c
+-rwxr-xr-x 1 root root   626 Aug  7 15:59 Q4.c~
+-rwxr-xr-x 1 root root  7488 Aug  7 15:58 Q4.o
+-rwxr-xr-x 1 root root   469 Aug  7 16:01 Q5.c
+-rwxr-xr-x 1 root root   454 Aug  7 16:01 Q5.c~
+-rwxr-xr-x 1 root root  7089 Aug  7 16:01 Q5.o
+-rwxr-xr-x 1 root root   404 Aug  7 16:02 Q6.c
+-rwxr-xr-x 1 root root   383 Aug  7 17:25 Q6.c~
+-rwxr-xr-x 1 root root  7186 Aug  7 16:04 Q6.o
+-rwxr-xr-x 1 root root   377 Aug  7 16:04 Q7.c
+-rwxr-xr-x 1 root root   362 Aug  7 17:28 Q7.c~
+-rwxr-xr-x 1 root root  7064 Aug  7 16:04 Q7.o
+-rwxr-xr-x 1 root root   376 Aug  7 16:05 Q8.c
+-rwxr-xr-x 1 root root   376 Aug  7 16:05 Q8.c~
+-rwxr-xr-x 1 root root  7155 Aug  7 16:05 Q8.o
+-rwxr-xr-x 1 root root  1374 Aug  7 16:15 Q9.c
+-rwxr-xr-x 1 root root  1354 Aug  7 16:14 Q9.c~
+-rwxr-xr-x 1 root root  8298 Aug  7 16:15 Q9.o
+
+./Ayan/Fast-Track-C:
+total 64
+-rwxr-xr-x 1 root root 2233 Aug  4 09:39 Exercise 2.txt
+drwxr-xr-x 2 root root 4096 Aug  3 12:00 Exercise-5
+drwxr-xr-x 2 root root 4096 Aug  3 12:00 Exercise-6(File Handling)
+drwxr-xr-x 4 root root 4096 Aug  3 12:00 Fast-Track-C-Day-Five
+drwxr-xr-x 3 root root 4096 Aug  3 12:00 Fast-Track-C-Day-Four
+drwxr-xr-x 4 root root 4096 Aug  3 12:00 Fast-Track-C-Day-One
+drwxr-xr-x 4 root root 4096 Aug  3 12:00 Fast-Track-C-Day-Three
+drwxr-xr-x 3 root root 4096 Aug  3 12:00 Fast-Track-C-Day-Two
+
+./Ayan/Fast-Track-C/Exercise-5:
+total 40
+-rwxr-xr-x 1 root root 15107 Aug 17  2015 Clist3-Aug15.docx
+-rwxr-xr-x 1 root root 13860 Aug 18  2015 Lab-4.docx
+
+./Ayan/Fast-Track-C/Exercise-6(File Handling):
+total 16
+-rwxr-xr-x 1 root root 12250 Aug 26  2015 Exercise-6_File_Handling.docx
+
+./Ayan/Fast-Track-C/Fast-Track-C-Day-Five:
+total 16
+drwxr-xr-x 2 root root 4096 Aug  3 12:00 basics
+drwxr-xr-x 2 root root 4096 Aug  3 12:00 links
+
+./Ayan/Fast-Track-C/Fast-Track-C-Day-Five/basics:
+total 16
+-rwxr-xr-x 1 root root  442 Aug  6  2015 add.c
+-rwxr-xr-x 1 root root 1131 Aug  7  2015 swap.c
+
+./Ayan/Fast-Track-C/Fast-Track-C-Day-Five/links:
+total 8
+-rwxr-xr-x 1 root root 2821 Aug  6  2015 scope-rep.c
+
+./Ayan/Fast-Track-C/Fast-Track-C-Day-Four:
+total 28
+drwxr-xr-x 6 root root  4096 Aug  3 12:00 Class-Programs
+-rwxr-xr-x 1 root root 14763 Aug  7  2015 Exercise-4.docx
+
+./Ayan/Fast-Track-C/Fast-Track-C-Day-Four/Class-Programs:
+total 32
+drwxr-xr-x 2 root root 4096 Aug  3 12:00 complex-number
+drwxr-xr-x 2 root root 4096 Aug  3 12:00 lexer
+drwxr-xr-x 2 root root 4096 Aug  3 12:00 pixel-simple
+drwxr-xr-x 2 root root 4096 Aug  3 12:00 student
+
+./Ayan/Fast-Track-C/Fast-Track-C-Day-Four/Class-Programs/complex-number:
+total 24
+-rwxr-xr-x 1 root root 577 Aug  6  2015 complex.c
+-rwxr-xr-x 1 root root 312 Aug  6  2015 complexnum.h
+-rwxr-xr-x 1 root root 314 Aug  5  2015 complex-spec.c
+
+./Ayan/Fast-Track-C/Fast-Track-C-Day-Four/Class-Programs/lexer:
+total 24
+-rwxr-xr-x 1 root root 3377 Aug  6  2015 lexer.c
+-rwxr-xr-x 1 root root  618 Aug  6  2015 lexer.h
+-rwxr-xr-x 1 root root 2269 Aug  6  2015 lexer-spec.c
+
+./Ayan/Fast-Track-C/Fast-Track-C-Day-Four/Class-Programs/pixel-simple:
+total 24
+-rwxr-xr-x 1 root root  184 Aug  6  2015 pixel.c
+-rwxr-xr-x 1 root root 1020 Aug  6  2015 pixel.h
+-rwxr-xr-x 1 root root  435 Aug  6  2015 pixel-spec.c
+
+./Ayan/Fast-Track-C/Fast-Track-C-Day-Four/Class-Programs/student:
+total 32
+-rwxr-xr-x 1 root root  521 Aug  6  2015 appconsts.h
+-rwxr-xr-x 1 root root  231 Aug  6  2015 main-spec.c
+-rwxr-xr-x 1 root root 1213 Aug  6  2015 student.c
+-rwxr-xr-x 1 root root  553 Aug  6  2015 student.h
+
+./Ayan/Fast-Track-C/Fast-Track-C-Day-One:
+total 40
+drwxr-xr-x 7 root root  4096 Aug  3 12:00 Class-Programs
+drwxr-xr-x 2 root root  4096 Aug  9 14:13 Excercise-1
+-rwxr-xr-x 1 root root 16478 Aug  1  2015 Excercise-2.docx
+
+./Ayan/Fast-Track-C/Fast-Track-C-Day-One/Class-Programs:
+total 40
+drwxr-xr-x 2 root root 4096 Aug  3 12:00 abs
+drwxr-xr-x 2 root root 4096 Aug  3 15:46 chars
+drwxr-xr-x 2 root root 4096 Aug  3 12:00 intops
+drwxr-xr-x 2 root root 4096 Aug  3 12:00 min
+drwxr-xr-x 2 root root 4096 Aug  3 12:00 square
+
+./Ayan/Fast-Track-C/Fast-Track-C-Day-One/Class-Programs/abs:
+total 80
+-rwxr-xr-x 1 root root   88 Jul 19  2015 absolute.c
+-rwxr-xr-x 1 root root  280 Jul 20  2015 abs-spec.c
+-rwxr-xr-x 1 root root  100 Jul 20  2015 abs-v1.c
+-rwxr-xr-x 1 root root   75 Jul 20  2015 abs-v2.c
+-rwxr-xr-x 1 root root   96 Jul 20  2015 abs-v3.c
+-rwxr-xr-x 1 root root 8680 Jul 20  2015 bad
+-rwxr-xr-x 1 root root 6280 Jul 20  2015 one
+-rwxr-xr-x 1 root root 6280 Jul 20  2015 two
+
+./Ayan/Fast-Track-C/Fast-Track-C-Day-One/Class-Programs/chars:
+total 24
+-rwxr-xr-x 1 root root 386 Jul 23  2015 ascii-chars.c
+-rwxr-xr-x 1 root root 446 Aug  3 15:46 isdigit.c
+-rwxr-xr-x 1 root root 446 Aug  3 15:46 isdigit.c~
+
+./Ayan/Fast-Track-C/Fast-Track-C-Day-One/Class-Programs/intops:
+total 32
+-rwxr-xr-x 1 root root   36 Jul 19  2015 autoinc-tests.c
+-rwxr-xr-x 1 root root 2751 Jul 20  2015 bit-tests.c
+-rwxr-xr-x 1 root root  190 Jul 19  2015 intops.c
+-rwxr-xr-x 1 root root   34 Jul 19  2015 rel-tests.c
+
+./Ayan/Fast-Track-C/Fast-Track-C-Day-One/Class-Programs/min:
+total 16
+-rwxr-xr-x 1 root root 599 Jul 19  2015 min-spec.c
+-rwxr-xr-x 1 root root  67 Jul 19  2015 min-v1.c
+
+./Ayan/Fast-Track-C/Fast-Track-C-Day-One/Class-Programs/square:
+total 40
+-rwxr-xr-x 1 root root  215 Jul 27  2015 simplest.c
+-rwxr-xr-x 1 root root 1023 Jul 27  2015 square-fun-v4.c
+-rwxr-xr-x 1 root root  264 Jul 20  2015 square-v1.c
+-rwxr-xr-x 1 root root  284 Jul 19  2015 square-v2.c
+-rwxr-xr-x 1 root root  319 Jul 20  2015 square-v3.c
+
+./Ayan/Fast-Track-C/Fast-Track-C-Day-One/Excercise-1:
+total 104
+-rwxr-xr-x 1 root root 190 Aug  9 14:05 pgm1.c
+-rwxr-xr-x 1 root root 188 Aug  9 14:05 pgm1.c~
+-rwxr-xr-x 1 root root 477 Aug  9 14:11 pgm2.c
+-rwxr-xr-x 1 root root 481 Aug  9 14:06 pgm2.c~
+-rwxr-xr-x 1 root root 332 Aug  1  2015 pgm3.c
+-rwxr-xr-x 1 root root 416 Aug  1  2015 pgm4.c
+-rwxr-xr-x 1 root root 429 Aug  1  2015 pgm5.c
+-rwxr-xr-x 1 root root 296 Aug  9 14:10 pgm6.c
+-rwxr-xr-x 1 root root 294 Aug  1  2015 pgm6.c~
+-rwxr-xr-x 1 root root 666 Aug  1  2015 pgm7.c
+-rwxr-xr-x 1 root root 298 Aug  9 14:13 pgm8.c
+-rwxr-xr-x 1 root root 298 Aug  1  2015 pgm8.c~
+-rwxr-xr-x 1 root root 147 Aug  1  2015 README.txt
+
+./Ayan/Fast-Track-C/Fast-Track-C-Day-Three:
+total 16
+drwxr-xr-x 2 root root 4096 Aug  9 14:48 Exercise-3
+drwxr-xr-x 4 root root 4096 Aug  3 12:00 third
+
+./Ayan/Fast-Track-C/Fast-Track-C-Day-Three/Exercise-3:
+total 72
+-rwxr-xr-x 1 root root  724 Aug  9 14:27 pgm1.c
+-rwxr-xr-x 1 root root  725 Aug  9 14:25 pgm1.c~
+-rwxr-xr-x 1 root root  343 Aug  9 14:48 pgm2.c
+-rwxr-xr-x 1 root root  343 Aug  3  2015 pgm2.c~
+-rwxr-xr-x 1 root root  567 Aug  3  2015 pgm3.c
+-rwxr-xr-x 1 root root  726 Aug  3  2015 pgm4.c
+-rwxr-xr-x 1 root root  810 Aug  3  2015 pgm5.c
+-rwxr-xr-x 1 root root 1939 Aug  4  2015 pgm6.c
+-rwxr-xr-x 1 root root  875 Aug  4  2015 stack.c
+
+./Ayan/Fast-Track-C/Fast-Track-C-Day-Three/third:
+total 16
+drwxr-xr-x 6 root root 4096 Aug  3 12:00 char-arrays
+drwxr-xr-x 6 root root 4096 Aug  3 12:00 int-arrays
+
+./Ayan/Fast-Track-C/Fast-Track-C-Day-Three/third/char-arrays:
+total 32
+drwxr-xr-x 2 root root 4096 Aug  3 12:00 simple-replace
+drwxr-xr-x 2 root root 4096 Aug  3 12:00 std-str-funs
+drwxr-xr-x 2 root root 4096 Aug  3 12:00 strip-leading-spaces
+drwxr-xr-x 2 root root 4096 Aug  3 12:00 strip-trailing-spaces
+
+./Ayan/Fast-Track-C/Fast-Track-C-Day-Three/third/char-arrays/simple-replace:
+total 16
+-rwxr-xr-x 1 root root 449 Jul 27  2015 replace.c
+-rwxr-xr-x 1 root root 979 Jul 27  2015 replace-spec.c
+
+./Ayan/Fast-Track-C/Fast-Track-C-Day-Three/third/char-arrays/std-str-funs:
+total 8
+-rwxr-xr-x 1 root root 2932 Jul 26  2015 strlen-tests.c
+
+./Ayan/Fast-Track-C/Fast-Track-C-Day-Three/third/char-arrays/strip-leading-spaces:
+total 16
+-rwxr-xr-x 1 root root 593 Jul 26  2015 strip-spaces.c
+-rwxr-xr-x 1 root root 721 Jul 26  2015 strip-spaces-spec.c
+
+./Ayan/Fast-Track-C/Fast-Track-C-Day-Three/third/char-arrays/strip-trailing-spaces:
+total 16
+-rwxr-xr-x 1 root root 609 Jul 26  2015 strip-spaces.c
+-rwxr-xr-x 1 root root 780 Jul 26  2015 strip-spaces-spec.c
+
+./Ayan/Fast-Track-C/Fast-Track-C-Day-Three/third/int-arrays:
+total 32
+drwxr-xr-x 2 root root 4096 Aug  3 12:00 array-args
+drwxr-xr-x 2 root root 4096 Aug  3 12:00 gen-fibs
+drwxr-xr-x 2 root root 4096 Aug  3 12:00 intro
+drwxr-xr-x 6 root root 4096 Aug  3 12:00 search
+
+./Ayan/Fast-Track-C/Fast-Track-C-Day-Three/third/int-arrays/array-args:
+total 16
+-rwxr-xr-x 1 root root 443 Jul 23  2015 arr-sum.c
+-rwxr-xr-x 1 root root 536 Jul 23  2015 arr-sum-spec.c
+
+./Ayan/Fast-Track-C/Fast-Track-C-Day-Three/third/int-arrays/gen-fibs:
+total 16
+-rwxr-xr-x 1 root root 274 Jul 24  2015 gen-fibs.c
+-rwxr-xr-x 1 root root 546 Jul 24  2015 gen-fibs-spec.c
+
+./Ayan/Fast-Track-C/Fast-Track-C-Day-Three/third/int-arrays/intro:
+total 24
+-rwxr-xr-x 1 root root 451 Jul 23  2015 arr.c
+-rwxr-xr-x 1 root root 470 Jul 23  2015 arr-init.c
+-rwxr-xr-x 1 root root 558 Jul 23  2015 arr-init-macro.c
+
+./Ayan/Fast-Track-C/Fast-Track-C-Day-Three/third/int-arrays/search:
+total 32
+drwxr-xr-x 2 root root 4096 Aug 26  2015 search-backwards
+drwxr-xr-x 2 root root 4096 Aug  3 12:00 search-from
+drwxr-xr-x 2 root root 4096 Aug  3 12:00 search-linear
+drwxr-xr-x 2 root root 4096 Aug  3 12:00 search-within
+
+./Ayan/Fast-Track-C/Fast-Track-C-Day-Three/third/int-arrays/search/search-backwards:
+total 0
+
+./Ayan/Fast-Track-C/Fast-Track-C-Day-Three/third/int-arrays/search/search-from:
+total 16
+-rwxr-xr-x 1 root root 508 Jul 24  2015 search-from.c
+-rwxr-xr-x 1 root root 769 Jul 24  2015 search-from-spec.c
+
+./Ayan/Fast-Track-C/Fast-Track-C-Day-Three/third/int-arrays/search/search-linear:
+total 16
+-rwxr-xr-x 1 root root 613 Jul 24  2015 search-spec.c
+-rwxr-xr-x 1 root root 483 Jul 24  2015 search-v1.c
+
+./Ayan/Fast-Track-C/Fast-Track-C-Day-Three/third/int-arrays/search/search-within:
+total 16
+-rwxr-xr-x 1 root root 509 Jul 24  2015 search-within.c
+-rwxr-xr-x 1 root root 950 Jul 24  2015 search-within-spec.c
+
+./Ayan/Fast-Track-C/Fast-Track-C-Day-Two:
+total 8
+drwxr-xr-x 5 root root 4096 Aug  3 12:00 second
+
+./Ayan/Fast-Track-C/Fast-Track-C-Day-Two/second:
+total 24
+drwxr-xr-x 2 root root 4096 Aug  3 12:00 fib
+drwxr-xr-x 6 root root 4096 Aug  3 12:00 quad-root
+drwxr-xr-x 2 root root 4096 Aug  3 12:00 sum-nums
+
+./Ayan/Fast-Track-C/Fast-Track-C-Day-Two/second/fib:
+total 24
+-rwxr-xr-x 1 root root 416 Jul 21  2015 fib-spec.c
+-rwxr-xr-x 1 root root 275 Jul 21  2015 fib-v1.c
+-rwxr-xr-x 1 root root 133 Jul 21  2015 fib-v2.c
+
+./Ayan/Fast-Track-C/Fast-Track-C-Day-Two/second/quad-root:
+total 32
+drwxr-xr-x 2 root root 4096 Aug  3 12:00 base
+drwxr-xr-x 2 root root 4096 Aug  3 12:00 multi-roots-globals
+drwxr-xr-x 2 root root 4096 Aug  3 12:00 one-root
+drwxr-xr-x 2 root root 4096 Aug 26  2015 working-with-globals
+
+./Ayan/Fast-Track-C/Fast-Track-C-Day-Two/second/quad-root/base:
+total 24
+-rwxr-xr-x 1 root root  883 Jul 23  2015 naive-quad-root.c
+-rwxr-xr-x 1 root root 1000 Jul 23  2015 quad-root.c
+-rwxr-xr-x 1 root root 1627 Jul 23  2015 quad-root-spec.c
+
+./Ayan/Fast-Track-C/Fast-Track-C-Day-Two/second/quad-root/multi-roots-globals:
+total 8
+-rwxr-xr-x 1 root root 3717 Jul 23  2015 quad-root-spec.c
+
+./Ayan/Fast-Track-C/Fast-Track-C-Day-Two/second/quad-root/one-root:
+total 24
+-rwxr-xr-x 1 root root  883 Jul 23  2015 naive-quad-root.c
+-rwxr-xr-x 1 root root 1000 Jul 23  2015 quad-root.c
+-rwxr-xr-x 1 root root 1627 Jul 23  2015 quad-root-spec.c
+
+./Ayan/Fast-Track-C/Fast-Track-C-Day-Two/second/quad-root/working-with-globals:
+total 0
+
+./Ayan/Fast-Track-C/Fast-Track-C-Day-Two/second/sum-nums:
+total 48
+-rwxr-xr-x 1 root root 344 Jul 22  2015 sum-nums-spec.c
+-rwxr-xr-x 1 root root 242 Jul 22  2015 sum_nums-v1.c
+-rwxr-xr-x 1 root root 242 Jul 22  2015 sum-nums-v1.c
+-rwxr-xr-x 1 root root 230 Jul 22  2015 sum-nums-v2.c
+-rwxr-xr-x 1 root root 204 Jul 22  2015 sum-nums-v3.c
+-rwxr-xr-x 1 root root 192 Jul 22  2015 sum-nums-v4.c
+
+./Dhanush.v-161043008:
+total 24
+drwxr-xr-x 2 root root 4096 Aug 10 23:49 Exercise-1
+drwxr-xr-x 2 root root 4096 Aug 10 23:49 Exercise-2
+drwxr-xr-x 2 root root 4096 Aug 11 12:57 Exercise-3
+
+./Dhanush.v-161043008/Exercise-1:
+total 1644
+-rwxr-xr-x 1 root root   7293 Aug 10 23:49 a.out
+-rwxr-xr-x 1 root root    191 Aug 10 23:49 pgm1.c
+-rwxr-xr-x 1 root root    191 Aug 10 23:49 pgm1.c~
+-rwxr-xr-x 1 root root   7337 Aug 10 23:49 pgm1.o
+-rwxr-xr-x 1 root root 107213 Aug 10 23:49 pgm1.png
+-rwxr-xr-x 1 root root    482 Aug 10 23:49 pgm2.c
+-rwxr-xr-x 1 root root    482 Aug 10 23:49 pgm2.c~
+-rwxr-xr-x 1 root root   7375 Aug 10 23:49 pgm2.o
+-rwxr-xr-x 1 root root 173026 Aug 10 23:49 pgm2.png
+-rwxr-xr-x 1 root root    316 Aug 10 23:49 pgm3.c
+-rwxr-xr-x 1 root root    316 Aug 10 23:49 pgm3.c~
+-rwxr-xr-x 1 root root   7414 Aug 10 23:49 pgm3.o
+-rwxr-xr-x 1 root root 174895 Aug 10 23:49 pgm3.png
+-rwxr-xr-x 1 root root    433 Aug 10 23:49 pgm4.c
+-rwxr-xr-x 1 root root    433 Aug 10 23:49 pgm4.c~
+-rwxr-xr-x 1 root root   7375 Aug 10 23:49 pgm4.o
+-rwxr-xr-x 1 root root 176386 Aug 10 23:49 pgm4.png
+-rwxr-xr-x 1 root root    484 Aug 10 23:49 pgm5.c
+-rwxr-xr-x 1 root root    484 Aug 10 23:49 pgm5.c~
+-rwxr-xr-x 1 root root   7375 Aug 10 23:49 pgm5.o
+-rwxr-xr-x 1 root root 189776 Aug 10 23:49 pgm5.png
+-rwxr-xr-x 1 root root    298 Aug 10 23:49 pgm6.c
+-rwxr-xr-x 1 root root    296 Aug 10 23:49 pgm6.c~
+-rwxr-xr-x 1 root root   7339 Aug 10 23:49 pgm6.o
+-rwxr-xr-x 1 root root 177906 Aug 10 23:49 pgm6.png
+-rwxr-xr-x 1 root root    706 Aug 10 23:49 pgm7.c
+-rwxr-xr-x 1 root root    706 Aug 10 23:49 pgm7.c~
+-rwxr-xr-x 1 root root   7445 Aug 10 23:49 pgm7.o
+-rwxr-xr-x 1 root root 176411 Aug 10 23:49 pgm7.png
+-rwxr-xr-x 1 root root    299 Aug 10 23:49 pgm8.c
+-rwxr-xr-x 1 root root    299 Aug 10 23:49 pgm8.c~
+-rwxr-xr-x 1 root root   7293 Aug 10 23:49 pgm8.o
+-rwxr-xr-x 1 root root 180196 Aug 10 23:49 pgm8.png
+
+./Dhanush.v-161043008/Exercise-2:
+total 2912
+-rwxr-xr-x 1 root root    377 Aug 10 23:49 aircraftland.c
+-rwxr-xr-x 1 root root    377 Aug 10 23:49 aircraftland.c~
+-rwxr-xr-x 1 root root   7382 Aug 10 23:49 aircraftland.o
+-rwxr-xr-x 1 root root 126652 Aug 10 23:49 aircraftland.png
+-rwxr-xr-x 1 root root    169 Aug 10 23:49 alpcase.c
+-rwxr-xr-x 1 root root    167 Aug 10 23:49 alpcase.c~
+-rwxr-xr-x 1 root root   7342 Aug 10 23:49 alpcase.o
+-rwxr-xr-x 1 root root 113214 Aug 10 23:49 alpcase.png
+-rwxr-xr-x 1 root root   8675 Aug 10 23:49 a.out
+-rwxr-xr-x 1 root root    258 Aug 10 23:49 bintodec.c
+-rwxr-xr-x 1 root root    256 Aug 10 23:49 bintodec.c~
+-rwxr-xr-x 1 root root   7378 Aug 10 23:49 bintodec.o
+-rwxr-xr-x 1 root root 108520 Aug 10 23:49 bintodec.png
+-rwxr-xr-x 1 root root    463 Aug 10 23:49 car.c~
+-rwxr-xr-x 1 root root    478 Aug 10 23:49 carvelocity.c
+-rwxr-xr-x 1 root root   7346 Aug 10 23:49 carvelocity.o
+-rwxr-xr-x 1 root root 121847 Aug 10 23:49 carvelocity.png
+-rwxr-xr-x 1 root root    346 Aug 10 23:49 dectobin.c
+-rwxr-xr-x 1 root root    346 Aug 10 23:49 dectobin.c~
+-rwxr-xr-x 1 root root   7418 Aug 10 23:49 dectobin.o
+-rwxr-xr-x 1 root root 121672 Aug 10 23:49 dectobin.png
+-rwxr-xr-x 1 root root    966 Aug 10 23:49 dectorom.c
+-rwxr-xr-x 1 root root   8677 Aug 10 23:49 dectorom.o
+-rwxr-xr-x 1 root root 268295 Aug 10 23:49 dectorom.png
+-rwxr-xr-x 1 root root    285 Aug 10 23:49 factser.c
+-rwxr-xr-x 1 root root    288 Aug 10 23:49 factser.c~
+-rwxr-xr-x 1 root root   7368 Aug 10 23:49 factser.o
+-rwxr-xr-x 1 root root 114857 Aug 10 23:49 factser.png
+-rwxr-xr-x 1 root root   7379 Aug 10 23:49 fibnicic.o
+-rwxr-xr-x 1 root root    356 Aug 10 23:49 fibnocic.c
+-rwxr-xr-x 1 root root    365 Aug 10 23:49 fibnocic.c~
+-rwxr-xr-x 1 root root   7219 Aug 10 23:49 fibnocic.o
+-rwxr-xr-x 1 root root 131738 Aug 10 23:49 fibnocic.png
+-rwxr-xr-x 1 root root    276 Aug 10 23:49 joultokilo.c
+-rwxr-xr-x 1 root root    276 Aug 10 23:49 joultokilo.c~
+-rwxr-xr-x 1 root root   7381 Aug 10 23:49 joultokilo.o
+-rwxr-xr-x 1 root root 192048 Aug 10 23:49 joultokilo.png
+-rwxr-xr-x 1 root root    189 Aug 10 23:49 kmperhour.c
+-rwxr-xr-x 1 root root      0 Aug 10 23:49 kmperhour.cclear
+-rwxr-xr-x 1 root root   7344 Aug 10 23:49 kmperhour.o
+-rwxr-xr-x 1 root root 135844 Aug 10 23:49 kmperhour.png
+-rwxr-xr-x 1 root root    318 Aug 10 23:49 leap.c~
+-rwxr-xr-x 1 root root    318 Aug 10 23:49 leapyr.c
+-rwxr-xr-x 1 root root   7341 Aug 10 23:49 leapyr.o
+-rwxr-xr-x 1 root root 201456 Aug 10 23:49 leapyr.png
+-rwxr-xr-x 1 root root    268 Aug 10 23:49 luminous.c
+-rwxr-xr-x 1 root root    314 Aug 10 23:49 luminous.c~
+-rwxr-xr-x 1 root root   7379 Aug 10 23:49 luminous.o
+-rwxr-xr-x 1 root root 177526 Aug 10 23:49 luminous.png
+-rwxr-xr-x 1 root root    340 Aug 10 23:49 palindrome.c
+-rwxr-xr-x 1 root root   7381 Aug 10 23:49 palindrome.o
+-rwxr-xr-x 1 root root 115237 Aug 10 23:49 palindrome.png
+-rwxr-xr-x 1 root root    578 Aug 10 23:49 pattern.c
+-rwxr-xr-x 1 root root    578 Aug 10 23:49 pattern.c~
+-rwxr-xr-x 1 root root   8675 Aug 10 23:49 pattern.o
+-rwxr-xr-x 1 root root 169726 Aug 10 23:49 pattern.png
+-rwxr-xr-x 1 root root    247 Aug 10 23:49 pow.c
+-rwxr-xr-x 1 root root    247 Aug 10 23:49 pow.c~
+-rwxr-xr-x 1 root root   7373 Aug 10 23:49 pow.o
+-rwxr-xr-x 1 root root 101461 Aug 10 23:49 pow.png
+-rwxr-xr-x 1 root root    203 Aug 10 23:49 sumdig.c
+-rwxr-xr-x 1 root root    203 Aug 10 23:49 sumdig.c~
+-rwxr-xr-x 1 root root   7341 Aug 10 23:49 sumdig.o
+-rwxr-xr-x 1 root root 132925 Aug 10 23:49 sumdig.png
+-rwxr-xr-x 1 root root    216 Aug 10 23:49 velocity.c~
+
+./Dhanush.v-161043008/Exercise-3:
+total 1232
+-rwxr-xr-x 1 root root   9085 Aug 11 12:57 a.out
+-rwxr-xr-x 1 root root    763 Aug 10 23:49 pgm1.c
+-rwxr-xr-x 1 root root    721 Aug 10 23:49 pgm1.c~
+-rwxr-xr-x 1 root root   7404 Aug 10 23:49 pgm1.o
+-rwxr-xr-x 1 root root 123146 Aug 10 23:49 pgm1.png
+-rwxr-xr-x 1 root root    373 Aug 10 23:49 pgm2.c
+-rwxr-xr-x 1 root root    373 Aug 10 23:49 pgm2.c~
+-rwxr-xr-x 1 root root   7386 Aug 10 23:49 pgm2.o
+-rwxr-xr-x 1 root root 103188 Aug 10 23:49 pgm2.png
+-rwxr-xr-x 1 root root    548 Aug 10 23:49 pgm3.c
+-rwxr-xr-x 1 root root    548 Aug 10 23:49 pgm3.c~
+-rwxr-xr-x 1 root root   7395 Aug 10 23:49 pgm3.o
+-rwxr-xr-x 1 root root 206265 Aug 10 23:49 pgm3.png
+-rwxr-xr-x 1 root root    734 Aug 10 23:49 pgm4.c
+-rwxr-xr-x 1 root root    734 Aug 10 23:49 pgm4.c~
+-rwxr-xr-x 1 root root   8768 Aug 10 23:49 pgm4.o
+-rwxr-xr-x 1 root root 161000 Aug 10 23:49 pgm4.png
+-rwxr-xr-x 1 root root    912 Aug 10 23:49 pgm5.c
+-rwxr-xr-x 1 root root    853 Aug 10 23:49 pgm5.c~
+-rwxr-xr-x 1 root root   7479 Aug 10 23:49 pgm5.o
+-rwxr-xr-x 1 root root 110902 Aug 10 23:49 pgm5.png
+-rwxr-xr-x 1 root root   2096 Aug 11 12:54 pgm6.c
+-rwxr-xr-x 1 root root   2096 Aug 11 12:53 pgm6.c~
+-rwxr-xr-x 1 root root   9085 Aug 11 12:57 pgm6.o
+-rwxr-xr-x 1 root root 145092 Aug 11 12:57 pgm6.png
+-rwxr-xr-x 1 root root    875 Aug 10 23:49 stack.c
+-rwxr-xr-x 1 root root   7998 Aug 10 23:49 stack.o
+-rwxr-xr-x 1 root root 115226 Aug 10 23:49 stack.png
+
+./dhd:
+total 60
+-rwxr-xr-x 1 root root 7035 Aug  4 12:01 a.out
+-rw-r--r-- 1 root root  119 Aug  4 12:01 dd.c
+-rw-r--r-- 1 root root  119 Aug  4 12:00 dd.c~
+-rwxr-xr-x 1 root root 7035 Aug  4 12:01 dd.o
+-rw-r--r-- 1 root root  937 Aug  5 15:29 patt.c
+-rwxr-xr-x 1 root root 7427 Aug  5 15:29 patt.o
+
+./edi11_tutorial:
+total 1372
+drwxr-xr-x 2 root root   4096 Aug 19 16:19 DATA
+drwxr-xr-x 2 root root   4096 Aug 19 16:19 DBS
+-rw-r--r-- 1 root root 720607 Aug 19 16:19 EDI11workshoplab1.dtmf.pdf
+-rw-r--r-- 1 root root 341305 Aug 19 16:18 EDI11workshoplab2.dtmf.pdf
+-rw-r--r-- 1 root root 272401 Aug 19 16:19 EDI11workshoplab3.dtmf.pdf
+-rw-r--r-- 1 root root    874 Aug 19 16:18 encounter.cmd
+-rw-r--r-- 1 root root   3246 Aug 19 16:19 encounter.log
+drwxr-xr-x 7 root root   4096 Aug 19 16:19 LIBS
+
+./edi11_tutorial/DATA:
+total 1828
+-rw-r--r-- 1 root root  38784 Aug 19 16:19 dtmf_chip.fp
+-rw-r--r-- 1 root root    540 Aug 19 16:19 dtmf_chip.fp.areaio
+-rw-r--r-- 1 root root    302 Aug 19 16:19 dtmf_chip.fp.spr
+-rw-r--r-- 1 root root    348 Aug 19 16:19 dtmf_chip.globals
+-rw-r--r-- 1 root root   8964 Aug 19 16:19 dtmf_chip.pads.v
+-rw-r--r-- 1 root root  42550 Aug 19 16:19 leon.blocks.fp
+-rw-r--r-- 1 root root    532 Aug 19 16:19 leon.blocks.fp.relFPlan
+-rw-r--r-- 1 root root    242 Aug 19 16:19 leon.blocks.fp.spr
+-rw-r--r-- 1 root root   1295 Aug 19 16:19 leon.ctstch
+-rw-r--r-- 1 root root 320900 Aug 19 16:19 leon.fp
+-rw-r--r-- 1 root root  24816 Aug 19 16:19 leon.fp.spr
+-rw-r--r-- 1 root root 366735 Aug 19 16:19 leon_func_slow_max.sdc
+-rw-r--r-- 1 root root    416 Aug 19 16:19 leon.globals
+-rw-r--r-- 1 root root  48573 Aug 19 16:19 leon.partition.fp
+-rw-r--r-- 1 root root    922 Aug 19 16:19 leon.partition.fp.ptn
+-rw-r--r-- 1 root root    532 Aug 19 16:19 leon.partition.fp.relFPlan
+-rw-r--r-- 1 root root  25300 Aug 19 16:19 leon.partition.fp.spr
+-rw-r--r-- 1 root root  45983 Aug 19 16:19 leon.power.fp
+-rw-r--r-- 1 root root    532 Aug 19 16:19 leon.power.fp.relFPlan
+-rw-r--r-- 1 root root  25300 Aug 19 16:19 leon.power.fp.spr
+-rw-r--r-- 1 root root 745535 Aug 19 16:19 leon.v.gz
+-rw-r--r-- 1 root root   1612 Aug 19 16:19 mmmc.tcl
+
+./edi11_tutorial/DBS:
+total 0
+
+./edi11_tutorial/LIBS:
+total 40
+drwxr-xr-x 4 root root 4096 Aug 19 16:19 captbl
+drwxr-xr-x 2 root root 4096 Aug 19 16:18 lef
+drwxr-xr-x 4 root root 4096 Aug 19 16:18 lib
+drwxr-xr-x 2 root root 4096 Aug 19 16:19 misc
+drwxr-xr-x 2 root root 4096 Aug 19 16:19 qx
+
+./edi11_tutorial/LIBS/captbl:
+total 16
+drwxr-xr-x 2 root root 4096 Aug 19 16:19 best
+drwxr-xr-x 2 root root 4096 Aug 19 16:19 worst
+
+./edi11_tutorial/LIBS/captbl/best:
+total 720
+-rw-r--r-- 1 root root 726127 Aug 19 16:19 capTable
+
+./edi11_tutorial/LIBS/captbl/worst:
+total 720
+-rw-r--r-- 1 root root 726127 Aug 19 16:19 capTable
+
+./edi11_tutorial/LIBS/lef:
+total 1468
+-rw-r--r-- 1 root root 984620 Aug 19 16:18 gsclib045.fixed.lef
+-rw-r--r-- 1 root root  25364 Aug 19 16:18 MEM1_1024X32.lef
+-rw-r--r-- 1 root root  24903 Aug 19 16:18 MEM1_256X32.lef
+-rw-r--r-- 1 root root  26731 Aug 19 16:18 MEM1_4096X32.lef
+-rw-r--r-- 1 root root  50345 Aug 19 16:18 MEM2_1024X32.lef
+-rw-r--r-- 1 root root  27178 Aug 19 16:18 MEM2_128X16.lef
+-rw-r--r-- 1 root root  47480 Aug 19 16:18 MEM2_128X32.lef
+-rw-r--r-- 1 root root  48928 Aug 19 16:18 MEM2_136X32.lef
+-rw-r--r-- 1 root root  50542 Aug 19 16:18 MEM2_2048X32.lef
+-rw-r--r-- 1 root root  51391 Aug 19 16:18 MEM2_4096X32.lef
+-rw-r--r-- 1 root root  50745 Aug 19 16:18 MEM2_512X32.lef
+-rw-r--r-- 1 root root   3046 Aug 19 16:18 pads.lef
+-rw-r--r-- 1 root root   8424 Aug 19 16:18 pdkIO.lef
+
+./edi11_tutorial/LIBS/lib:
+total 16
+drwxr-xr-x 2 root root 4096 Aug 19 16:18 max
+drwxr-xr-x 2 root root 4096 Aug 19 16:18 min
+
+./edi11_tutorial/LIBS/lib/max:
+total 10292
+-rw-r--r-- 1 root root  421004 Aug 19 16:18 leon.lib
+-rw-r--r-- 1 root root   13304 Aug 19 16:18 MEM1_1024X32_slow.lib
+-rw-r--r-- 1 root root   13296 Aug 19 16:18 MEM1_256X32_slow.lib
+-rw-r--r-- 1 root root   13303 Aug 19 16:18 MEM1_4096X32_slow.lib
+-rw-r--r-- 1 root root   21360 Aug 19 16:18 MEM2_1024X32_slow.lib
+-rw-r--r-- 1 root root   21356 Aug 19 16:18 MEM2_128X16_slow.lib
+-rw-r--r-- 1 root root   21357 Aug 19 16:18 MEM2_128X32_slow.lib
+-rw-r--r-- 1 root root   21357 Aug 19 16:18 MEM2_136X32_slow.lib
+-rw-r--r-- 1 root root   21361 Aug 19 16:18 MEM2_2048X32_slow.lib
+-rw-r--r-- 1 root root   21375 Aug 19 16:18 MEM2_4096X32_slow.lib
+-rw-r--r-- 1 root root   21357 Aug 19 16:18 MEM2_512X32_slow.lib
+-rw-r--r-- 1 root root   11347 Aug 19 16:18 pdkIO.lib
+-rw-r--r-- 1 root root 9808990 Aug 19 16:18 slow.lib
+
+./edi11_tutorial/LIBS/lib/min:
+total 10384
+-rw-r--r-- 1 root root 9903030 Aug 19 16:18 fast.lib
+-rw-r--r-- 1 root root  421004 Aug 19 16:18 leon.lib
+-rw-r--r-- 1 root root   13304 Aug 19 16:18 MEM1_1024X32_slow.lib
+-rw-r--r-- 1 root root   13296 Aug 19 16:18 MEM1_256X32_slow.lib
+-rw-r--r-- 1 root root   13303 Aug 19 16:18 MEM1_4096X32_slow.lib
+-rw-r--r-- 1 root root   21360 Aug 19 16:18 MEM2_1024X32_slow.lib
+-rw-r--r-- 1 root root   21356 Aug 19 16:18 MEM2_128X16_slow.lib
+-rw-r--r-- 1 root root   21357 Aug 19 16:18 MEM2_128X32_slow.lib
+-rw-r--r-- 1 root root   21357 Aug 19 16:18 MEM2_136X32_slow.lib
+-rw-r--r-- 1 root root   21361 Aug 19 16:18 MEM2_2048X32_slow.lib
+-rw-r--r-- 1 root root   21375 Aug 19 16:18 MEM2_4096X32_slow.lib
+-rw-r--r-- 1 root root   21357 Aug 19 16:18 MEM2_512X32_slow.lib
+-rw-r--r-- 1 root root   11347 Aug 19 16:18 pdkIO.lib
+
+./edi11_tutorial/LIBS/misc:
+total 0
+
+./edi11_tutorial/LIBS/qx:
+total 196760
+-rw-r--r-- 1 root root       549 Aug 19 16:18 mapFile
+-rw-r--r-- 1 root root       133 Aug 19 16:19 qrc.conf
+-rw-r--r-- 1 root root        55 Aug 19 16:19 qrc.conf.orig
+-rw-r--r-- 1 root root 201249287 Aug 19 16:19 qrcTechFile
+
+./Fast-Track-C:
+total 56
+drwx------ 2 root root 4096 Aug 10 09:22 Exercise-5
+drwx------ 2 root root 4096 Aug 10 09:22 Exercise-6(File Handling)
+drwx------ 4 root root 4096 Aug 10 09:22 Fast-Track-C-Day-Five
+drwx------ 3 root root 4096 Aug 10 09:22 Fast-Track-C-Day-Four
+drwx------ 4 root root 4096 Aug 10 09:22 Fast-Track-C-Day-One
+drwx------ 4 root root 4096 Aug 10 09:22 Fast-Track-C-Day-Three
+drwx------ 3 root root 4096 Aug 10 09:22 Fast-Track-C-Day-Two
+
+./Fast-Track-C/Exercise-5:
+total 40
+-rwxr-xr-x 1 root root 15107 Aug 17  2015 Clist3-Aug15.docx
+-rwxr-xr-x 1 root root 13860 Aug 18  2015 Lab-4.docx
+
+./Fast-Track-C/Exercise-6(File Handling):
+total 16
+-rwxr-xr-x 1 root root 12250 Aug 26  2015 Exercise-6_File_Handling.docx
+
+./Fast-Track-C/Fast-Track-C-Day-Five:
+total 16
+drwx------ 2 root root 4096 Aug 10 09:22 basics
+drwx------ 2 root root 4096 Aug 10 09:22 links
+
+./Fast-Track-C/Fast-Track-C-Day-Five/basics:
+total 16
+-rwxr-xr-x 1 root root  442 Aug  6  2015 add.c
+-rwxr-xr-x 1 root root 1131 Aug  7  2015 swap.c
+
+./Fast-Track-C/Fast-Track-C-Day-Five/links:
+total 8
+-rwxr-xr-x 1 root root 2821 Aug  6  2015 scope-rep.c
+
+./Fast-Track-C/Fast-Track-C-Day-Four:
+total 28
+drwx------ 6 root root  4096 Aug 10 09:22 Class-Programs
+-rwxr-xr-x 1 root root 14763 Aug  7  2015 Exercise-4.docx
+
+./Fast-Track-C/Fast-Track-C-Day-Four/Class-Programs:
+total 32
+drwx------ 2 root root 4096 Aug 10 09:22 complex-number
+drwx------ 2 root root 4096 Aug 10 09:22 lexer
+drwx------ 2 root root 4096 Aug 10 09:22 pixel-simple
+drwx------ 2 root root 4096 Aug 10 09:22 student
+
+./Fast-Track-C/Fast-Track-C-Day-Four/Class-Programs/complex-number:
+total 24
+-rwxr-xr-x 1 root root 577 Aug  6  2015 complex.c
+-rwxr-xr-x 1 root root 312 Aug  6  2015 complexnum.h
+-rwxr-xr-x 1 root root 314 Aug  5  2015 complex-spec.c
+
+./Fast-Track-C/Fast-Track-C-Day-Four/Class-Programs/lexer:
+total 24
+-rwxr-xr-x 1 root root 3377 Aug  6  2015 lexer.c
+-rwxr-xr-x 1 root root  618 Aug  6  2015 lexer.h
+-rwxr-xr-x 1 root root 2269 Aug  6  2015 lexer-spec.c
+
+./Fast-Track-C/Fast-Track-C-Day-Four/Class-Programs/pixel-simple:
+total 24
+-rwxr-xr-x 1 root root  184 Aug  6  2015 pixel.c
+-rwxr-xr-x 1 root root 1020 Aug  6  2015 pixel.h
+-rwxr-xr-x 1 root root  435 Aug  6  2015 pixel-spec.c
+
+./Fast-Track-C/Fast-Track-C-Day-Four/Class-Programs/student:
+total 32
+-rwxr-xr-x 1 root root  521 Aug  6  2015 appconsts.h
+-rwxr-xr-x 1 root root  231 Aug  6  2015 main-spec.c
+-rwxr-xr-x 1 root root 1213 Aug  6  2015 student.c
+-rwxr-xr-x 1 root root  553 Aug  6  2015 student.h
+
+./Fast-Track-C/Fast-Track-C-Day-One:
+total 40
+drwx------ 7 root root  4096 Aug 10 09:22 Class-Programs
+drwx------ 2 root root  4096 Aug 10 17:08 Excercise-1
+-rwxr-xr-x 1 root root 16478 Aug  1  2015 Excercise-2.docx
+
+./Fast-Track-C/Fast-Track-C-Day-One/Class-Programs:
+total 40
+drwx------ 2 root root 4096 Aug 10 09:22 abs
+drwx------ 2 root root 4096 Aug 10 09:22 chars
+drwx------ 2 root root 4096 Aug 10 09:22 intops
+drwx------ 2 root root 4096 Aug 10 09:22 min
+drwx------ 2 root root 4096 Aug 10 09:22 square
+
+./Fast-Track-C/Fast-Track-C-Day-One/Class-Programs/abs:
+total 80
+-rwxr-xr-x 1 root root   88 Jul 19  2015 absolute.c
+-rwxr-xr-x 1 root root  280 Jul 20  2015 abs-spec.c
+-rwxr-xr-x 1 root root  100 Jul 20  2015 abs-v1.c
+-rwxr-xr-x 1 root root   75 Jul 20  2015 abs-v2.c
+-rwxr-xr-x 1 root root   96 Jul 20  2015 abs-v3.c
+-rwxr-xr-x 1 root root 8680 Jul 20  2015 bad
+-rwxr-xr-x 1 root root 6280 Jul 20  2015 one
+-rwxr-xr-x 1 root root 6280 Jul 20  2015 two
+
+./Fast-Track-C/Fast-Track-C-Day-One/Class-Programs/chars:
+total 16
+-rwxr-xr-x 1 root root 386 Jul 23  2015 ascii-chars.c
+-rwxr-xr-x 1 root root 446 Jul 23  2015 isdigit.c
+
+./Fast-Track-C/Fast-Track-C-Day-One/Class-Programs/intops:
+total 32
+-rwxr-xr-x 1 root root   36 Jul 19  2015 autoinc-tests.c
+-rwxr-xr-x 1 root root 2751 Jul 20  2015 bit-tests.c
+-rwxr-xr-x 1 root root  190 Jul 19  2015 intops.c
+-rwxr-xr-x 1 root root   34 Jul 19  2015 rel-tests.c
+
+./Fast-Track-C/Fast-Track-C-Day-One/Class-Programs/min:
+total 16
+-rwxr-xr-x 1 root root 599 Jul 19  2015 min-spec.c
+-rwxr-xr-x 1 root root  67 Jul 19  2015 min-v1.c
+
+./Fast-Track-C/Fast-Track-C-Day-One/Class-Programs/square:
+total 40
+-rwxr-xr-x 1 root root  215 Jul 27  2015 simplest.c
+-rwxr-xr-x 1 root root 1023 Jul 27  2015 square-fun-v4.c
+-rwxr-xr-x 1 root root  264 Jul 20  2015 square-v1.c
+-rwxr-xr-x 1 root root  284 Jul 19  2015 square-v2.c
+-rwxr-xr-x 1 root root  319 Jul 20  2015 square-v3.c
+
+./Fast-Track-C/Fast-Track-C-Day-One/Excercise-1:
+total 108
+-rwxr-xr-x 1 root root 7258 Aug 10 17:08 a.out
+-rwxr-xr-x 1 root root  188 Aug 10 16:28 pgm1.c
+-rw-r--r-- 1 root root  188 Aug 10 16:22 pgm1.c~
+-rwxr-xr-x 1 root root  476 Aug 10 16:34 pgm2.c
+-rw-r--r-- 1 root root  482 Aug  1  2015 pgm2.c~
+-rwxr-xr-x 1 root root  329 Aug 10 17:08 pgm3.c
+-rw-r--r-- 1 root root  328 Aug 10 17:03 pgm3.c~
+-rwxr-xr-x 1 root root  416 Aug  1  2015 pgm4.c
+-rwxr-xr-x 1 root root  429 Aug  1  2015 pgm5.c
+-rwxr-xr-x 1 root root  294 Aug  1  2015 pgm6.c
+-rwxr-xr-x 1 root root  666 Aug  1  2015 pgm7.c
+-rwxr-xr-x 1 root root  298 Aug  1  2015 pgm8.c
+-rwxr-xr-x 1 root root  147 Aug  1  2015 README.txt
+
+./Fast-Track-C/Fast-Track-C-Day-Three:
+total 16
+drwx------ 2 root root 4096 Aug 10 09:22 Exercise-3
+drwx------ 4 root root 4096 Aug 10 09:22 third
+
+./Fast-Track-C/Fast-Track-C-Day-Three/Exercise-3:
+total 56
+-rwxr-xr-x 1 root root  721 Aug  3  2015 pgm1.c
+-rwxr-xr-x 1 root root  343 Aug  3  2015 pgm2.c
+-rwxr-xr-x 1 root root  567 Aug  3  2015 pgm3.c
+-rwxr-xr-x 1 root root  726 Aug  3  2015 pgm4.c
+-rwxr-xr-x 1 root root  810 Aug  3  2015 pgm5.c
+-rwxr-xr-x 1 root root 1939 Aug  4  2015 pgm6.c
+-rwxr-xr-x 1 root root  875 Aug  4  2015 stack.c
+
+./Fast-Track-C/Fast-Track-C-Day-Three/third:
+total 16
+drwx------ 6 root root 4096 Aug 10 09:22 char-arrays
+drwx------ 6 root root 4096 Aug 10 09:22 int-arrays
+
+./Fast-Track-C/Fast-Track-C-Day-Three/third/char-arrays:
+total 32
+drwx------ 2 root root 4096 Aug 10 09:22 simple-replace
+drwx------ 2 root root 4096 Aug 10 09:22 std-str-funs
+drwx------ 2 root root 4096 Aug 10 09:22 strip-leading-spaces
+drwx------ 2 root root 4096 Aug 10 09:22 strip-trailing-spaces
+
+./Fast-Track-C/Fast-Track-C-Day-Three/third/char-arrays/simple-replace:
+total 16
+-rwxr-xr-x 1 root root 449 Jul 27  2015 replace.c
+-rwxr-xr-x 1 root root 979 Jul 27  2015 replace-spec.c
+
+./Fast-Track-C/Fast-Track-C-Day-Three/third/char-arrays/std-str-funs:
+total 8
+-rwxr-xr-x 1 root root 2932 Jul 26  2015 strlen-tests.c
+
+./Fast-Track-C/Fast-Track-C-Day-Three/third/char-arrays/strip-leading-spaces:
+total 16
+-rwxr-xr-x 1 root root 593 Jul 26  2015 strip-spaces.c
+-rwxr-xr-x 1 root root 721 Jul 26  2015 strip-spaces-spec.c
+
+./Fast-Track-C/Fast-Track-C-Day-Three/third/char-arrays/strip-trailing-spaces:
+total 16
+-rwxr-xr-x 1 root root 609 Jul 26  2015 strip-spaces.c
+-rwxr-xr-x 1 root root 780 Jul 26  2015 strip-spaces-spec.c
+
+./Fast-Track-C/Fast-Track-C-Day-Three/third/int-arrays:
+total 32
+drwx------ 2 root root 4096 Aug 10 09:22 array-args
+drwx------ 2 root root 4096 Aug 10 09:22 gen-fibs
+drwx------ 2 root root 4096 Aug 10 09:22 intro
+drwx------ 6 root root 4096 Aug 10 09:22 search
+
+./Fast-Track-C/Fast-Track-C-Day-Three/third/int-arrays/array-args:
+total 16
+-rwxr-xr-x 1 root root 443 Jul 23  2015 arr-sum.c
+-rwxr-xr-x 1 root root 536 Jul 23  2015 arr-sum-spec.c
+
+./Fast-Track-C/Fast-Track-C-Day-Three/third/int-arrays/gen-fibs:
+total 16
+-rwxr-xr-x 1 root root 274 Jul 24  2015 gen-fibs.c
+-rwxr-xr-x 1 root root 546 Jul 24  2015 gen-fibs-spec.c
+
+./Fast-Track-C/Fast-Track-C-Day-Three/third/int-arrays/intro:
+total 24
+-rwxr-xr-x 1 root root 451 Jul 23  2015 arr.c
+-rwxr-xr-x 1 root root 470 Jul 23  2015 arr-init.c
+-rwxr-xr-x 1 root root 558 Jul 23  2015 arr-init-macro.c
+
+./Fast-Track-C/Fast-Track-C-Day-Three/third/int-arrays/search:
+total 32
+drwx------ 2 root root 4096 Aug 26  2015 search-backwards
+drwx------ 2 root root 4096 Aug 10 09:22 search-from
+drwx------ 2 root root 4096 Aug 10 09:22 search-linear
+drwx------ 2 root root 4096 Aug 10 09:22 search-within
+
+./Fast-Track-C/Fast-Track-C-Day-Three/third/int-arrays/search/search-backwards:
+total 0
+
+./Fast-Track-C/Fast-Track-C-Day-Three/third/int-arrays/search/search-from:
+total 16
+-rwxr-xr-x 1 root root 508 Jul 24  2015 search-from.c
+-rwxr-xr-x 1 root root 769 Jul 24  2015 search-from-spec.c
+
+./Fast-Track-C/Fast-Track-C-Day-Three/third/int-arrays/search/search-linear:
+total 16
+-rwxr-xr-x 1 root root 613 Jul 24  2015 search-spec.c
+-rwxr-xr-x 1 root root 483 Jul 24  2015 search-v1.c
+
+./Fast-Track-C/Fast-Track-C-Day-Three/third/int-arrays/search/search-within:
+total 16
+-rwxr-xr-x 1 root root 509 Jul 24  2015 search-within.c
+-rwxr-xr-x 1 root root 950 Jul 24  2015 search-within-spec.c
+
+./Fast-Track-C/Fast-Track-C-Day-Two:
+total 8
+drwx------ 5 root root 4096 Aug 10 09:22 second
+
+./Fast-Track-C/Fast-Track-C-Day-Two/second:
+total 24
+drwx------ 2 root root 4096 Aug 10 09:22 fib
+drwx------ 6 root root 4096 Aug 10 09:22 quad-root
+drwx------ 2 root root 4096 Aug 10 09:22 sum-nums
+
+./Fast-Track-C/Fast-Track-C-Day-Two/second/fib:
+total 24
+-rwxr-xr-x 1 root root 416 Jul 21  2015 fib-spec.c
+-rwxr-xr-x 1 root root 275 Jul 21  2015 fib-v1.c
+-rwxr-xr-x 1 root root 133 Jul 21  2015 fib-v2.c
+
+./Fast-Track-C/Fast-Track-C-Day-Two/second/quad-root:
+total 32
+drwx------ 2 root root 4096 Aug 10 09:22 base
+drwx------ 2 root root 4096 Aug 10 09:22 multi-roots-globals
+drwx------ 2 root root 4096 Aug 10 09:22 one-root
+drwx------ 2 root root 4096 Aug 26  2015 working-with-globals
+
+./Fast-Track-C/Fast-Track-C-Day-Two/second/quad-root/base:
+total 24
+-rwxr-xr-x 1 root root  883 Jul 23  2015 naive-quad-root.c
+-rwxr-xr-x 1 root root 1000 Jul 23  2015 quad-root.c
+-rwxr-xr-x 1 root root 1627 Jul 23  2015 quad-root-spec.c
+
+./Fast-Track-C/Fast-Track-C-Day-Two/second/quad-root/multi-roots-globals:
+total 8
+-rwxr-xr-x 1 root root 3717 Jul 23  2015 quad-root-spec.c
+
+./Fast-Track-C/Fast-Track-C-Day-Two/second/quad-root/one-root:
+total 24
+-rwxr-xr-x 1 root root  883 Jul 23  2015 naive-quad-root.c
+-rwxr-xr-x 1 root root 1000 Jul 23  2015 quad-root.c
+-rwxr-xr-x 1 root root 1627 Jul 23  2015 quad-root-spec.c
+
+./Fast-Track-C/Fast-Track-C-Day-Two/second/quad-root/working-with-globals:
+total 0
+
+./Fast-Track-C/Fast-Track-C-Day-Two/second/sum-nums:
+total 48
+-rwxr-xr-x 1 root root 344 Jul 22  2015 sum-nums-spec.c
+-rwxr-xr-x 1 root root 242 Jul 22  2015 sum_nums-v1.c
+-rwxr-xr-x 1 root root 242 Jul 22  2015 sum-nums-v1.c
+-rwxr-xr-x 1 root root 230 Jul 22  2015 sum-nums-v2.c
+-rwxr-xr-x 1 root root 204 Jul 22  2015 sum-nums-v3.c
+-rwxr-xr-x 1 root root 192 Jul 22  2015 sum-nums-v4.c
+
+./j:
+total 56
+drwx------ 2 root root 4096 Aug 10 09:22 Exercise-5
+drwx------ 2 root root 4096 Aug 10 09:22 Exercise-6(File Handling)
+drwx------ 4 root root 4096 Aug 10 09:22 Fast-Track-C-Day-Five
+drwx------ 3 root root 4096 Aug 10 09:22 Fast-Track-C-Day-Four
+drwx------ 4 root root 4096 Aug 10 09:22 Fast-Track-C-Day-One
+drwx------ 4 root root 4096 Aug 10 09:22 Fast-Track-C-Day-Three
+drwx------ 3 root root 4096 Aug 10 09:22 Fast-Track-C-Day-Two
+
+./j/Exercise-5:
+total 40
+-rwxr-xr-x 1 root root 15107 Aug 17  2015 Clist3-Aug15.docx
+-rwxr-xr-x 1 root root 13860 Aug 18  2015 Lab-4.docx
+
+./j/Exercise-6(File Handling):
+total 16
+-rwxr-xr-x 1 root root 12250 Aug 26  2015 Exercise-6_File_Handling.docx
+
+./j/Fast-Track-C-Day-Five:
+total 16
+drwx------ 2 root root 4096 Aug 10 09:22 basics
+drwx------ 2 root root 4096 Aug 10 09:22 links
+
+./j/Fast-Track-C-Day-Five/basics:
+total 16
+-rwxr-xr-x 1 root root  442 Aug  6  2015 add.c
+-rwxr-xr-x 1 root root 1131 Aug  7  2015 swap.c
+
+./j/Fast-Track-C-Day-Five/links:
+total 8
+-rwxr-xr-x 1 root root 2821 Aug  6  2015 scope-rep.c
+
+./j/Fast-Track-C-Day-Four:
+total 28
+drwx------ 6 root root  4096 Aug 10 09:22 Class-Programs
+-rwxr-xr-x 1 root root 14763 Aug  7  2015 Exercise-4.docx
+
+./j/Fast-Track-C-Day-Four/Class-Programs:
+total 32
+drwx------ 2 root root 4096 Aug 10 09:22 complex-number
+drwx------ 2 root root 4096 Aug 10 09:22 lexer
+drwx------ 2 root root 4096 Aug 10 09:22 pixel-simple
+drwx------ 2 root root 4096 Aug 10 09:22 student
+
+./j/Fast-Track-C-Day-Four/Class-Programs/complex-number:
+total 24
+-rwxr-xr-x 1 root root 577 Aug  6  2015 complex.c
+-rwxr-xr-x 1 root root 312 Aug  6  2015 complexnum.h
+-rwxr-xr-x 1 root root 314 Aug  5  2015 complex-spec.c
+
+./j/Fast-Track-C-Day-Four/Class-Programs/lexer:
+total 24
+-rwxr-xr-x 1 root root 3377 Aug  6  2015 lexer.c
+-rwxr-xr-x 1 root root  618 Aug  6  2015 lexer.h
+-rwxr-xr-x 1 root root 2269 Aug  6  2015 lexer-spec.c
+
+./j/Fast-Track-C-Day-Four/Class-Programs/pixel-simple:
+total 24
+-rwxr-xr-x 1 root root  184 Aug  6  2015 pixel.c
+-rwxr-xr-x 1 root root 1020 Aug  6  2015 pixel.h
+-rwxr-xr-x 1 root root  435 Aug  6  2015 pixel-spec.c
+
+./j/Fast-Track-C-Day-Four/Class-Programs/student:
+total 32
+-rwxr-xr-x 1 root root  521 Aug  6  2015 appconsts.h
+-rwxr-xr-x 1 root root  231 Aug  6  2015 main-spec.c
+-rwxr-xr-x 1 root root 1213 Aug  6  2015 student.c
+-rwxr-xr-x 1 root root  553 Aug  6  2015 student.h
+
+./j/Fast-Track-C-Day-One:
+total 40
+drwx------ 7 root root  4096 Aug 10 09:22 Class-Programs
+drwx------ 2 root root  4096 Aug 10 09:22 Excercise-1
+-rwxr-xr-x 1 root root 16478 Aug  1  2015 Excercise-2.docx
+
+./j/Fast-Track-C-Day-One/Class-Programs:
+total 40
+drwx------ 2 root root 4096 Aug 10 09:22 abs
+drwx------ 2 root root 4096 Aug 10 09:22 chars
+drwx------ 2 root root 4096 Aug 10 09:22 intops
+drwx------ 2 root root 4096 Aug 10 09:22 min
+drwx------ 2 root root 4096 Aug 10 09:22 square
+
+./j/Fast-Track-C-Day-One/Class-Programs/abs:
+total 80
+-rwxr-xr-x 1 root root   88 Jul 19  2015 absolute.c
+-rwxr-xr-x 1 root root  280 Jul 20  2015 abs-spec.c
+-rwxr-xr-x 1 root root  100 Jul 20  2015 abs-v1.c
+-rwxr-xr-x 1 root root   75 Jul 20  2015 abs-v2.c
+-rwxr-xr-x 1 root root   96 Jul 20  2015 abs-v3.c
+-rwxr-xr-x 1 root root 8680 Jul 20  2015 bad
+-rwxr-xr-x 1 root root 6280 Jul 20  2015 one
+-rwxr-xr-x 1 root root 6280 Jul 20  2015 two
+
+./j/Fast-Track-C-Day-One/Class-Programs/chars:
+total 16
+-rwxr-xr-x 1 root root 386 Jul 23  2015 ascii-chars.c
+-rwxr-xr-x 1 root root 446 Jul 23  2015 isdigit.c
+
+./j/Fast-Track-C-Day-One/Class-Programs/intops:
+total 32
+-rwxr-xr-x 1 root root   36 Jul 19  2015 autoinc-tests.c
+-rwxr-xr-x 1 root root 2751 Jul 20  2015 bit-tests.c
+-rwxr-xr-x 1 root root  190 Jul 19  2015 intops.c
+-rwxr-xr-x 1 root root   34 Jul 19  2015 rel-tests.c
+
+./j/Fast-Track-C-Day-One/Class-Programs/min:
+total 16
+-rwxr-xr-x 1 root root 599 Jul 19  2015 min-spec.c
+-rwxr-xr-x 1 root root  67 Jul 19  2015 min-v1.c
+
+./j/Fast-Track-C-Day-One/Class-Programs/square:
+total 40
+-rwxr-xr-x 1 root root  215 Jul 27  2015 simplest.c
+-rwxr-xr-x 1 root root 1023 Jul 27  2015 square-fun-v4.c
+-rwxr-xr-x 1 root root  264 Jul 20  2015 square-v1.c
+-rwxr-xr-x 1 root root  284 Jul 19  2015 square-v2.c
+-rwxr-xr-x 1 root root  319 Jul 20  2015 square-v3.c
+
+./j/Fast-Track-C-Day-One/Excercise-1:
+total 72
+-rwxr-xr-x 1 root root 188 Aug  1  2015 pgm1.c
+-rwxr-xr-x 1 root root 482 Aug  1  2015 pgm2.c
+-rwxr-xr-x 1 root root 332 Aug  1  2015 pgm3.c
+-rwxr-xr-x 1 root root 416 Aug  1  2015 pgm4.c
+-rwxr-xr-x 1 root root 429 Aug  1  2015 pgm5.c
+-rwxr-xr-x 1 root root 294 Aug  1  2015 pgm6.c
+-rwxr-xr-x 1 root root 666 Aug  1  2015 pgm7.c
+-rwxr-xr-x 1 root root 298 Aug  1  2015 pgm8.c
+-rwxr-xr-x 1 root root 147 Aug  1  2015 README.txt
+
+./j/Fast-Track-C-Day-Three:
+total 16
+drwx------ 2 root root 4096 Aug 10 09:22 Exercise-3
+drwx------ 4 root root 4096 Aug 10 09:22 third
+
+./j/Fast-Track-C-Day-Three/Exercise-3:
+total 56
+-rwxr-xr-x 1 root root  721 Aug  3  2015 pgm1.c
+-rwxr-xr-x 1 root root  343 Aug  3  2015 pgm2.c
+-rwxr-xr-x 1 root root  567 Aug  3  2015 pgm3.c
+-rwxr-xr-x 1 root root  726 Aug  3  2015 pgm4.c
+-rwxr-xr-x 1 root root  810 Aug  3  2015 pgm5.c
+-rwxr-xr-x 1 root root 1939 Aug  4  2015 pgm6.c
+-rwxr-xr-x 1 root root  875 Aug  4  2015 stack.c
+
+./j/Fast-Track-C-Day-Three/third:
+total 16
+drwx------ 6 root root 4096 Aug 10 09:22 char-arrays
+drwx------ 6 root root 4096 Aug 10 09:22 int-arrays
+
+./j/Fast-Track-C-Day-Three/third/char-arrays:
+total 32
+drwx------ 2 root root 4096 Aug 10 09:22 simple-replace
+drwx------ 2 root root 4096 Aug 10 09:22 std-str-funs
+drwx------ 2 root root 4096 Aug 10 09:22 strip-leading-spaces
+drwx------ 2 root root 4096 Aug 10 09:22 strip-trailing-spaces
+
+./j/Fast-Track-C-Day-Three/third/char-arrays/simple-replace:
+total 16
+-rwxr-xr-x 1 root root 449 Jul 27  2015 replace.c
+-rwxr-xr-x 1 root root 979 Jul 27  2015 replace-spec.c
+
+./j/Fast-Track-C-Day-Three/third/char-arrays/std-str-funs:
+total 8
+-rwxr-xr-x 1 root root 2932 Jul 26  2015 strlen-tests.c
+
+./j/Fast-Track-C-Day-Three/third/char-arrays/strip-leading-spaces:
+total 16
+-rwxr-xr-x 1 root root 593 Jul 26  2015 strip-spaces.c
+-rwxr-xr-x 1 root root 721 Jul 26  2015 strip-spaces-spec.c
+
+./j/Fast-Track-C-Day-Three/third/char-arrays/strip-trailing-spaces:
+total 16
+-rwxr-xr-x 1 root root 609 Jul 26  2015 strip-spaces.c
+-rwxr-xr-x 1 root root 780 Jul 26  2015 strip-spaces-spec.c
+
+./j/Fast-Track-C-Day-Three/third/int-arrays:
+total 32
+drwx------ 2 root root 4096 Aug 10 09:22 array-args
+drwx------ 2 root root 4096 Aug 10 09:22 gen-fibs
+drwx------ 2 root root 4096 Aug 10 09:22 intro
+drwx------ 6 root root 4096 Aug 10 09:22 search
+
+./j/Fast-Track-C-Day-Three/third/int-arrays/array-args:
+total 16
+-rwxr-xr-x 1 root root 443 Jul 23  2015 arr-sum.c
+-rwxr-xr-x 1 root root 536 Jul 23  2015 arr-sum-spec.c
+
+./j/Fast-Track-C-Day-Three/third/int-arrays/gen-fibs:
+total 16
+-rwxr-xr-x 1 root root 274 Jul 24  2015 gen-fibs.c
+-rwxr-xr-x 1 root root 546 Jul 24  2015 gen-fibs-spec.c
+
+./j/Fast-Track-C-Day-Three/third/int-arrays/intro:
+total 24
+-rwxr-xr-x 1 root root 451 Jul 23  2015 arr.c
+-rwxr-xr-x 1 root root 470 Jul 23  2015 arr-init.c
+-rwxr-xr-x 1 root root 558 Jul 23  2015 arr-init-macro.c
+
+./j/Fast-Track-C-Day-Three/third/int-arrays/search:
+total 32
+drwx------ 2 root root 4096 Aug 26  2015 search-backwards
+drwx------ 2 root root 4096 Aug 10 09:22 search-from
+drwx------ 2 root root 4096 Aug 10 09:22 search-linear
+drwx------ 2 root root 4096 Aug 10 09:22 search-within
+
+./j/Fast-Track-C-Day-Three/third/int-arrays/search/search-backwards:
+total 0
+
+./j/Fast-Track-C-Day-Three/third/int-arrays/search/search-from:
+total 16
+-rwxr-xr-x 1 root root 508 Jul 24  2015 search-from.c
+-rwxr-xr-x 1 root root 769 Jul 24  2015 search-from-spec.c
+
+./j/Fast-Track-C-Day-Three/third/int-arrays/search/search-linear:
+total 16
+-rwxr-xr-x 1 root root 613 Jul 24  2015 search-spec.c
+-rwxr-xr-x 1 root root 483 Jul 24  2015 search-v1.c
+
+./j/Fast-Track-C-Day-Three/third/int-arrays/search/search-within:
+total 16
+-rwxr-xr-x 1 root root 509 Jul 24  2015 search-within.c
+-rwxr-xr-x 1 root root 950 Jul 24  2015 search-within-spec.c
+
+./j/Fast-Track-C-Day-Two:
+total 8
+drwx------ 5 root root 4096 Aug 10 09:22 second
+
+./j/Fast-Track-C-Day-Two/second:
+total 24
+drwx------ 2 root root 4096 Aug 10 09:22 fib
+drwx------ 6 root root 4096 Aug 10 09:22 quad-root
+drwx------ 2 root root 4096 Aug 10 09:22 sum-nums
+
+./j/Fast-Track-C-Day-Two/second/fib:
+total 24
+-rwxr-xr-x 1 root root 416 Jul 21  2015 fib-spec.c
+-rwxr-xr-x 1 root root 275 Jul 21  2015 fib-v1.c
+-rwxr-xr-x 1 root root 133 Jul 21  2015 fib-v2.c
+
+./j/Fast-Track-C-Day-Two/second/quad-root:
+total 32
+drwx------ 2 root root 4096 Aug 10 09:22 base
+drwx------ 2 root root 4096 Aug 10 09:22 multi-roots-globals
+drwx------ 2 root root 4096 Aug 10 09:22 one-root
+drwx------ 2 root root 4096 Aug 26  2015 working-with-globals
+
+./j/Fast-Track-C-Day-Two/second/quad-root/base:
+total 24
+-rwxr-xr-x 1 root root  883 Jul 23  2015 naive-quad-root.c
+-rwxr-xr-x 1 root root 1000 Jul 23  2015 quad-root.c
+-rwxr-xr-x 1 root root 1627 Jul 23  2015 quad-root-spec.c
+
+./j/Fast-Track-C-Day-Two/second/quad-root/multi-roots-globals:
+total 8
+-rwxr-xr-x 1 root root 3717 Jul 23  2015 quad-root-spec.c
+
+./j/Fast-Track-C-Day-Two/second/quad-root/one-root:
+total 24
+-rwxr-xr-x 1 root root  883 Jul 23  2015 naive-quad-root.c
+-rwxr-xr-x 1 root root 1000 Jul 23  2015 quad-root.c
+-rwxr-xr-x 1 root root 1627 Jul 23  2015 quad-root-spec.c
+
+./j/Fast-Track-C-Day-Two/second/quad-root/working-with-globals:
+total 0
+
+./j/Fast-Track-C-Day-Two/second/sum-nums:
+total 48
+-rwxr-xr-x 1 root root 344 Jul 22  2015 sum-nums-spec.c
+-rwxr-xr-x 1 root root 242 Jul 22  2015 sum_nums-v1.c
+-rwxr-xr-x 1 root root 242 Jul 22  2015 sum-nums-v1.c
+-rwxr-xr-x 1 root root 230 Jul 22  2015 sum-nums-v2.c
+-rwxr-xr-x 1 root root 204 Jul 22  2015 sum-nums-v3.c
+-rwxr-xr-x 1 root root 192 Jul 22  2015 sum-nums-v4.c
+
+./kumar:
+total 972
+-rwxr-xr-x 1 root root   6864 Aug 11 16:52 a.out
+drwxr-xr-x 2 root root   4096 Aug 11 16:55 Exercise-2
+drwxr-xr-x 2 root root   4096 Aug 11 17:09 Exercise-3
+-rwxr-xr-x 1 root root 172551 Aug 11 04:47 pgm
+-rwxr-xr-x 1 root root 108139 Aug 11 04:47 pgm2
+-rwxr-xr-x 1 root root    481 Aug 11 04:47 pgm2.c
+-rwxr-xr-x 1 root root   8768 Aug 11 04:47 pgm2.o
+-rwxr-xr-x 1 root root  99987 Aug 11 04:47 pgm3
+-rwxr-xr-x 1 root root    328 Aug 11 04:47 pgm3.c
+-rwxr-xr-x 1 root root   8816 Aug 11 04:47 pgm3.o
+-rwxr-xr-x 1 root root  98993 Aug 11 04:47 pgm4
+-rwxr-xr-x 1 root root    435 Aug 11 04:47 pgm4.c
+-rwxr-xr-x 1 root root   7141 Aug 11 15:16 pgm4.o
+-rw-r--r-- 1 root root  63755 Aug 11 15:19 pgm5
+-rwxr-xr-x 1 root root    484 Aug 11 04:47 pgm5.c
+-rwxr-xr-x 1 root root   7229 Aug 11 15:18 pgm5.o
+-rw-r--r-- 1 root root  55201 Aug 11 16:50 pgm6
+-rwxr-xr-x 1 root root    298 Aug 10 23:49 pgm6.c
+-rwxr-xr-x 1 root root   7019 Aug 11 16:43 pgm6.o
+-rw-r--r-- 1 root root  51821 Aug 11 16:52 pgm7
+-rwxr-xr-x 1 root root    706 Aug 10 23:49 pgm7.c
+-rwxr-xr-x 1 root root   7433 Aug 11 16:51 pgm7.o
+-rw-r--r-- 1 root root  55662 Aug 11 16:53 pgm8
+-rwxr-xr-x 1 root root    299 Aug 10 23:49 pgm8.c
+-rwxr-xr-x 1 root root   6864 Aug 11 16:52 pgm8.o
+-rwxr-xr-x 1 root root    191 Aug 11 04:47 pgm.c
+-rwxr-xr-x 1 root root   8712 Aug 11 04:47 pgm.o
+
+./kumar/Exercise-2:
+total 2140
+-rwxr-xr-x 1 root root    382 Aug 11 16:55 aircraftland.c
+-rw-r--r-- 1 root root    382 Aug 11 10:36 aircraftland.c~
+-rwxr-xr-x 1 root root 126652 Aug 10 23:49 aircraftland.png
+-rwxr-xr-x 1 root root 100148 Aug 11 10:26 alpcase
+-rwxr-xr-x 1 root root    173 Aug 11 10:22 alpcase.c
+-rwxr-xr-x 1 root root    167 Aug 11 04:47 alpcase.c~
+-rwxr-xr-x 1 root root   8720 Aug 11 10:25 alpcase.o
+-rwxr-xr-x 1 root root   7211 Aug 11 16:55 a.out
+-rwxr-xr-x 1 root root    272 Aug 11 10:28 bintodec.c
+-rwxr-xr-x 1 root root    256 Aug 11 04:47 bintodec.c~
+-rwxr-xr-x 1 root root 108520 Aug 10 23:49 bintodec.png
+-rwxr-xr-x 1 root root    463 Aug 11 04:47 car.c~
+-rwxr-xr-x 1 root root 112153 Aug 11 10:39 carvelocitty
+-rwxr-xr-x 1 root root    482 Aug 11 10:38 carvelocity.c
+-rwxr-xr-x 1 root root   8720 Aug 11 10:39 carvelocity.o
+-rwxr-xr-x 1 root root    346 Aug 11 04:47 dectobin.c
+-rwxr-xr-x 1 root root    346 Aug 11 04:47 dectobin.c~
+-rwxr-xr-x 1 root root   7418 Aug 11 04:47 dectobin.o
+-rwxr-xr-x 1 root root    966 Aug 11 04:47 dectorom.c
+-rwxr-xr-x 1 root root   7418 Aug 11 04:47 dectorom.o
+-rwxr-xr-x 1 root root 108674 Aug 11 10:42 factser
+-rwxr-xr-x 1 root root    290 Aug 11 10:42 factser.c
+-rwxr-xr-x 1 root root    288 Aug 11 04:47 factser.c~
+-rwxr-xr-x 1 root root   8752 Aug 11 10:42 factser.o
+-rwxr-xr-x 1 root root   7379 Aug 11 04:47 fibnicic.o
+-rwxr-xr-x 1 root root 144012 Aug 11 10:46 fibnocic
+-rwxr-xr-x 1 root root    360 Aug 11 10:44 fibnocic.c
+-rwxr-xr-x 1 root root    365 Aug 11 04:47 fibnocic.c~
+-rwxr-xr-x 1 root root   8768 Aug 11 10:44 fibnocic.o
+-rwxr-xr-x 1 root root 112209 Aug 11 10:48 joultokilo
+-rwxr-xr-x 1 root root    280 Aug 11 10:46 joultokilo.c
+-rwxr-xr-x 1 root root    276 Aug 11 04:47 joultokilo.c~
+-rwxr-xr-x 1 root root   8768 Aug 11 10:47 joultokilo.o
+-rwxr-xr-x 1 root root 111051 Aug 11 10:53 kmperhour
+-rwxr-xr-x 1 root root    193 Aug 11 10:49 kmperhour.c
+-rwxr-xr-x 1 root root      0 Aug 11 04:47 kmperhour.cclear
+-rwxr-xr-x 1 root root   8720 Aug 11 10:52 kmperhour.o
+-rwxr-xr-x 1 root root    318 Aug 11 04:47 leap.c~
+-rwxr-xr-x 1 root root 159898 Aug 11 14:31 leapyr
+-rwxr-xr-x 1 root root    322 Aug 11 14:29 leapyr.c
+-rwxr-xr-x 1 root root   8720 Aug 11 14:30 leapyr.o
+-rwxr-xr-x 1 root root 105543 Aug 11 14:34 luminous
+-rwxr-xr-x 1 root root    274 Aug 11 14:32 luminous.c
+-rwxr-xr-x 1 root root    314 Aug 11 04:47 luminous.c~
+-rwxr-xr-x 1 root root   8768 Aug 11 14:34 luminous.o
+-rwxr-xr-x 1 root root 152145 Aug 11 14:39 palindrome
+-rwxr-xr-x 1 root root    344 Aug 11 14:38 palindrome.c
+-rwxr-xr-x 1 root root   8768 Aug 11 14:38 palindrome.o
+-rwxr-xr-x 1 root root    593 Aug 11 14:42 pattern.c
+-rwxr-xr-x 1 root root    578 Aug 11 04:47 pattern.c~
+-rwxr-xr-x 1 root root 125280 Aug 11 14:45 pow
+-rwxr-xr-x 1 root root    251 Aug 11 14:43 pow.c
+-rwxr-xr-x 1 root root    247 Aug 11 04:47 pow.c~
+-rwxr-xr-x 1 root root   8760 Aug 11 14:43 pow.o
+-rwxr-xr-x 1 root root 107724 Aug 11 14:48 sumdig
+-rwxr-xr-x 1 root root    207 Aug 11 14:45 sumdig.c
+-rwxr-xr-x 1 root root    203 Aug 11 04:47 sumdig.c~
+-rwxr-xr-x 1 root root   8720 Aug 11 14:47 sumdig.o
+-rwxr-xr-x 1 root root    216 Aug 11 04:47 velocity.c~
+
+./kumar/Exercise-3:
+total 992
+-rwxr-xr-x 1 root root   7627 Aug 11 16:58 a.out
+-rwxr-xr-x 1 root root 111170 Aug 11 14:52 pgm1
+-rwxr-xr-x 1 root root    763 Aug 11 04:47 pgm1.c
+-rwxr-xr-x 1 root root    721 Aug 11 04:47 pgm1.c~
+-rwxr-xr-x 1 root root   8800 Aug 11 14:50 pgm1.o
+-rwxr-xr-x 1 root root 107648 Aug 11 14:56 pgm2
+-rwxr-xr-x 1 root root    373 Aug 11 04:47 pgm2.c
+-rwxr-xr-x 1 root root    373 Aug 11 04:47 pgm2.c~
+-rwxr-xr-x 1 root root   8776 Aug 11 14:55 pgm2.o
+-rwxr-xr-x 1 root root 128215 Aug 11 15:00 pgm3
+-rwxr-xr-x 1 root root    548 Aug 11 04:47 pgm3.c
+-rwxr-xr-x 1 root root    548 Aug 11 04:47 pgm3.c~
+-rwxr-xr-x 1 root root   8792 Aug 11 14:58 pgm3.o
+-rw-r--r-- 1 root root  58808 Aug 11 16:57 pgm4
+-rwxr-xr-x 1 root root    734 Aug 11 04:47 pgm4.c
+-rwxr-xr-x 1 root root    734 Aug 11 04:47 pgm4.c~
+-rwxr-xr-x 1 root root   7437 Aug 11 16:57 pgm4.o
+-rw-r--r-- 1 root root  59760 Aug 11 16:59 pgm5
+-rwxr-xr-x 1 root root    912 Aug 11 04:47 pgm5.c
+-rwxr-xr-x 1 root root    853 Aug 11 04:47 pgm5.c~
+-rwxr-xr-x 1 root root   7627 Aug 11 16:58 pgm5.o
+-rwxr-xr-x 1 root root   1939 Aug 11 04:47 pgm6.c
+-rwxr-xr-x 1 root root   1939 Aug 11 04:47 pgm6.c~
+-rwxr-xr-x 1 root root 145092 Aug 11 12:57 pgm6.png
+-rwxr-xr-x 1 root root    875 Aug 11 17:01 stack.c
+-rw-r--r-- 1 root root    875 Aug 11 17:00 stack.c~
+-rwxr-xr-x 1 root root   7998 Aug 11 04:47 stack.o
+-rwxr-xr-x 1 root root 115226 Aug 10 23:49 stack.png
+
+./linklist own:
+total 52
+-rwxr-xr-x 1 root root 7618 Sep 14 13:14 a.out
+-rwxr-xr-x 1 root root 1917 Sep 14 13:14 linklist2.c
+-rw-r--r-- 1 root root 1917 Sep 14 13:08 linklist2.c~
+-rwxr-xr-x 1 root root 1351 Sep  8 18:07 linklist.c
+-rwxr-xr-x 1 root root 1885 Sep 14 12:02 linlist3.c
+-rwxr-xr-x 1 root root 1885 Sep 14 12:02 linlist3.c~
+
+./nagur:
+total 18056
+-rwxr-xr-x 1 root root    7037 Aug 23 19:05 a.out
+-rwxr-xr-x 1 root root    7255 Aug 17 15:57 array
+-rw-r--r-- 1 root root     694 Aug 17 13:58 arrays.c
+-rw-r--r-- 1 root root     607 Aug 17 13:56 arrays.c~
+-rw-r--r-- 1 root root     192 Aug 22 12:40 disc.c
+-rwxr-xr-x 1 root root 4316160 May 30  2007 ECE240-Set 1.ppt
+-rwxr-xr-x 1 root root  811008 May 30  2007 ECE240-Set 2.ppt
+-rwxr-xr-x 1 root root 5448192 Aug 28  2013 ECE240-Set 3.ppt
+-rwxr-xr-x 1 root root 7573504 May 30  2007 ECE240-Set 4.ppt
+drwxr-xr-x 2 root root    4096 Aug 24 18:15 exercise 4
+drwx------ 2 root root    4096 Aug 26 10:30 Exercise-5
+drwx------ 2 root root    4096 Aug 10 09:22 Exercise-6(File Handling)
+drwx------ 4 root root    4096 Aug 10 09:22 Fast-Track-C-Day-Five
+drwx------ 3 root root    4096 Aug 10 09:22 Fast-Track-C-Day-Four
+drwx------ 4 root root    4096 Aug 10 09:22 Fast-Track-C-Day-One
+drwx------ 4 root root    4096 Aug 10 09:22 Fast-Track-C-Day-Three
+drwx------ 3 root root    4096 Aug 10 09:22 Fast-Track-C-Day-Two
+-rw-r--r-- 1 root root      51 Aug 23 14:03 i8.c
+-rw-r--r-- 1 root root      49 Aug 23 14:03 i8.c~
+-rw-r--r-- 1 root root     137 Aug 23 19:05 leap.c
+-rw-r--r-- 1 root root     137 Aug 23 19:04 leap.c~
+-rw-r--r-- 1 root root     709 Aug 22 12:11 minmax.c
+-rw-r--r-- 1 root root     713 Aug 22 12:10 minmax.c~
+-rwxr-xr-x 1 root root    7105 Aug 22 12:04 minmax.o
+drwxr-xr-x 5 root root    4096 Aug 18 16:52 nagurbaji_counter
+-rw-r--r-- 1 root root     617 Aug 22 12:57 pd.c
+-rw-r--r-- 1 root root     617 Aug 22 12:56 pd.c~
+-rw-r--r-- 1 root root   67662 Aug 17 15:58 Screenshot1.png
+
+./nagur/exercise 4:
+total 1220
+-rwxr-xr-x 1 root root   6918 Aug 24 18:15 a.out
+-rw-r--r-- 1 root root    562 Aug 24 10:24 document1.c
+-rw-r--r-- 1 root root     70 Aug 24 10:40 hello.c
+-rw-r--r-- 1 root root     66 Aug 24 10:39 hello.c~
+-rw-r--r-- 1 root root    329 Aug 24 10:13 io.c
+-rw-r--r-- 1 root root    326 Aug 24 10:12 io.c~
+-rw-r--r-- 1 root root    666 Aug 24 10:26 ioo.c
+-rw-r--r-- 1 root root    204 Aug 24 12:27 p0.c
+-rw-r--r-- 1 root root    201 Aug 24 12:22 p0.c~
+-rw-r--r-- 1 root root    248 Aug 24 15:52 p1.c
+-rw-r--r-- 1 root root    247 Aug 24 15:52 p1.c~
+-rw-r--r-- 1 root root    104 Aug 24 18:14 p8.c
+-rw-r--r-- 1 root root    106 Aug 24 18:13 p9.c
+-rw-r--r-- 1 root root    233 Aug 24 18:02 p9.c~
+-rwxr-xr-x 1 root root    545 Aug 17 15:33 q01.c
+-rwxr-xr-x 1 root root  65450 Aug 17 15:35 q01.png
+-rwxr-xr-x 1 root root    738 Aug 17 15:38 q02.c
+-rwxr-xr-x 1 root root  78917 Aug 17 15:40 q02.png
+-rwxr-xr-x 1 root root   1944 Aug 17 15:41 q03.c
+-rwxr-xr-x 1 root root  61863 Aug 17 15:43 q03.png
+-rwxr-xr-x 1 root root    626 Aug 17 15:46 q04.c
+-rwxr-xr-x 1 root root  63410 Aug 17 15:50 q04.png
+-rwxr-xr-x 1 root root    469 Aug 17 15:52 q05.c
+-rwxr-xr-x 1 root root  61497 Aug 17 15:53 q05.png
+-rwxr-xr-x 1 root root    404 Aug 17 15:54 q06.c
+-rwxr-xr-x 1 root root 100128 Aug 17 15:55 q06.png
+-rwxr-xr-x 1 root root    377 Aug 17 15:56 q07.c
+-rwxr-xr-x 1 root root  70249 Aug 17 15:57 q07.png
+-rwxr-xr-x 1 root root    376 Aug 17 15:58 q08.c
+-rwxr-xr-x 1 root root  66063 Aug 17 15:59 q08.png
+-rwxr-xr-x 1 root root   1374 Aug 17 15:59 q09.c
+-rwxr-xr-x 1 root root  77670 Aug 17 16:01 q09.png
+-rwxr-xr-x 1 root root    822 Aug 17 16:01 q10.c
+-rwxr-xr-x 1 root root  76074 Aug 17 16:02 q10.png
+-rwxr-xr-x 1 root root    716 Aug 17 16:03 q11.c
+-rwxr-xr-x 1 root root  94827 Aug 17 16:05 q11.png
+-rwxr-xr-x 1 root root    727 Aug 18 13:38 q12.c
+-rwxr-xr-x 1 root root    727 Aug 17 16:05 q12.c~
+-rwxr-xr-x 1 root root  65497 Aug 18 13:38 q12.png
+-rw-r--r-- 1 root root     39 Aug 24 12:15 re1
+-rw-r--r-- 1 root root     19 Aug 24 08:58 re1~
+
+./nagur/Exercise-5:
+total 68
+-rwxr-xr-x 1 root root  7217 Aug 26 10:27 a.out
+-rwxr-xr-x 1 root root 15107 Aug 17  2015 Clist3-Aug15.docx
+-rw-r--r-- 1 root root   452 Aug 26 10:30 ex5_1.c
+-rw-r--r-- 1 root root   452 Aug 26 10:27 ex5_1.c~
+-rwxr-xr-x 1 root root 13860 Aug 18  2015 Lab-4.docx
+
+./nagur/Exercise-6(File Handling):
+total 16
+-rwxr-xr-x 1 root root 12250 Aug 26  2015 Exercise-6_File_Handling.docx
+
+./nagur/Fast-Track-C-Day-Five:
+total 16
+drwx------ 2 root root 4096 Aug 10 09:22 basics
+drwx------ 2 root root 4096 Aug 10 09:22 links
+
+./nagur/Fast-Track-C-Day-Five/basics:
+total 16
+-rwxr-xr-x 1 root root  442 Aug  6  2015 add.c
+-rwxr-xr-x 1 root root 1131 Aug  7  2015 swap.c
+
+./nagur/Fast-Track-C-Day-Five/links:
+total 8
+-rwxr-xr-x 1 root root 2821 Aug  6  2015 scope-rep.c
+
+./nagur/Fast-Track-C-Day-Four:
+total 28
+drwx------ 6 root root  4096 Aug 10 09:22 Class-Programs
+-rwxr-xr-x 1 root root 14763 Aug  7  2015 Exercise-4.docx
+
+./nagur/Fast-Track-C-Day-Four/Class-Programs:
+total 32
+drwx------ 2 root root 4096 Aug 10 09:22 complex-number
+drwx------ 2 root root 4096 Aug 10 09:22 lexer
+drwx------ 2 root root 4096 Aug 10 09:22 pixel-simple
+drwx------ 2 root root 4096 Aug 10 09:22 student
+
+./nagur/Fast-Track-C-Day-Four/Class-Programs/complex-number:
+total 24
+-rwxr-xr-x 1 root root 577 Aug  6  2015 complex.c
+-rwxr-xr-x 1 root root 312 Aug  6  2015 complexnum.h
+-rwxr-xr-x 1 root root 314 Aug  5  2015 complex-spec.c
+
+./nagur/Fast-Track-C-Day-Four/Class-Programs/lexer:
+total 24
+-rwxr-xr-x 1 root root 3377 Aug  6  2015 lexer.c
+-rwxr-xr-x 1 root root  618 Aug  6  2015 lexer.h
+-rwxr-xr-x 1 root root 2269 Aug  6  2015 lexer-spec.c
+
+./nagur/Fast-Track-C-Day-Four/Class-Programs/pixel-simple:
+total 24
+-rwxr-xr-x 1 root root  184 Aug  6  2015 pixel.c
+-rwxr-xr-x 1 root root 1020 Aug  6  2015 pixel.h
+-rwxr-xr-x 1 root root  435 Aug  6  2015 pixel-spec.c
+
+./nagur/Fast-Track-C-Day-Four/Class-Programs/student:
+total 32
+-rwxr-xr-x 1 root root  521 Aug  6  2015 appconsts.h
+-rwxr-xr-x 1 root root  231 Aug  6  2015 main-spec.c
+-rwxr-xr-x 1 root root 1213 Aug  6  2015 student.c
+-rwxr-xr-x 1 root root  553 Aug  6  2015 student.h
+
+./nagur/Fast-Track-C-Day-One:
+total 40
+drwx------ 7 root root  4096 Aug 10 09:22 Class-Programs
+drwx------ 3 root root  4096 Aug 17 17:02 Excercise-1
+-rwxr-xr-x 1 root root 16478 Aug  1  2015 Excercise-2.docx
+
+./nagur/Fast-Track-C-Day-One/Class-Programs:
+total 40
+drwx------ 2 root root 4096 Aug 10 09:22 abs
+drwx------ 2 root root 4096 Aug 10 09:22 chars
+drwx------ 2 root root 4096 Aug 10 09:22 intops
+drwx------ 2 root root 4096 Aug 10 09:22 min
+drwx------ 2 root root 4096 Aug 10 09:22 square
+
+./nagur/Fast-Track-C-Day-One/Class-Programs/abs:
+total 80
+-rwxr-xr-x 1 root root   88 Jul 19  2015 absolute.c
+-rwxr-xr-x 1 root root  280 Jul 20  2015 abs-spec.c
+-rwxr-xr-x 1 root root  100 Jul 20  2015 abs-v1.c
+-rwxr-xr-x 1 root root   75 Jul 20  2015 abs-v2.c
+-rwxr-xr-x 1 root root   96 Jul 20  2015 abs-v3.c
+-rwxr-xr-x 1 root root 8680 Jul 20  2015 bad
+-rwxr-xr-x 1 root root 6280 Jul 20  2015 one
+-rwxr-xr-x 1 root root 6280 Jul 20  2015 two
+
+./nagur/Fast-Track-C-Day-One/Class-Programs/chars:
+total 16
+-rwxr-xr-x 1 root root 386 Jul 23  2015 ascii-chars.c
+-rwxr-xr-x 1 root root 446 Jul 23  2015 isdigit.c
+
+./nagur/Fast-Track-C-Day-One/Class-Programs/intops:
+total 32
+-rwxr-xr-x 1 root root   36 Jul 19  2015 autoinc-tests.c
+-rwxr-xr-x 1 root root 2751 Jul 20  2015 bit-tests.c
+-rwxr-xr-x 1 root root  190 Jul 19  2015 intops.c
+-rwxr-xr-x 1 root root   34 Jul 19  2015 rel-tests.c
+
+./nagur/Fast-Track-C-Day-One/Class-Programs/min:
+total 16
+-rwxr-xr-x 1 root root 599 Jul 19  2015 min-spec.c
+-rwxr-xr-x 1 root root  67 Jul 19  2015 min-v1.c
+
+./nagur/Fast-Track-C-Day-One/Class-Programs/square:
+total 40
+-rwxr-xr-x 1 root root  215 Jul 27  2015 simplest.c
+-rwxr-xr-x 1 root root 1023 Jul 27  2015 square-fun-v4.c
+-rwxr-xr-x 1 root root  264 Jul 20  2015 square-v1.c
+-rwxr-xr-x 1 root root  284 Jul 19  2015 square-v2.c
+-rwxr-xr-x 1 root root  319 Jul 20  2015 square-v3.c
+
+./nagur/Fast-Track-C-Day-One/Excercise-1:
+total 124
+-rwxr-xr-x 1 root root 7029 Aug 10 15:54 a.out
+drwxr-xr-x 2 root root 4096 Aug 10 15:24 nagur
+-rwxr-xr-x 1 root root  189 Aug 10 15:53 pgm1.c
+-rw-r--r-- 1 root root  189 Aug 10 15:12 pgm1.c~
+-rwxr-xr-x 1 root root  481 Aug 17 16:18 pgm2.c
+-rw-r--r-- 1 root root  482 Aug  1  2015 pgm2.c~
+-rwxr-xr-x 1 root root  332 Aug  1  2015 pgm3.c
+-rwxr-xr-x 1 root root  416 Aug  1  2015 pgm4.c
+-rwxr-xr-x 1 root root  429 Aug  1  2015 pgm5.c
+-rwxr-xr-x 1 root root  294 Aug  1  2015 pgm6.c
+-rwxr-xr-x 1 root root  666 Aug  1  2015 pgm7.c
+-rwxr-xr-x 1 root root  298 Aug  1  2015 pgm8.c
+-rw-r--r-- 1 root root  661 Aug 17 17:00 qs1.c
+-rw-r--r-- 1 root root  661 Aug 17 16:59 qs1.c~
+-rwxr-xr-x 1 root root  147 Aug  1  2015 README.txt
+
+./nagur/Fast-Track-C-Day-One/Excercise-1/nagur:
+total 0
+
+./nagur/Fast-Track-C-Day-Three:
+total 16
+drwx------ 2 root root 4096 Aug 10 09:22 Exercise-3
+drwx------ 4 root root 4096 Aug 10 09:22 third
+
+./nagur/Fast-Track-C-Day-Three/Exercise-3:
+total 56
+-rwxr-xr-x 1 root root  721 Aug  3  2015 pgm1.c
+-rwxr-xr-x 1 root root  343 Aug  3  2015 pgm2.c
+-rwxr-xr-x 1 root root  567 Aug  3  2015 pgm3.c
+-rwxr-xr-x 1 root root  726 Aug  3  2015 pgm4.c
+-rwxr-xr-x 1 root root  810 Aug  3  2015 pgm5.c
+-rwxr-xr-x 1 root root 1939 Aug  4  2015 pgm6.c
+-rwxr-xr-x 1 root root  875 Aug  4  2015 stack.c
+
+./nagur/Fast-Track-C-Day-Three/third:
+total 16
+drwx------ 6 root root 4096 Aug 10 09:22 char-arrays
+drwx------ 6 root root 4096 Aug 10 09:22 int-arrays
+
+./nagur/Fast-Track-C-Day-Three/third/char-arrays:
+total 32
+drwx------ 2 root root 4096 Aug 10 09:22 simple-replace
+drwx------ 2 root root 4096 Aug 10 09:22 std-str-funs
+drwx------ 2 root root 4096 Aug 10 09:22 strip-leading-spaces
+drwx------ 2 root root 4096 Aug 10 09:22 strip-trailing-spaces
+
+./nagur/Fast-Track-C-Day-Three/third/char-arrays/simple-replace:
+total 16
+-rwxr-xr-x 1 root root 449 Jul 27  2015 replace.c
+-rwxr-xr-x 1 root root 979 Jul 27  2015 replace-spec.c
+
+./nagur/Fast-Track-C-Day-Three/third/char-arrays/std-str-funs:
+total 8
+-rwxr-xr-x 1 root root 2932 Jul 26  2015 strlen-tests.c
+
+./nagur/Fast-Track-C-Day-Three/third/char-arrays/strip-leading-spaces:
+total 16
+-rwxr-xr-x 1 root root 593 Jul 26  2015 strip-spaces.c
+-rwxr-xr-x 1 root root 721 Jul 26  2015 strip-spaces-spec.c
+
+./nagur/Fast-Track-C-Day-Three/third/char-arrays/strip-trailing-spaces:
+total 16
+-rwxr-xr-x 1 root root 609 Jul 26  2015 strip-spaces.c
+-rwxr-xr-x 1 root root 780 Jul 26  2015 strip-spaces-spec.c
+
+./nagur/Fast-Track-C-Day-Three/third/int-arrays:
+total 32
+drwx------ 2 root root 4096 Aug 10 09:22 array-args
+drwx------ 2 root root 4096 Aug 10 09:22 gen-fibs
+drwx------ 2 root root 4096 Aug 10 09:22 intro
+drwx------ 6 root root 4096 Aug 10 09:22 search
+
+./nagur/Fast-Track-C-Day-Three/third/int-arrays/array-args:
+total 16
+-rwxr-xr-x 1 root root 443 Jul 23  2015 arr-sum.c
+-rwxr-xr-x 1 root root 536 Jul 23  2015 arr-sum-spec.c
+
+./nagur/Fast-Track-C-Day-Three/third/int-arrays/gen-fibs:
+total 16
+-rwxr-xr-x 1 root root 274 Jul 24  2015 gen-fibs.c
+-rwxr-xr-x 1 root root 546 Jul 24  2015 gen-fibs-spec.c
+
+./nagur/Fast-Track-C-Day-Three/third/int-arrays/intro:
+total 24
+-rwxr-xr-x 1 root root 451 Jul 23  2015 arr.c
+-rwxr-xr-x 1 root root 470 Jul 23  2015 arr-init.c
+-rwxr-xr-x 1 root root 558 Jul 23  2015 arr-init-macro.c
+
+./nagur/Fast-Track-C-Day-Three/third/int-arrays/search:
+total 32
+drwx------ 2 root root 4096 Aug 26  2015 search-backwards
+drwx------ 2 root root 4096 Aug 10 09:22 search-from
+drwx------ 2 root root 4096 Aug 10 09:22 search-linear
+drwx------ 2 root root 4096 Aug 10 09:22 search-within
+
+./nagur/Fast-Track-C-Day-Three/third/int-arrays/search/search-backwards:
+total 0
+
+./nagur/Fast-Track-C-Day-Three/third/int-arrays/search/search-from:
+total 16
+-rwxr-xr-x 1 root root 508 Jul 24  2015 search-from.c
+-rwxr-xr-x 1 root root 769 Jul 24  2015 search-from-spec.c
+
+./nagur/Fast-Track-C-Day-Three/third/int-arrays/search/search-linear:
+total 16
+-rwxr-xr-x 1 root root 613 Jul 24  2015 search-spec.c
+-rwxr-xr-x 1 root root 483 Jul 24  2015 search-v1.c
+
+./nagur/Fast-Track-C-Day-Three/third/int-arrays/search/search-within:
+total 16
+-rwxr-xr-x 1 root root 509 Jul 24  2015 search-within.c
+-rwxr-xr-x 1 root root 950 Jul 24  2015 search-within-spec.c
+
+./nagur/Fast-Track-C-Day-Two:
+total 8
+drwx------ 5 root root 4096 Aug 10 09:22 second
+
+./nagur/Fast-Track-C-Day-Two/second:
+total 24
+drwx------ 2 root root 4096 Aug 10 09:22 fib
+drwx------ 6 root root 4096 Aug 10 09:22 quad-root
+drwx------ 2 root root 4096 Aug 10 09:22 sum-nums
+
+./nagur/Fast-Track-C-Day-Two/second/fib:
+total 24
+-rwxr-xr-x 1 root root 416 Jul 21  2015 fib-spec.c
+-rwxr-xr-x 1 root root 275 Jul 21  2015 fib-v1.c
+-rwxr-xr-x 1 root root 133 Jul 21  2015 fib-v2.c
+
+./nagur/Fast-Track-C-Day-Two/second/quad-root:
+total 32
+drwx------ 2 root root 4096 Aug 10 09:22 base
+drwx------ 2 root root 4096 Aug 10 09:22 multi-roots-globals
+drwx------ 2 root root 4096 Aug 10 09:22 one-root
+drwx------ 2 root root 4096 Aug 26  2015 working-with-globals
+
+./nagur/Fast-Track-C-Day-Two/second/quad-root/base:
+total 24
+-rwxr-xr-x 1 root root  883 Jul 23  2015 naive-quad-root.c
+-rwxr-xr-x 1 root root 1000 Jul 23  2015 quad-root.c
+-rwxr-xr-x 1 root root 1627 Jul 23  2015 quad-root-spec.c
+
+./nagur/Fast-Track-C-Day-Two/second/quad-root/multi-roots-globals:
+total 8
+-rwxr-xr-x 1 root root 3717 Jul 23  2015 quad-root-spec.c
+
+./nagur/Fast-Track-C-Day-Two/second/quad-root/one-root:
+total 24
+-rwxr-xr-x 1 root root  883 Jul 23  2015 naive-quad-root.c
+-rwxr-xr-x 1 root root 1000 Jul 23  2015 quad-root.c
+-rwxr-xr-x 1 root root 1627 Jul 23  2015 quad-root-spec.c
+
+./nagur/Fast-Track-C-Day-Two/second/quad-root/working-with-globals:
+total 0
+
+./nagur/Fast-Track-C-Day-Two/second/sum-nums:
+total 48
+-rwxr-xr-x 1 root root 344 Jul 22  2015 sum-nums-spec.c
+-rwxr-xr-x 1 root root 242 Jul 22  2015 sum_nums-v1.c
+-rwxr-xr-x 1 root root 242 Jul 22  2015 sum-nums-v1.c
+-rwxr-xr-x 1 root root 230 Jul 22  2015 sum-nums-v2.c
+-rwxr-xr-x 1 root root 204 Jul 22  2015 sum-nums-v3.c
+-rwxr-xr-x 1 root root 192 Jul 22  2015 sum-nums-v4.c
+
+./nagur/nagurbaji_counter:
+total 64
+-rw-r--r-- 1 root root  594 Aug 18 15:37 baji.sv
+drwxr-xr-x 4 root root 4096 Aug 18 15:38 INCA_libs
+-rw-r--r-- 1 root root  195 Aug 18 15:42 irun.key
+-rw-r--r-- 1 root root 3061 Aug 18 16:36 irun.log
+-rw-r--r-- 1 root root  311 Aug 18 15:09 nag.sv
+-rw-r--r-- 1 root root  311 Aug 18 15:08 nag.v
+-rw-r--r-- 1 root root 2795 Aug 18 16:52 simvision6471.diag
+drwxr-xr-x 2 root root 4096 Aug 18 15:41 waves.shm
+
+./nagur/nagurbaji_counter/INCA_libs:
+total 20
+drwxr-xr-x 4 root root 4096 Aug 18 16:36 irun.lnx8664.13.10.nc
+lrwxrwxrwx 1 root root   21 Aug 18 15:38 irun.nc -> irun.lnx8664.13.10.nc
+drwxr-xr-x 2 root root 4096 Aug 18 15:25 worklib
+
+./nagur/nagurbaji_counter/INCA_libs/irun.lnx8664.13.10.nc:
+total 168
+-rw-r--r-- 1 root root  116 Aug 18 15:38 bind.lst.lnx8664
+-rw-r--r-- 1 root root   21 Aug 18 15:38 cds.lib
+-rw-r--r-- 1 root root   57 Aug 18 15:25 cdsrun.lib
+-rw-r--r-- 1 root root  138 Aug 18 15:38 files.ts
+-rw-r--r-- 1 root root 1280 Aug 18 15:25 hdlrun.var
+-rw-r--r-- 1 root root  266 Aug 18 15:38 hdl.var
+-rw-r--r-- 1 root root   87 Aug 18 15:38 irun.args
+-rw-r--r-- 1 root root  256 Aug 18 15:38 ncelab.args
+-rw-r--r-- 1 root root  302 Aug 18 15:38 ncelab.env
+-rw-r--r-- 1 root root   70 Aug 18 15:38 ncelab.hrd
+-rw-r--r-- 1 root root  323 Aug 18 15:38 ncsim.args
+-rw-r--r-- 1 root root  222 Aug 18 15:38 ncsim.env
+-rw-r--r-- 1 root root  376 Aug 18 15:38 ncsim_restart.args
+-rw-r--r-- 1 root root  222 Aug 18 15:38 ncsim_restart.env
+-rw-r--r-- 1 root root  313 Aug 18 15:38 ncvlog.args
+-rw-r--r-- 1 root root  302 Aug 18 15:38 ncvlog.env
+-rw-r--r-- 1 root root  105 Aug 18 15:38 ncvlog.files
+-rw-r--r-- 1 root root   63 Aug 18 15:38 ncvlog.hrd
+drwxr-xr-x 2 root root 4096 Aug 18 15:25 temp
+-rw-r--r-- 1 root root   26 Aug 18 15:38 UVMHOME
+drwxr-xr-x 2 root root 4096 Aug 18 15:25 xllibs
+
+./nagur/nagurbaji_counter/INCA_libs/irun.lnx8664.13.10.nc/temp:
+total 0
+
+./nagur/nagurbaji_counter/INCA_libs/irun.lnx8664.13.10.nc/xllibs:
+total 0
+
+./nagur/nagurbaji_counter/INCA_libs/worklib:
+total 924
+-rw-r--r-- 1 root root     11 Aug 18 15:25 cdsinfo.tag
+-rw-r--r-- 1 root root 927483 Aug 18 15:38 inca.lnx8664.021.pak
+
+./nagur/nagurbaji_counter/waves.shm:
+total 40
+-rw-r--r-- 1 root root  464 Aug 18 15:41 waves-1.trn
+-rw-r--r-- 1 root root  464 Aug 18 15:41 waves-2.trn
+-rw-r--r-- 1 root root  464 Aug 18 16:36 waves-3.trn
+-rw-r--r-- 1 root root 1392 Aug 18 16:36 waves.dsn
+-rw-r--r-- 1 root root  464 Aug 18 15:41 waves.trn
+
+./Naresh:
+total 1224
+-rwxr-xr-x  1 root root   7092 Aug  2 11:22 a.out
+-rwxr-xr-x  1 root root 435656 Aug  3 11:12 C Basics.pdf
+-rwxr-xr-x  1 root root 582924 Aug  2 11:45 Clist-A14.pdf
+drwxr-xr-x  9 root root   4096 Aug  2 15:58 Day_one
+drwxr-xr-x 11 root root   4096 Aug  3 16:44 Day_two
+drwxr-xr-x  2 root root   4096 Aug  5 12:30 Exercise-3
+drwxr-xr-x  2 root root   4096 Aug  7 16:19 Exercise 4
+drwx------  9 root root   4096 Aug 26  2015 Fast-Track-C
+-rw-r--r--  1 root root     56 Aug  2 09:23 first.c
+-rw-r--r--  1 root root     37 Aug  2 09:20 first.c~
+-rwxr-xr-x  1 root root   6703 Aug  2 09:38 first.o
+-rw-r--r--  1 root root    329 Aug  2 10:36 largest3numbers.c
+-rw-r--r--  1 root root    391 Aug  2 10:33 largest3numbers.c~
+-rwxr-xr-x  1 root root   6835 Aug  2 10:36 largest3numbers.o
+drwxr-xr-x  7 root root   4096 Aug  3 10:22 lectures
+-rw-r--r--  1 root root    229 Aug  2 11:15 primenumber.c
+-rw-r--r--  1 root root    228 Aug  2 11:14 primenumber.c~
+-rw-r--r--  1 root root    298 Aug  2 11:29 primeornot.c
+-rw-r--r--  1 root root    278 Aug  2 11:22 primeornot.c~
+-rw-r--r--  1 root root    102 Aug  2 10:41 sumof3numbers~
+-rw-r--r--  1 root root    243 Aug  2 11:09 sumof3numbers.c
+-rw-r--r--  1 root root    243 Aug  2 11:09 sumof3numbers.c~
+-rwxr-xr-x  1 root root   6835 Aug  2 10:43 sumof3numbers.o
+-rw-r--r--  1 root root    129 Aug  2 10:48 volumeofcone~
+-rw-r--r--  1 root root    122 Aug  2 10:53 volumeofcone.c
+-rw-r--r--  1 root root    129 Aug  2 10:49 volumeofcone.c~
+
+./Naresh/Day_one:
+total 64
+drwxr-xr-x 2 root root 4096 Aug  3 11:42 1.Details
+drwxr-xr-x 2 root root 4096 Aug  2 14:57 2.Rectangle
+drwxr-xr-x 2 root root 4096 Aug  2 15:13 3.Mistake
+drwxr-xr-x 2 root root 4096 Aug  2 15:46 4.Temperature Conversion
+drwxr-xr-x 2 root root 4096 Aug  2 15:44 5.Volume of the Sphere
+drwxr-xr-x 2 root root 4096 Aug  2 15:54 6.Minutes
+drwxr-xr-x 2 root root 4096 Aug  2 16:16 7.Hours
+-rw-r--r-- 1 root root  489 Aug  2 14:58 details.c~
+
+./Naresh/Day_one/1.Details:
+total 40
+-rwxr-xr-x 1 root root 7222 Aug  3 11:41 a.out
+-rw-r--r-- 1 root root  530 Aug  3 11:41 details.c
+-rw-r--r-- 1 root root  530 Aug  3 11:41 details.c~
+-rwxr-xr-x 1 root root 7222 Aug  3 11:42 details.o
+
+./Naresh/Day_one/2.Rectangle:
+total 28
+-rwxr-xr-x 1 root root 7056 Aug  2 14:57 a.out
+-rw-r--r-- 1 root root  337 Aug  2 14:57 rectangle.c
+-rw-r--r-- 1 root root  339 Aug  2 14:56 rectangle.c~
+
+./Naresh/Day_one/3.Mistake:
+total 28
+-rwxr-xr-x 1 root root 6974 Aug  2 15:13 a.out
+-rw-r--r-- 1 root root  221 Aug  2 15:13 mistake.c
+-rw-r--r-- 1 root root  218 Aug  2 15:12 mistake.c~
+
+./Naresh/Day_one/4.Temperature Conversion:
+total 28
+-rwxr-xr-x 1 root root 6993 Aug  2 15:37 a.out
+-rw-r--r-- 1 root root  224 Aug  2 15:46 conversion.c
+-rw-r--r-- 1 root root  216 Aug  2 15:37 conversion.c~
+
+./Naresh/Day_one/5.Volume of the Sphere:
+total 28
+-rwxr-xr-x 1 root root 7005 Aug  2 15:44 a.out
+-rw-r--r-- 1 root root  217 Aug  2 15:44 volumeofsphere.c
+-rw-r--r-- 1 root root  217 Aug  2 15:44 volumeofsphere.c~
+
+./Naresh/Day_one/6.Minutes:
+total 28
+-rwxr-xr-x 1 root root 6982 Aug  2 15:54 a.out
+-rw-r--r-- 1 root root  237 Aug  2 15:54 minutes.c
+-rw-r--r-- 1 root root  238 Aug  2 15:53 minutes.c~
+
+./Naresh/Day_one/7.Hours:
+total 28
+-rwxr-xr-x 1 root root 7044 Aug  2 16:13 a.out
+-rw-r--r-- 1 root root  242 Aug  2 16:16 hours.c
+-rw-r--r-- 1 root root  235 Aug  2 16:13 hours.c~
+
+./Naresh/Day_two:
+total 72
+drwxr-xr-x 2 root root 4096 Aug  3 16:08 1.Grade
+drwxr-xr-x 2 root root 4096 Aug  3 16:58 2.Modifier
+drwxr-xr-x 2 root root 4096 Aug  3 17:00 3.Rupees
+drwxr-xr-x 2 root root 4096 Aug  4 11:05 4.Salary
+drwxr-xr-x 2 root root 4096 Aug  4 11:12 5.Resistance
+drwxr-xr-x 2 root root 4096 Aug  4 12:23 6.Average
+drwxr-xr-x 2 root root 4096 Aug  4 12:25 7.Multiplication Table
+drwxr-xr-x 2 root root 4096 Aug  3 16:48 8.Words
+drwxr-xr-x 2 root root 4096 Aug  3 16:48 9.Modify Words
+
+./Naresh/Day_two/1.Grade:
+total 68
+-rwxr-xr-x 1 root root 7140 Aug  3 16:08 a.out
+-rw-r--r-- 1 root root  452 Aug  3 16:06 grade.c
+-rw-r--r-- 1 root root  456 Aug  3 16:06 grade.c~
+-rwxr-xr-x 1 root root 7140 Aug  3 16:08 grade.o
+-rw-r--r-- 1 root root  421 Aug  3 14:36 grades.c
+-rw-r--r-- 1 root root  421 Aug  3 14:35 grades.c~
+-rwxr-xr-x 1 root root 7165 Aug  3 14:36 grades.o
+
+./Naresh/Day_two/2.Modifier:
+total 40
+-rwxr-xr-x 1 root root 7335 Aug  3 16:58 a.out
+-rwxr-xr-x 1 root root  698 Aug  3 16:57 modifier.c
+-rw-r--r-- 1 root root  696 Aug  3 16:57 modifier.c~
+-rwxr-xr-x 1 root root 7335 Aug  3 16:58 modifier.o
+
+./Naresh/Day_two/3.Rupees:
+total 32
+-rwxr-xr-x 1 root root 7686 Aug  3 17:00 a.out
+-rwxr-xr-x 1 root root  666 Aug  2 13:59 rupee.c
+-rwxr-xr-x 1 root root 7686 Aug  3 17:00 rupee.o
+
+./Naresh/Day_two/4.Salary:
+total 40
+-rwxr-xr-x 1 root root 7005 Aug  4 11:04 a.out
+-rwxr-xr-x 1 root root  440 Aug  4 11:05 salary.c
+-rw-r--r-- 1 root root  439 Aug  4 11:04 salary.c~
+-rwxr-xr-x 1 root root 7005 Aug  4 11:04 salary.o
+
+./Naresh/Day_two/5.Resistance:
+total 32
+-rwxr-xr-x 1 root root 7105 Aug  4 11:12 a.out
+-rwxr-xr-x 1 root root  288 Aug  2 14:27 resistance.c
+-rwxr-xr-x 1 root root 7105 Aug  4 11:12 resistance.o
+
+./Naresh/Day_two/6.Average:
+total 28
+-rw-r--r-- 1 root root  269 Aug  4 12:20 avg.c
+-rw-r--r-- 1 root root  272 Aug  4 12:12 avg.c~
+-rwxr-xr-x 1 root root 7018 Aug  4 12:20 avg.o
+
+./Naresh/Day_two/7.Multiplication Table:
+total 32
+-rwxr-xr-x 1 root root 7111 Aug  4 12:24 a.out
+-rwxr-xr-x 1 root root  226 Aug  2 14:54 mul.c
+-rwxr-xr-x 1 root root 7111 Aug  4 12:25 mul.o
+
+./Naresh/Day_two/8.Words:
+total 20
+-rwxr-xr-x 1 root root  801 Aug  2 15:49 word.c
+-rwxr-xr-x 1 root root 7701 Aug  2 15:48 word.o
+
+./Naresh/Day_two/9.Modify Words:
+total 24
+-rwxr-xr-x 1 root root 2212 Aug  2 16:32 mod.c
+-rwxr-xr-x 1 root root 9477 Aug  2 16:32 mod.o
+
+./Naresh/Exercise-3:
+total 200
+-rwxr-xr-x 1 root root  763 Aug  4 14:12 pgm1.c
+-rwxr-xr-x 1 root root  763 Aug  4 14:12 pgm1.c~
+-rwxr-xr-x 1 root root 7386 Aug  4 14:10 pgm1.o
+-rwxr-xr-x 1 root root  380 Aug  4 14:33 pgm2.c
+-rwxr-xr-x 1 root root  361 Aug  4 14:32 pgm2.c~
+-rwxr-xr-x 1 root root 7186 Aug  4 14:32 pgm2.o
+-rwxr-xr-x 1 root root  584 Aug  4 14:40 pgm3.c
+-rwxr-xr-x 1 root root  584 Aug  4 14:39 pgm3.c~
+-rwxr-xr-x 1 root root 7329 Aug  4 14:39 pgm3.o
+-rwxr-xr-x 1 root root  789 Aug  4 15:45 pgm4.c
+-rwxr-xr-x 1 root root  789 Aug  4 15:45 pgm4.c~
+-rwxr-xr-x 1 root root 7428 Aug  4 15:19 pgm4.o
+-rwxr-xr-x 1 root root  853 Aug  4 16:31 pgm5.c
+-rwxr-xr-x 1 root root  841 Aug  4 15:27 pgm5.c~
+-rwxr-xr-x 1 root root 7539 Aug  4 15:30 pgm5.o
+-rwxr-xr-x 1 root root 2090 Aug  5 12:30 pgm6.c
+-rwxr-xr-x 1 root root 2090 Aug  5 12:30 pgm6.c~
+-rwxr-xr-x 1 root root 9332 Aug  5 12:30 pgm6.o
+-rwxr-xr-x 1 root root 1013 Aug  4 15:55 stack.c
+-rwxr-xr-x 1 root root 1013 Aug  4 15:53 stack.c~
+-rwxr-xr-x 1 root root 7998 Aug  4 15:52 stack.o
+
+./Naresh/Exercise 4:
+total 364
+-rwxr-xr-x 1 root root 14763 Aug  7  2015 Exercise-4.docx
+-rwxr-xr-x 1 root root   822 Aug  7 16:17 Q10.c
+-rwxr-xr-x 1 root root   822 Aug  7 16:17 Q10.c~
+-rwxr-xr-x 1 root root  7177 Aug  7 16:18 Q10.o
+-rwxr-xr-x 1 root root   716 Aug  7 16:18 Q11.c
+-rwxr-xr-x 1 root root   683 Aug  7 18:47 Q11.c~
+-rwxr-xr-x 1 root root  7299 Aug  7 16:18 Q11.o
+-rwxr-xr-x 1 root root   727 Aug  7 16:19 Q12.c
+-rwxr-xr-x 1 root root   716 Aug  7 16:19 Q12.c~
+-rwxr-xr-x 1 root root  7299 Aug  7 16:19 Q12.o
+-rwxr-xr-x 1 root root   545 Aug  7 15:23 Q1.c
+-rwxr-xr-x 1 root root   493 Aug  7 15:22 Q1.c~
+-rwxr-xr-x 1 root root  7291 Aug  7 15:23 Q1.o
+-rwxr-xr-x 1 root root   738 Aug  7 16:00 Q2.c
+-rwxr-xr-x 1 root root   714 Aug  7 15:50 Q2.c~
+-rwxr-xr-x 1 root root  7406 Aug  7 15:50 Q2.o
+-rwxr-xr-x 1 root root  1835 Aug  7 16:01 Q3.c
+-rwxr-xr-x 1 root root  1814 Aug  7 15:54 Q3.c~
+-rwxr-xr-x 1 root root  8793 Aug  7 15:53 Q3.o
+-rwxr-xr-x 1 root root   626 Aug  7 15:59 Q4.c
+-rwxr-xr-x 1 root root   626 Aug  7 15:59 Q4.c~
+-rwxr-xr-x 1 root root  7488 Aug  7 15:58 Q4.o
+-rwxr-xr-x 1 root root   469 Aug  7 16:01 Q5.c
+-rwxr-xr-x 1 root root   454 Aug  7 16:01 Q5.c~
+-rwxr-xr-x 1 root root  7089 Aug  7 16:01 Q5.o
+-rwxr-xr-x 1 root root   404 Aug  7 16:02 Q6.c
+-rwxr-xr-x 1 root root   383 Aug  7 17:25 Q6.c~
+-rwxr-xr-x 1 root root  7186 Aug  7 16:04 Q6.o
+-rwxr-xr-x 1 root root   377 Aug  7 16:04 Q7.c
+-rwxr-xr-x 1 root root   362 Aug  7 17:28 Q7.c~
+-rwxr-xr-x 1 root root  7064 Aug  7 16:04 Q7.o
+-rwxr-xr-x 1 root root   376 Aug  7 16:05 Q8.c
+-rwxr-xr-x 1 root root   376 Aug  7 16:05 Q8.c~
+-rwxr-xr-x 1 root root  7155 Aug  7 16:05 Q8.o
+-rwxr-xr-x 1 root root  1374 Aug  7 16:15 Q9.c
+-rwxr-xr-x 1 root root  1354 Aug  7 16:14 Q9.c~
+-rwxr-xr-x 1 root root  8298 Aug  7 16:15 Q9.o
+
+./Naresh/Fast-Track-C:
+total 56
+drwx------ 2 root root 4096 Aug  8 16:25 Exercise-5
+drwx------ 2 root root 4096 Aug  8 16:26 Exercise-6(File Handling)
+drwx------ 4 root root 4096 Aug  2 11:56 Fast-Track-C-Day-Five
+drwx------ 4 root root 4096 Aug  9 15:30 Fast-Track-C-Day-Four
+drwx------ 5 root root 4096 Aug  9 16:28 Fast-Track-C-Day-One
+drwx------ 4 root root 4096 Aug  2 11:56 Fast-Track-C-Day-Three
+drwx------ 3 root root 4096 Aug  2 11:56 Fast-Track-C-Day-Two
+
+./Naresh/Fast-Track-C/Exercise-5:
+total 188
+-rwxr-xr-x 1 root root 15107 Aug 17  2015 Clist3-Aug15.docx
+-rw-r--r-- 1 root root 69768 Aug  8 16:24 Clist3-Aug15.pdf
+-rwxr-xr-x 1 root root 13860 Aug 18  2015 Lab-4.docx
+-rw-r--r-- 1 root root 60671 Aug  8 16:24 Lab-4.pdf
+
+./Naresh/Fast-Track-C/Exercise-6(File Handling):
+total 104
+-rwxr-xr-x 1 root root 12250 Aug 26  2015 Exercise-6_File_Handling.docx
+-rw-r--r-- 1 root root 78820 Aug  8 16:22 Exercise-6_File_Handling.pdf
+
+./Naresh/Fast-Track-C/Fast-Track-C-Day-Five:
+total 16
+drwx------ 2 root root 4096 Aug  2 11:56 basics
+drwx------ 2 root root 4096 Aug  2 11:56 links
+
+./Naresh/Fast-Track-C/Fast-Track-C-Day-Five/basics:
+total 16
+-rwxr-xr-x 1 root root  442 Aug  6  2015 add.c
+-rwxr-xr-x 1 root root 1131 Aug  7  2015 swap.c
+
+./Naresh/Fast-Track-C/Fast-Track-C-Day-Five/links:
+total 8
+-rwxr-xr-x 1 root root 2821 Aug  6  2015 scope-rep.c
+
+./Naresh/Fast-Track-C/Fast-Track-C-Day-Four:
+total 152
+-rw-r--r-- 1 root root  705 Aug  8 16:16 array.c~
+drwx------ 6 root root 4096 Aug  2 11:56 Class-Programs
+drwxr-xr-x 2 root root 4096 Aug  9 15:30 Exercise 4
+-rw-r--r-- 1 root root  668 Aug  9 14:41 grade.c~
+-rw-r--r-- 1 root root  429 Aug  9 15:03 maxnum.c~
+-rw-r--r-- 1 root root  800 Aug  9 15:25 name.c~
+-rw-r--r-- 1 root root  362 Aug  9 15:08 palin.c~
+-rw-r--r-- 1 root root  822 Aug  7 16:17 Q10.c~
+-rw-r--r-- 1 root root  716 Aug  7 16:18 Q11.c~
+-rw-r--r-- 1 root root  727 Aug  7 16:19 Q12.c~
+-rw-r--r-- 1 root root  479 Aug  9 14:21 Q1.c~
+-rw-r--r-- 1 root root 1835 Aug  7 16:01 Q3.c~
+-rw-r--r-- 1 root root  626 Aug  7 15:59 Q4.c~
+-rw-r--r-- 1 root root  469 Aug  7 16:01 Q5.c~
+-rw-r--r-- 1 root root  404 Aug  7 16:02 Q6.c~
+-rw-r--r-- 1 root root  343 Aug  9 15:10 Q7.c~
+-rw-r--r-- 1 root root  337 Aug  9 15:15 Q8.c~
+-rw-r--r-- 1 root root 1326 Aug  9 15:23 Q9.c~
+-rw-r--r-- 1 root root  337 Aug  9 15:19 voweloc.c~
+
+./Naresh/Fast-Track-C/Fast-Track-C-Day-Four/Class-Programs:
+total 32
+drwx------ 2 root root 4096 Aug  2 11:56 complex-number
+drwx------ 2 root root 4096 Aug  2 11:56 lexer
+drwx------ 2 root root 4096 Aug  2 11:56 pixel-simple
+drwx------ 2 root root 4096 Aug  2 11:56 student
+
+./Naresh/Fast-Track-C/Fast-Track-C-Day-Four/Class-Programs/complex-number:
+total 24
+-rwxr-xr-x 1 root root 577 Aug  6  2015 complex.c
+-rwxr-xr-x 1 root root 312 Aug  6  2015 complexnum.h
+-rwxr-xr-x 1 root root 314 Aug  5  2015 complex-spec.c
+
+./Naresh/Fast-Track-C/Fast-Track-C-Day-Four/Class-Programs/lexer:
+total 24
+-rwxr-xr-x 1 root root 3377 Aug  6  2015 lexer.c
+-rwxr-xr-x 1 root root  618 Aug  6  2015 lexer.h
+-rwxr-xr-x 1 root root 2269 Aug  6  2015 lexer-spec.c
+
+./Naresh/Fast-Track-C/Fast-Track-C-Day-Four/Class-Programs/pixel-simple:
+total 24
+-rwxr-xr-x 1 root root  184 Aug  6  2015 pixel.c
+-rwxr-xr-x 1 root root 1020 Aug  6  2015 pixel.h
+-rwxr-xr-x 1 root root  435 Aug  6  2015 pixel-spec.c
+
+./Naresh/Fast-Track-C/Fast-Track-C-Day-Four/Class-Programs/student:
+total 32
+-rwxr-xr-x 1 root root  521 Aug  6  2015 appconsts.h
+-rwxr-xr-x 1 root root  231 Aug  6  2015 main-spec.c
+-rwxr-xr-x 1 root root 1213 Aug  6  2015 student.c
+-rwxr-xr-x 1 root root  553 Aug  6  2015 student.h
+
+./Naresh/Fast-Track-C/Fast-Track-C-Day-Four/Exercise 4:
+total 468
+-rwxr-xr-x 1 root root  7172 Aug  9 15:29 a.out
+-rwxr-xr-x 1 root root   479 Aug  9 14:22 array.c
+-rwxr-xr-x 1 root root  7291 Aug  9 14:19 array.o
+-rwxr-xr-x 1 root root   536 Aug  9 14:56 ascdes.c
+-rwxr-xr-x 1 root root  7492 Aug  9 14:58 ascdes.o
+-rwxr-xr-x 1 root root  1568 Aug  9 14:51 boost.c
+-rwxr-xr-x 1 root root  8796 Aug  9 14:53 boost.o
+-rwxr-xr-x 1 root root 14763 Aug  7  2015 Exercise-4.docx
+-rw-r--r-- 1 root root 84717 Aug  8 15:17 Exercise-4.pdf
+-rwxr-xr-x 1 root root   667 Aug  9 14:41 grade.c
+-rwxr-xr-x 1 root root  7406 Aug  7 15:50 grade.o
+-rwxr-xr-x 1 root root   428 Aug  9 15:04 maxnum.c
+-rwxr-xr-x 1 root root  7093 Aug  9 15:04 maxnum.o
+-rwxr-xr-x 1 root root   772 Aug  9 15:26 name.c
+-rwxr-xr-x 1 root root  7177 Aug  7 16:18 name.o
+-rwxr-xr-x 1 root root   363 Aug  9 15:09 palin.c
+-rwxr-xr-x 1 root root  7197 Aug  9 15:07 palin.o
+-rwxr-xr-x 1 root root   678 Aug  9 15:27 patt.c
+-rwxr-xr-x 1 root root  7299 Aug  7 16:18 patt.o
+-rwxr-xr-x 1 root root   678 Aug  9 15:28 pattoc.c
+-rwxr-xr-x 1 root root  7299 Aug  7 16:19 pattoc.o
+-rwxr-xr-x 1 root root   822 Aug  7 16:17 Q10.c~
+-rwxr-xr-x 1 root root   683 Aug  7 18:47 Q11.c~
+-rwxr-xr-x 1 root root   716 Aug  7 16:19 Q12.c~
+-rwxr-xr-x 1 root root   493 Aug  7 15:22 Q1.c~
+-rwxr-xr-x 1 root root   714 Aug  7 15:50 Q2.c~
+-rwxr-xr-x 1 root root  1814 Aug  7 15:54 Q3.c~
+-rwxr-xr-x 1 root root   626 Aug  7 15:59 Q4.c~
+-rwxr-xr-x 1 root root   454 Aug  7 16:01 Q5.c~
+-rwxr-xr-x 1 root root   383 Aug  7 17:25 Q6.c~
+-rwxr-xr-x 1 root root   362 Aug  7 17:28 Q7.c~
+-rwxr-xr-x 1 root root   376 Aug  7 16:05 Q8.c~
+-rwxr-xr-x 1 root root  1354 Aug  7 16:14 Q9.c~
+-rwxr-xr-x 1 root root  1313 Aug  9 15:24 string.c
+-rwxr-xr-x 1 root root  8298 Aug  7 16:15 string.o
+-rwxr-xr-x 1 root root   339 Aug  9 15:11 vowel.c
+-rwxr-xr-x 1 root root  7068 Aug  9 15:12 vowel.o
+-rwxr-xr-x 1 root root   337 Aug  9 15:20 voweloc.c
+-rwxr-xr-x 1 root root  7030 Aug  9 15:16 vowloc.o
+
+./Naresh/Fast-Track-C/Fast-Track-C-Day-One:
+total 96
+-rw-r--r-- 1 root root  262 Aug  3 15:03 bintodec.c~
+-rw-r--r-- 1 root root  477 Aug  3 11:49 car.c~
+-rw-r--r-- 1 root root  171 Aug  3 14:47 case.c~
+drwx------ 7 root root 4096 Aug  2 11:56 Class-Programs
+drwxr-xr-x 2 root root 4096 Aug  3 11:52 Exercise-1
+drwxr-xr-x 2 root root 4096 Aug  9 16:28 Exercise-2
+-rw-r--r-- 1 root root  369 Aug  3 14:35 fib.c~
+-rw-r--r-- 1 root root  783 Aug  9 15:46 leap.c~
+-rw-r--r-- 1 root root  183 Aug  9 15:49 leapm.c~
+-rw-r--r-- 1 root root  312 Aug  5 15:17 pattern.c~
+-rw-r--r-- 1 root root 1137 Aug  4 13:49 Q14.c~
+-rw-r--r-- 1 root root  205 Aug  3 14:27 sum.c~
+
+./Naresh/Fast-Track-C/Fast-Track-C-Day-One/Class-Programs:
+total 40
+drwx------ 2 root root 4096 Aug  2 11:56 abs
+drwx------ 2 root root 4096 Aug  2 11:56 chars
+drwx------ 2 root root 4096 Aug  2 11:56 intops
+drwx------ 2 root root 4096 Aug  2 11:56 min
+drwx------ 2 root root 4096 Aug  2 11:56 square
+
+./Naresh/Fast-Track-C/Fast-Track-C-Day-One/Class-Programs/abs:
+total 80
+-rwxr-xr-x 1 root root   88 Jul 19  2015 absolute.c
+-rwxr-xr-x 1 root root  280 Jul 20  2015 abs-spec.c
+-rwxr-xr-x 1 root root  100 Jul 20  2015 abs-v1.c
+-rwxr-xr-x 1 root root   75 Jul 20  2015 abs-v2.c
+-rwxr-xr-x 1 root root   96 Jul 20  2015 abs-v3.c
+-rwxr-xr-x 1 root root 8680 Jul 20  2015 bad
+-rwxr-xr-x 1 root root 6280 Jul 20  2015 one
+-rwxr-xr-x 1 root root 6280 Jul 20  2015 two
+
+./Naresh/Fast-Track-C/Fast-Track-C-Day-One/Class-Programs/chars:
+total 16
+-rwxr-xr-x 1 root root 386 Jul 23  2015 ascii-chars.c
+-rwxr-xr-x 1 root root 446 Jul 23  2015 isdigit.c
+
+./Naresh/Fast-Track-C/Fast-Track-C-Day-One/Class-Programs/intops:
+total 32
+-rwxr-xr-x 1 root root   36 Jul 19  2015 autoinc-tests.c
+-rwxr-xr-x 1 root root 2751 Jul 20  2015 bit-tests.c
+-rwxr-xr-x 1 root root  190 Jul 19  2015 intops.c
+-rwxr-xr-x 1 root root   34 Jul 19  2015 rel-tests.c
+
+./Naresh/Fast-Track-C/Fast-Track-C-Day-One/Class-Programs/min:
+total 16
+-rwxr-xr-x 1 root root 599 Jul 19  2015 min-spec.c
+-rwxr-xr-x 1 root root  67 Jul 19  2015 min-v1.c
+
+./Naresh/Fast-Track-C/Fast-Track-C-Day-One/Class-Programs/square:
+total 40
+-rwxr-xr-x 1 root root  215 Jul 27  2015 simplest.c
+-rwxr-xr-x 1 root root 1023 Jul 27  2015 square-fun-v4.c
+-rwxr-xr-x 1 root root  264 Jul 20  2015 square-v1.c
+-rwxr-xr-x 1 root root  284 Jul 19  2015 square-v2.c
+-rwxr-xr-x 1 root root  319 Jul 20  2015 square-v3.c
+
+./Naresh/Fast-Track-C/Fast-Track-C-Day-One/Exercise-1:
+total 256
+-rwxr-xr-x 1 root root 7433 Aug  3 11:51 a.out
+-rwxr-xr-x 1 root root  188 Aug  2 14:30 pgm1.c
+-rwxr-xr-x 1 root root  188 Aug  2 14:30 pgm1.c~
+-rwxr-xr-x 1 root root 6838 Aug  2 14:31 pgm1.o
+-rwxr-xr-x 1 root root  482 Aug  2 15:37 pgm2.c
+-rwxr-xr-x 1 root root  475 Aug  2 14:38 pgm2.c~
+-rwxr-xr-x 1 root root 7022 Aug  2 15:38 pgm2.o
+-rwxr-xr-x 1 root root  316 Aug  2 16:37 pgm3.c
+-rwxr-xr-x 1 root root  332 Aug  2 16:33 pgm3.c~
+-rwxr-xr-x 1 root root 7091 Aug  2 16:38 pgm3.o
+-rwxr-xr-x 1 root root  433 Aug  2 15:50 pgm4.c
+-rwxr-xr-x 1 root root  433 Aug  2 15:49 pgm4.c~
+-rwxr-xr-x 1 root root 6966 Aug  2 15:50 pgm4.o
+-rwxr-xr-x 1 root root  484 Aug  2 16:03 pgm5.c
+-rwxr-xr-x 1 root root  483 Aug  2 16:03 pgm5.c~
+-rwxr-xr-x 1 root root 7070 Aug  2 16:03 pgm5.o
+-rwxr-xr-x 1 root root  296 Aug  2 16:04 pgm6.c
+-rwxr-xr-x 1 root root  296 Aug  2 16:04 pgm6.c~
+-rwxr-xr-x 1 root root 6860 Aug  2 16:05 pgm6.o
+-rw-r--r-- 1 root root  706 Aug  3 11:51 pgm7.c
+-rw-r--r-- 1 root root  741 Aug  3 11:46 pgm7.c~
+-rwxr-xr-x 1 root root 7433 Aug  3 11:51 pgm7.o
+-rwxr-xr-x 1 root root  299 Aug  3 10:24 pgm8.c
+-rw-r--r-- 1 root root  299 Aug  2 16:21 pgm8.c~
+-rwxr-xr-x 1 root root 6634 Aug  2 16:21 pgm8.o
+-rwxr-xr-x 1 root root 7083 Aug  2 16:33 pgm.o
+-rwxr-xr-x 1 root root  147 Aug  1  2015 README.txt
+
+./Naresh/Fast-Track-C/Fast-Track-C-Day-One/Exercise-2:
+total 352
+-rwxr-xr-x 1 root root   377 Aug  3 12:07 aircraft.c
+-rwxr-xr-x 1 root root  7201 Aug  3 12:07 aircraft.o
+-rwxr-xr-x 1 root root  7085 Aug  9 16:12 a.out
+-rwxr-xr-x 1 root root   256 Aug  9 15:31 bintodec.c
+-rwxr-xr-x 1 root root  7323 Aug  3 15:03 bintodec.o
+-rwxr-xr-x 1 root root   463 Aug  9 15:32 car.c
+-rwxr-xr-x 1 root root  7225 Aug  3 11:49 car.o
+-rwxr-xr-x 1 root root   167 Aug  9 15:32 case.c
+-rwxr-xr-x 1 root root  6930 Aug  3 14:47 case.o
+-rwxr-xr-x 1 root root   346 Aug  3 15:37 dectobin.c
+-rwxr-xr-x 1 root root  7249 Aug  3 15:37 dectobin.o
+-rwxr-xr-x 1 root root 16478 Aug  1  2015 Excercise-2.docx
+-rwxr-xr-x 1 root root  2233 Aug  3 09:38 Exercise 2.txt
+-rw-r--r-- 1 root root   286 Aug  5 10:07 fact.c
+-rwxr-xr-x 1 root root  7085 Aug  9 16:12 fact.o
+-rwxr-xr-x 1 root root   361 Aug  9 15:33 fib.c
+-rwxr-xr-x 1 root root  7219 Aug  3 14:35 fib.o
+-rwxr-xr-x 1 root root   276 Aug  3 11:08 joules.c
+-rwxr-xr-x 1 root root  7147 Aug  3 11:08 joules.o
+-rwxr-xr-x 1 root root   213 Aug  9 15:52 leap.c
+-rwxr-xr-x 1 root root  7622 Aug  3 10:28 leap.o
+-rwxr-xr-x 1 root root   452 Aug  3 11:23 lumi.c
+-rwxr-xr-x 1 root root  7493 Aug  3 11:23 lumi.o
+-rwxr-xr-x 1 root root   340 Aug  3 15:45 pali.c
+-rwxr-xr-x 1 root root  7189 Aug  8 16:35 pali.o
+-rwxr-xr-x 1 root root   578 Aug  5 13:42 pattern.c
+-rw-r--r-- 1 root root   245 Aug  5 11:18 pow.c
+-rwxr-xr-x 1 root root  6978 Aug  5 10:29 pow.o
+-rwxr-xr-x 1 root root   966 Aug  9 16:04 roman.c
+-rwxr-xr-x 1 root root  7675 Aug  9 16:05 roman.o
+-rwxr-xr-x 1 root root   201 Aug  9 16:06 sum.c
+-rwxr-xr-x 1 root root  7001 Aug  3 14:27 sum.o
+-rwxr-xr-x 1 root root   216 Aug  3 11:32 velocity.c
+-rwxr-xr-x 1 root root  6961 Aug  3 11:32 velocity.o
+
+./Naresh/Fast-Track-C/Fast-Track-C-Day-Three:
+total 16
+drwx------ 2 root root 4096 Aug  9 16:31 Exercise-3
+drwx------ 4 root root 4096 Aug  2 11:56 third
+
+./Naresh/Fast-Track-C/Fast-Track-C-Day-Three/Exercise-3:
+total 168
+-rwxr-xr-x 1 root root 7688 Aug  9 16:31 a.out
+-rwxr-xr-x 1 root root  721 Aug  5 15:37 pgm1.c
+-rw-r--r-- 1 root root  721 Aug  5 15:35 pgm1.c~
+-rwxr-xr-x 1 root root 7370 Aug  5 15:37 pgm1.o
+-rwxr-xr-x 1 root root  373 Aug  5 16:05 pgm2.c
+-rw-r--r-- 1 root root  373 Aug  5 16:05 pgm2.c~
+-rwxr-xr-x 1 root root 7186 Aug  5 15:40 pgm2.o
+-rwxr-xr-x 1 root root  569 Aug  5 16:13 pgm3.c
+-rw-r--r-- 1 root root  569 Aug  5 16:12 pgm3.c~
+-rwxr-xr-x 1 root root 7345 Aug  5 16:11 pgm3.o
+-rwxr-xr-x 1 root root  733 Aug  5 16:26 pgm4.c
+-rw-r--r-- 1 root root  734 Aug  5 16:24 pgm4.c~
+-rwxr-xr-x 1 root root 7421 Aug  5 16:15 pgm4.o
+-rwxr-xr-x 1 root root  825 Aug  9 16:31 pgm5.c
+-rw-r--r-- 1 root root  811 Aug  5 16:47 pgm5.c~
+-rwxr-xr-x 1 root root 7555 Aug  9 16:30 pgm5.o
+-rwxr-xr-x 1 root root 1939 Aug  4  2015 pgm6.c
+-rwxr-xr-x 1 root root  875 Aug  4  2015 stack.c
+
+./Naresh/Fast-Track-C/Fast-Track-C-Day-Three/third:
+total 16
+drwx------ 6 root root 4096 Aug  2 11:56 char-arrays
+drwx------ 6 root root 4096 Aug  2 11:56 int-arrays
+
+./Naresh/Fast-Track-C/Fast-Track-C-Day-Three/third/char-arrays:
+total 32
+drwx------ 2 root root 4096 Aug  2 11:56 simple-replace
+drwx------ 2 root root 4096 Aug  2 11:56 std-str-funs
+drwx------ 2 root root 4096 Aug  2 11:56 strip-leading-spaces
+drwx------ 2 root root 4096 Aug  2 11:56 strip-trailing-spaces
+
+./Naresh/Fast-Track-C/Fast-Track-C-Day-Three/third/char-arrays/simple-replace:
+total 16
+-rwxr-xr-x 1 root root 449 Jul 27  2015 replace.c
+-rwxr-xr-x 1 root root 979 Jul 27  2015 replace-spec.c
+
+./Naresh/Fast-Track-C/Fast-Track-C-Day-Three/third/char-arrays/std-str-funs:
+total 8
+-rwxr-xr-x 1 root root 2932 Jul 26  2015 strlen-tests.c
+
+./Naresh/Fast-Track-C/Fast-Track-C-Day-Three/third/char-arrays/strip-leading-spaces:
+total 16
+-rwxr-xr-x 1 root root 593 Jul 26  2015 strip-spaces.c
+-rwxr-xr-x 1 root root 721 Jul 26  2015 strip-spaces-spec.c
+
+./Naresh/Fast-Track-C/Fast-Track-C-Day-Three/third/char-arrays/strip-trailing-spaces:
+total 16
+-rwxr-xr-x 1 root root 609 Jul 26  2015 strip-spaces.c
+-rwxr-xr-x 1 root root 780 Jul 26  2015 strip-spaces-spec.c
+
+./Naresh/Fast-Track-C/Fast-Track-C-Day-Three/third/int-arrays:
+total 32
+drwx------ 2 root root 4096 Aug  2 11:56 array-args
+drwx------ 2 root root 4096 Aug  2 11:56 gen-fibs
+drwx------ 2 root root 4096 Aug  2 11:56 intro
+drwx------ 6 root root 4096 Aug  2 11:56 search
+
+./Naresh/Fast-Track-C/Fast-Track-C-Day-Three/third/int-arrays/array-args:
+total 16
+-rwxr-xr-x 1 root root 443 Jul 23  2015 arr-sum.c
+-rwxr-xr-x 1 root root 536 Jul 23  2015 arr-sum-spec.c
+
+./Naresh/Fast-Track-C/Fast-Track-C-Day-Three/third/int-arrays/gen-fibs:
+total 16
+-rwxr-xr-x 1 root root 274 Jul 24  2015 gen-fibs.c
+-rwxr-xr-x 1 root root 546 Jul 24  2015 gen-fibs-spec.c
+
+./Naresh/Fast-Track-C/Fast-Track-C-Day-Three/third/int-arrays/intro:
+total 24
+-rwxr-xr-x 1 root root 451 Jul 23  2015 arr.c
+-rwxr-xr-x 1 root root 470 Jul 23  2015 arr-init.c
+-rwxr-xr-x 1 root root 558 Jul 23  2015 arr-init-macro.c
+
+./Naresh/Fast-Track-C/Fast-Track-C-Day-Three/third/int-arrays/search:
+total 32
+drwx------ 2 root root 4096 Aug 26  2015 search-backwards
+drwx------ 2 root root 4096 Aug  2 11:56 search-from
+drwx------ 2 root root 4096 Aug  2 11:56 search-linear
+drwx------ 2 root root 4096 Aug  2 11:56 search-within
+
+./Naresh/Fast-Track-C/Fast-Track-C-Day-Three/third/int-arrays/search/search-backwards:
+total 0
+
+./Naresh/Fast-Track-C/Fast-Track-C-Day-Three/third/int-arrays/search/search-from:
+total 16
+-rwxr-xr-x 1 root root 508 Jul 24  2015 search-from.c
+-rwxr-xr-x 1 root root 769 Jul 24  2015 search-from-spec.c
+
+./Naresh/Fast-Track-C/Fast-Track-C-Day-Three/third/int-arrays/search/search-linear:
+total 16
+-rwxr-xr-x 1 root root 613 Jul 24  2015 search-spec.c
+-rwxr-xr-x 1 root root 483 Jul 24  2015 search-v1.c
+
+./Naresh/Fast-Track-C/Fast-Track-C-Day-Three/third/int-arrays/search/search-within:
+total 16
+-rwxr-xr-x 1 root root 509 Jul 24  2015 search-within.c
+-rwxr-xr-x 1 root root 950 Jul 24  2015 search-within-spec.c
+
+./Naresh/Fast-Track-C/Fast-Track-C-Day-Two:
+total 8
+drwx------ 5 root root 4096 Aug  2 11:56 second
+
+./Naresh/Fast-Track-C/Fast-Track-C-Day-Two/second:
+total 24
+drwx------ 2 root root 4096 Aug  2 11:56 fib
+drwx------ 6 root root 4096 Aug  2 11:56 quad-root
+drwx------ 2 root root 4096 Aug  5 15:25 sum-nums
+
+./Naresh/Fast-Track-C/Fast-Track-C-Day-Two/second/fib:
+total 24
+-rwxr-xr-x 1 root root 416 Jul 21  2015 fib-spec.c
+-rwxr-xr-x 1 root root 275 Jul 21  2015 fib-v1.c
+-rwxr-xr-x 1 root root 133 Jul 21  2015 fib-v2.c
+
+./Naresh/Fast-Track-C/Fast-Track-C-Day-Two/second/quad-root:
+total 32
+drwx------ 2 root root 4096 Aug  2 11:56 base
+drwx------ 2 root root 4096 Aug  2 11:56 multi-roots-globals
+drwx------ 2 root root 4096 Aug  2 11:56 one-root
+drwx------ 2 root root 4096 Aug 26  2015 working-with-globals
+
+./Naresh/Fast-Track-C/Fast-Track-C-Day-Two/second/quad-root/base:
+total 24
+-rwxr-xr-x 1 root root  883 Jul 23  2015 naive-quad-root.c
+-rwxr-xr-x 1 root root 1000 Jul 23  2015 quad-root.c
+-rwxr-xr-x 1 root root 1627 Jul 23  2015 quad-root-spec.c
+
+./Naresh/Fast-Track-C/Fast-Track-C-Day-Two/second/quad-root/multi-roots-globals:
+total 8
+-rwxr-xr-x 1 root root 3717 Jul 23  2015 quad-root-spec.c
+
+./Naresh/Fast-Track-C/Fast-Track-C-Day-Two/second/quad-root/one-root:
+total 24
+-rwxr-xr-x 1 root root  883 Jul 23  2015 naive-quad-root.c
+-rwxr-xr-x 1 root root 1000 Jul 23  2015 quad-root.c
+-rwxr-xr-x 1 root root 1627 Jul 23  2015 quad-root-spec.c
+
+./Naresh/Fast-Track-C/Fast-Track-C-Day-Two/second/quad-root/working-with-globals:
+total 0
+
+./Naresh/Fast-Track-C/Fast-Track-C-Day-Two/second/sum-nums:
+total 56
+-rw-r--r-- 1 root root 923 Aug  5 15:25 patt.c
+-rwxr-xr-x 1 root root 344 Jul 22  2015 sum-nums-spec.c
+-rwxr-xr-x 1 root root 242 Jul 22  2015 sum_nums-v1.c
+-rwxr-xr-x 1 root root 242 Jul 22  2015 sum-nums-v1.c
+-rwxr-xr-x 1 root root 230 Jul 22  2015 sum-nums-v2.c
+-rwxr-xr-x 1 root root 204 Jul 22  2015 sum-nums-v3.c
+-rwxr-xr-x 1 root root 192 Jul 22  2015 sum-nums-v4.c
+
+./Naresh/lectures:
+total 40
+drwxr-xr-x 6 root root 4096 Aug  1 15:13 fifth-day
+drwxr-xr-x 7 root root 4096 Aug  1 15:13 first-day
+drwxr-xr-x 8 root root 4096 Aug  1 15:13 fourth-day
+drwxr-xr-x 5 root root 4096 Aug  1 15:13 second-day
+drwxr-xr-x 4 root root 4096 Aug  1 15:13 third-day
+
+./Naresh/lectures/fifth-day:
+total 32
+drwxr-xr-x 2 root root 4096 Aug  1 15:13 basics
+drwxr-xr-x 2 root root 4096 Aug  1 15:13 links
+drwxr-xr-x 2 root root 4096 Aug  1 15:13 tests
+drwxr-xr-x 2 root root 4096 Aug  1 15:13 traffic-signal
+
+./Naresh/lectures/fifth-day/basics:
+total 16
+-rwxr-xr-x 1 root root  442 Jul 25 01:40 add.c
+-rwxr-xr-x 1 root root 1131 Jul 25 01:40 swap.c
+
+./Naresh/lectures/fifth-day/links:
+total 8
+-rwxr-xr-x 1 root root 2821 Jul 25 01:40 scope-rep.c
+
+./Naresh/lectures/fifth-day/tests:
+total 16
+-rwxr-xr-x 1 root root 633 Jul 25 01:40 ptr.c
+-rwxr-xr-x 1 root root 253 Jul 25 01:40 static.c
+
+./Naresh/lectures/fifth-day/traffic-signal:
+total 8
+-rwxr-xr-x 1 root root 522 Jul 25 01:40 traffic-signal.c
+
+./Naresh/lectures/first-day:
+total 40
+drwxr-xr-x 2 root root 4096 Aug  1 15:13 abs
+drwxr-xr-x 2 root root 4096 Aug  3 10:45 chars
+drwxr-xr-x 2 root root 4096 Aug  1 15:13 intops
+drwxr-xr-x 2 root root 4096 Aug  1 15:13 min
+drwxr-xr-x 2 root root 4096 Aug  1 15:13 square
+
+./Naresh/lectures/first-day/abs:
+total 32
+-rwxr-xr-x 1 root root 251 Jul 25 01:40 abs-spec.c
+-rwxr-xr-x 1 root root 100 Jul 25 01:40 abs-v1.c
+-rwxr-xr-x 1 root root  75 Jul 25 01:40 abs-v2.c
+-rwxr-xr-x 1 root root  92 Jul 25 01:40 abs-v3.c
+
+./Naresh/lectures/first-day/chars:
+total 56
+-rwxr-xr-x 1 root root  420 Aug  3 10:42 ascii-chars.c
+-rwxr-xr-x 1 root root  419 Aug  3 10:40 ascii-chars.c~
+-rwxr-xr-x 1 root root 6620 Aug  3 10:42 ascii-chars.o
+-rwxr-xr-x 1 root root  444 Aug  3 10:45 isdigit.c
+-rwxr-xr-x 1 root root  446 Jul 25 01:40 isdigit.c~
+-rwxr-xr-x 1 root root 7500 Aug  3 10:45 isdigit.o
+
+./Naresh/lectures/first-day/intops:
+total 32
+-rwxr-xr-x 1 root root   36 Jul 25 01:40 autoinc-tests.c
+-rwxr-xr-x 1 root root 2875 Jul 25 01:40 bit-tests.c
+-rwxr-xr-x 1 root root  190 Jul 25 01:40 intops.c
+-rwxr-xr-x 1 root root   34 Jul 25 01:40 rel-tests.c
+
+./Naresh/lectures/first-day/min:
+total 16
+-rwxr-xr-x 1 root root 545 Jul 25 01:40 min-spec.c
+-rwxr-xr-x 1 root root  67 Jul 25 01:40 min-v1.c
+
+./Naresh/lectures/first-day/square:
+total 40
+-rwxr-xr-x 1 root root  215 Jul 25 01:40 simplest.c
+-rwxr-xr-x 1 root root 1023 Jul 25 01:40 square-fun-v4.c
+-rwxr-xr-x 1 root root  264 Jul 25 01:40 square-v1.c
+-rwxr-xr-x 1 root root  284 Jul 25 01:40 square-v2.c
+-rwxr-xr-x 1 root root  319 Jul 25 01:40 square-v3.c
+
+./Naresh/lectures/fourth-day:
+total 48
+drwxr-xr-x 2 root root 4096 Aug  1 15:13 complex-number
+drwxr-xr-x 2 root root 4096 Aug  1 15:13 lexer
+drwxr-xr-x 2 root root 4096 Aug  1 15:13 pixel-blend
+drwxr-xr-x 2 root root 4096 Aug  1 15:13 pixel-simple
+drwxr-xr-x 2 root root 4096 Aug  1 15:13 student
+drwxr-xr-x 2 root root 4096 Aug  1 15:13 student-course
+
+./Naresh/lectures/fourth-day/complex-number:
+total 24
+-rwxr-xr-x 1 root root 601 Jul 25 01:40 complex.c
+-rwxr-xr-x 1 root root 314 Jul 25 01:40 complexnum.h
+-rwxr-xr-x 1 root root 314 Jul 25 01:40 complex-spec.c
+
+./Naresh/lectures/fourth-day/lexer:
+total 24
+-rwxr-xr-x 1 root root 3377 Jul 25 01:40 lexer.c
+-rwxr-xr-x 1 root root  618 Jul 25 01:40 lexer.h
+-rwxr-xr-x 1 root root 2269 Jul 25 01:40 lexer-spec.c
+
+./Naresh/lectures/fourth-day/pixel-blend:
+total 24
+-rwxr-xr-x 1 root root  437 Jul 25 01:40 pixel.c
+-rwxr-xr-x 1 root root 1128 Jul 25 01:40 pixel.h
+-rwxr-xr-x 1 root root  430 Jul 25 01:40 pixel-spec.c
+
+./Naresh/lectures/fourth-day/pixel-simple:
+total 24
+-rwxr-xr-x 1 root root  184 Jul 25 01:40 pixel.c
+-rwxr-xr-x 1 root root 1018 Jul 25 01:40 pixel.h
+-rwxr-xr-x 1 root root  435 Jul 25 01:40 pixel-spec.c
+
+./Naresh/lectures/fourth-day/student:
+total 32
+-rwxr-xr-x 1 root root  521 Jul 25 01:40 appconsts.h
+-rwxr-xr-x 1 root root  231 Jul 25 01:40 main-spec.c
+-rwxr-xr-x 1 root root 1213 Jul 25 01:40 student.c
+-rwxr-xr-x 1 root root  553 Jul 25 01:40 student.h
+
+./Naresh/lectures/fourth-day/student-course:
+total 64
+-rwxr-xr-x 1 root root  521 Jul 25 01:40 appconsts.h
+-rwxr-xr-x 1 root root  133 Jul 25 01:40 course.c
+-rwxr-xr-x 1 root root  205 Jul 25 01:40 course.h
+-rwxr-xr-x 1 root root  231 Jul 25 01:40 main-spec.c
+-rwxr-xr-x 1 root root  151 Jul 25 01:40 program.c
+-rwxr-xr-x 1 root root  122 Jul 25 01:40 program.h
+-rwxr-xr-x 1 root root 1213 Jul 25 01:40 student.c
+-rwxr-xr-x 1 root root  553 Jul 25 01:40 student.h
+
+./Naresh/lectures/second-day:
+total 24
+drwxr-xr-x 2 root root 4096 Aug  1 15:13 fib
+drwxr-xr-x 5 root root 4096 Aug  1 15:13 quad-root
+drwxr-xr-x 2 root root 4096 Aug  1 15:13 sum-nums
+
+./Naresh/lectures/second-day/fib:
+total 24
+-rwxr-xr-x 1 root root 398 Jul 25 01:40 fib-spec.c
+-rwxr-xr-x 1 root root 257 Jul 25 01:40 fib-v1.c
+-rwxr-xr-x 1 root root 126 Jul 25 01:40 fib-v2.c
+
+./Naresh/lectures/second-day/quad-root:
+total 24
+drwxr-xr-x 2 root root 4096 Aug  1 15:13 base
+drwxr-xr-x 2 root root 4096 Aug  1 15:13 multi-roots-globals
+drwxr-xr-x 2 root root 4096 Aug  1 15:13 one-root
+
+./Naresh/lectures/second-day/quad-root/base:
+total 24
+-rwxr-xr-x 1 root root  854 Jul 25 01:40 naive-quad-root.c
+-rwxr-xr-x 1 root root  966 Jul 25 01:40 quad-root.c
+-rwxr-xr-x 1 root root 1583 Jul 25 01:40 quad-root-spec.c
+
+./Naresh/lectures/second-day/quad-root/multi-roots-globals:
+total 8
+-rwxr-xr-x 1 root root 3618 Jul 25 01:40 quad-root-spec.c
+
+./Naresh/lectures/second-day/quad-root/one-root:
+total 24
+-rwxr-xr-x 1 root root  854 Jul 25 01:40 naive-quad-root.c
+-rwxr-xr-x 1 root root  966 Jul 25 01:40 quad-root.c
+-rwxr-xr-x 1 root root 1583 Jul 25 01:40 quad-root-spec.c
+
+./Naresh/lectures/second-day/sum-nums:
+total 40
+-rwxr-xr-x 1 root root 326 Jul 25 01:40 sum-nums-spec.c
+-rwxr-xr-x 1 root root 224 Jul 25 01:40 sum-nums-v1.c
+-rwxr-xr-x 1 root root 214 Jul 25 01:40 sum-nums-v2.c
+-rwxr-xr-x 1 root root 192 Jul 25 01:40 sum-nums-v3.c
+-rwxr-xr-x 1 root root 182 Jul 25 01:40 sum-nums-v4.c
+
+./Naresh/lectures/third-day:
+total 16
+drwxr-xr-x 6 root root 4096 Aug  1 15:13 char-arrays
+drwxr-xr-x 6 root root 4096 Aug  1 15:13 int-arrays
+
+./Naresh/lectures/third-day/char-arrays:
+total 32
+drwxr-xr-x 2 root root 4096 Aug  1 15:13 simple-replace
+drwxr-xr-x 2 root root 4096 Aug  1 15:13 std-str-funs
+drwxr-xr-x 2 root root 4096 Aug  1 15:13 strip-leading-spaces
+drwxr-xr-x 2 root root 4096 Aug  1 15:13 strip-trailing-spaces
+
+./Naresh/lectures/third-day/char-arrays/simple-replace:
+total 16
+-rwxr-xr-x 1 root root  432 Jul 25 01:40 replace.c
+-rwxr-xr-x 1 root root 1026 Jul 25 01:40 replace-spec.c
+
+./Naresh/lectures/third-day/char-arrays/std-str-funs:
+total 8
+-rwxr-xr-x 1 root root 2822 Jul 25 01:40 strlen-tests.c
+
+./Naresh/lectures/third-day/char-arrays/strip-leading-spaces:
+total 16
+-rwxr-xr-x 1 root root 573 Jul 25 01:40 strip-spaces.c
+-rwxr-xr-x 1 root root 700 Jul 25 01:40 strip-spaces-spec.c
+
+./Naresh/lectures/third-day/char-arrays/strip-trailing-spaces:
+total 16
+-rwxr-xr-x 1 root root 582 Jul 25 01:40 strip-spaces.c
+-rwxr-xr-x 1 root root 749 Jul 25 01:40 strip-spaces-spec.c
+
+./Naresh/lectures/third-day/int-arrays:
+total 32
+drwxr-xr-x 2 root root 4096 Aug  1 15:13 array-args
+drwxr-xr-x 2 root root 4096 Aug  1 15:13 gen-fibs
+drwxr-xr-x 2 root root 4096 Aug  1 15:13 intro
+drwxr-xr-x 5 root root 4096 Aug  1 15:13 search
+
+./Naresh/lectures/third-day/int-arrays/array-args:
+total 16
+-rwxr-xr-x 1 root root 421 Jul 25 01:40 arr-sum.c
+-rwxr-xr-x 1 root root 588 Jul 25 01:40 arr-sum-spec.c
+
+./Naresh/lectures/third-day/int-arrays/gen-fibs:
+total 16
+-rwxr-xr-x 1 root root 261 Jul 25 01:40 gen-fibs.c
+-rwxr-xr-x 1 root root 521 Jul 25 01:40 gen-fibs-spec.c
+
+./Naresh/lectures/third-day/int-arrays/intro:
+total 24
+-rwxr-xr-x 1 root root 427 Jul 25 01:40 arr.c
+-rwxr-xr-x 1 root root 442 Jul 25 01:40 arr-init.c
+-rwxr-xr-x 1 root root 527 Jul 25 01:40 arr-init-macro.c
+
+./Naresh/lectures/third-day/int-arrays/search:
+total 24
+drwxr-xr-x 2 root root 4096 Aug  1 15:13 search-from
+drwxr-xr-x 2 root root 4096 Aug  1 15:13 search-linear
+drwxr-xr-x 2 root root 4096 Aug  1 15:13 search-within
+
+./Naresh/lectures/third-day/int-arrays/search/search-from:
+total 16
+-rwxr-xr-x 1 root root 488 Jul 25 01:40 search-from.c
+-rwxr-xr-x 1 root root 742 Jul 25 01:40 search-from-spec.c
+
+./Naresh/lectures/third-day/int-arrays/search/search-linear:
+total 16
+-rwxr-xr-x 1 root root 590 Jul 25 01:40 search-spec.c
+-rwxr-xr-x 1 root root 462 Jul 25 01:40 search-v1.c
+
+./Naresh/lectures/third-day/int-arrays/search/search-within:
+total 16
+-rwxr-xr-x 1 root root 489 Jul 25 01:40 search-within.c
+-rwxr-xr-x 1 root root 920 Jul 25 01:40 search-within-spec.c
+
+./SV:
+total 24424
+drwxr-xr-x 3 root root     4096 Aug 10 14:36 SVWorkShop
+-rw-r--r-- 1 root root 24965153 Aug 10 14:35 SVWorkShop-2016-08-10.zip
+
+./SV/SVWorkShop:
+total 13728
+drwxr-xr-x 5 root root     4096 Aug 10 14:36 Lab_work
+-rw-r--r-- 1 root root 10128483 Aug 10 01:40 System Verilog Course Work-1 Documentation.pdf
+-rw-r--r-- 1 root root  3443988 Aug 10 01:40 System_Verilog_for_digital_Design_day1.pdf
+-rw-r--r-- 1 root root   434967 Aug 10 01:39 System_Verilog_for_digital_Design_day2.pptx
+
+./SV/SVWorkShop/Lab_work:
+total 2364
+drwxr-xr-x 6 root root    4096 Aug 10 14:36 day1
+drwxr-xr-x 5 root root    4096 Aug 10 14:36 day2
+-rw-r--r-- 1 root root 2385893 Aug 10 01:41 Lab_manual.pdf
+drwxr-xr-x 2 root root    4096 Aug 10 14:36 library
+
+./SV/SVWorkShop/Lab_work/day1:
+total 40
+-rw-r--r--  1 root root 1228 Aug 10 01:39 script.tcl
+drwxr-xr-x  9 root root 4096 Aug 10 17:12 ses1
+drwxr-xr-x 12 root root 4096 Aug 10 14:36 ses2
+drwxr-xr-x  8 root root 4096 Aug 10 14:36 ses3
+drwxr-xr-x  6 root root 4096 Aug 10 14:36 ses4
+
+./SV/SVWorkShop/Lab_work/day1/ses1:
+total 96
+-rw-r--r-- 1 root root  492 Aug 10 01:39 1_nets.sv
+-rw-r--r-- 1 root root  396 Aug 10 01:39 2_vari.sv
+-rw-r--r-- 1 root root  661 Aug 10 01:39 3_var_net.sv
+drwxr-xr-x 2 root root 4096 Aug 10 14:36 4_usage_primitives
+drwxr-xr-x 2 root root 4096 Aug 10 14:36 5_continious_assignments
+drwxr-xr-x 2 root root 4096 Aug 10 14:36 6_continious_assignment
+drwxr-xr-x 2 root root 4096 Aug 10 14:36 7_usage_of_parameter
+drwxr-xr-x 4 root root 4096 Aug 10 14:57 INCA_libs
+-rw-r--r-- 1 root root  147 Aug 10 15:06 irun.key
+-rw-r--r-- 1 root root 2009 Aug 10 15:06 irun.log
+-rw-r--r-- 1 root root 3211 Aug 10 17:12 simvision13054.diag
+drwxr-xr-x 2 root root 4096 Aug 10 15:04 waves.shm
+
+./SV/SVWorkShop/Lab_work/day1/ses1/4_usage_primitives:
+total 144
+-rw-r--r-- 1 root root 56957 Aug 10 01:39 1a.png
+-rw-r--r-- 1 root root 56824 Aug 10 01:39 1b.png
+-rw-r--r-- 1 root root   271 Aug 10 01:39 1.sv
+-rw-r--r-- 1 root root   530 Aug 10 01:39 1t.sv
+
+./SV/SVWorkShop/Lab_work/day1/ses1/5_continious_assignments:
+total 148
+-rw-r--r-- 1 root root 55787 Aug 10 01:39 3a.png
+-rw-r--r-- 1 root root 57819 Aug 10 01:39 3b.png
+-rw-r--r-- 1 root root   169 Aug 10 01:39 3.sv
+-rw-r--r-- 1 root root   258 Aug 10 01:39 3t.sv
+
+./SV/SVWorkShop/Lab_work/day1/ses1/6_continious_assignment:
+total 148
+-rw-r--r-- 1 root root 57546 Aug 10 01:39 2a.png
+-rw-r--r-- 1 root root 56882 Aug 10 01:39 2b.png
+-rw-r--r-- 1 root root   398 Aug 10 01:39 2.sv
+-rw-r--r-- 1 root root   597 Aug 10 01:39 2t.sv
+
+./SV/SVWorkShop/Lab_work/day1/ses1/7_usage_of_parameter:
+total 264
+-rw-r--r-- 1 root root 64498 Aug 10 01:39 4a1.png
+-rw-r--r-- 1 root root 63352 Aug 10 01:39 4a2.png
+-rw-r--r-- 1 root root 64633 Aug 10 01:39 4b.png
+-rw-r--r-- 1 root root   204 Aug 10 01:39 4.sv
+-rw-r--r-- 1 root root 12288 Aug 10 01:39 _4.sv.swp
+-rw-r--r-- 1 root root   275 Aug 10 01:39 4t.sv
+-rw-r--r-- 1 root root 12288 Aug 10 01:39 _4t.sv.swp
+
+./SV/SVWorkShop/Lab_work/day1/ses1/INCA_libs:
+total 20
+drwxr-xr-x 4 root root 4096 Aug 10 15:06 irun.lnx8664.13.10.nc
+lrwxrwxrwx 1 root root   21 Aug 10 14:57 irun.nc -> irun.lnx8664.13.10.nc
+drwxr-xr-x 2 root root 4096 Aug 10 14:51 worklib
+
+./SV/SVWorkShop/Lab_work/day1/ses1/INCA_libs/irun.lnx8664.13.10.nc:
+total 168
+-rw-r--r-- 1 root root  100 Aug 10 14:51 bind.lst.lnx8664
+-rw-r--r-- 1 root root   21 Aug 10 14:51 cds.lib
+-rw-r--r-- 1 root root   66 Aug 10 14:51 cdsrun.lib
+-rw-r--r-- 1 root root   93 Aug 10 14:57 files.ts
+-rw-r--r-- 1 root root 1333 Aug 10 14:57 hdlrun.var
+-rw-r--r-- 1 root root  287 Aug 10 14:57 hdl.var
+-rw-r--r-- 1 root root   89 Aug 10 14:57 irun.args
+-rw-r--r-- 1 root root  256 Aug 10 14:57 ncelab.args
+-rw-r--r-- 1 root root  311 Aug 10 14:57 ncelab.env
+-rw-r--r-- 1 root root   70 Aug 10 14:57 ncelab.hrd
+-rw-r--r-- 1 root root  323 Aug 10 14:57 ncsim.args
+-rw-r--r-- 1 root root  222 Aug 10 14:57 ncsim.env
+-rw-r--r-- 1 root root  377 Aug 10 14:57 ncsim_restart.args
+-rw-r--r-- 1 root root  222 Aug 10 14:57 ncsim_restart.env
+-rw-r--r-- 1 root root  315 Aug 10 14:57 ncvlog.args
+-rw-r--r-- 1 root root  311 Aug 10 14:57 ncvlog.env
+-rw-r--r-- 1 root root  116 Aug 10 14:51 ncvlog.files
+-rw-r--r-- 1 root root   63 Aug 10 14:51 ncvlog.hrd
+drwxr-xr-x 2 root root 4096 Aug 10 14:51 temp
+-rw-r--r-- 1 root root   26 Aug 10 14:57 UVMHOME
+drwxr-xr-x 2 root root 4096 Aug 10 14:51 xllibs
+
+./SV/SVWorkShop/Lab_work/day1/ses1/INCA_libs/irun.lnx8664.13.10.nc/temp:
+total 0
+
+./SV/SVWorkShop/Lab_work/day1/ses1/INCA_libs/irun.lnx8664.13.10.nc/xllibs:
+total 0
+
+./SV/SVWorkShop/Lab_work/day1/ses1/INCA_libs/worklib:
+total 916
+-rw-r--r-- 1 root root     11 Aug 10 14:51 cdsinfo.tag
+-rw-r--r-- 1 root root 919382 Aug 10 14:57 inca.lnx8664.021.pak
+
+./SV/SVWorkShop/Lab_work/day1/ses1/waves.shm:
+total 56
+-rw-r--r-- 1 root root  456 Aug 10 15:04 waves-1.trn
+-rw-r--r-- 1 root root  448 Aug 10 15:04 waves-2.trn
+-rw-r--r-- 1 root root  448 Aug 10 15:04 waves-3.trn
+-rw-r--r-- 1 root root  448 Aug 10 15:04 waves-4.trn
+-rw-r--r-- 1 root root  456 Aug 10 15:06 waves-5.trn
+-rw-r--r-- 1 root root 1424 Aug 10 15:06 waves.dsn
+-rw-r--r-- 1 root root  448 Aug 10 15:03 waves.trn
+
+./SV/SVWorkShop/Lab_work/day1/ses2:
+total 80
+drwxr-xr-x 2 root root 4096 Aug 10 14:36 10_mux_using_tri_state_buffer
+drwxr-xr-x 2 root root 4096 Aug 10 14:36 1_arrays
+drwxr-xr-x 2 root root 4096 Aug 10 14:36 2_operators
+drwxr-xr-x 2 root root 4096 Aug 10 14:36 3_2to1_mux
+drwxr-xr-x 2 root root 4096 Aug 10 14:36 4_4to1_mux
+drwxr-xr-x 2 root root 4096 Aug 10 14:36 5_2to4_decoder
+drwxr-xr-x 2 root root 4096 Aug 10 14:36 6_simple_adder
+drwxr-xr-x 2 root root 4096 Aug 10 14:36 7_even_parity_checker
+drwxr-xr-x 2 root root 4096 Aug 10 14:36 8_usage_bit_wise_operator
+drwxr-xr-x 2 root root 4096 Aug 10 14:36 9_terinary_operator
+
+./SV/SVWorkShop/Lab_work/day1/ses2/10_mux_using_tri_state_buffer:
+total 152
+-rw-r--r-- 1 root root 59584 Aug 10 01:39 14a.png
+-rw-r--r-- 1 root root 57542 Aug 10 01:39 14b.png
+-rw-r--r-- 1 root root   239 Aug 10 01:39 14.sv
+-rw-r--r-- 1 root root   373 Aug 10 01:39 14t.sv
+
+./SV/SVWorkShop/Lab_work/day1/ses2/1_arrays:
+total 24
+-rw-r--r-- 1 root root 444 Aug 10 01:39 array.v
+-rw-r--r-- 1 root root 711 Aug 10 01:39 dynamic_array.sv
+-rw-r--r-- 1 root root 910 Aug 10 01:39 md_array.sv
+
+./SV/SVWorkShop/Lab_work/day1/ses2/2_operators:
+total 88
+-rw-r--r-- 1 root root  313 Aug 10 01:39 arithmatic.sv
+-rw-r--r-- 1 root root  214 Aug 10 01:39 assign.sv
+-rw-r--r-- 1 root root 3016 Aug 10 01:39 bitwise.sv
+-rw-r--r-- 1 root root 3015 Aug 10 01:39 case_equality.sv
+-rw-r--r-- 1 root root  202 Aug 10 01:39 concat.sv
+-rw-r--r-- 1 root root  170 Aug 10 01:39 inc_dec.sv
+-rw-r--r-- 1 root root 1311 Aug 10 01:39 logical.sv
+-rw-r--r-- 1 root root  318 Aug 10 01:39 logic_equality.sv
+-rw-r--r-- 1 root root 1014 Aug 10 01:39 reduction.sv
+-rw-r--r-- 1 root root  251 Aug 10 01:39 relational.sv
+-rw-r--r-- 1 root root  372 Aug 10 01:39 shift.sv
+
+./SV/SVWorkShop/Lab_work/day1/ses2/3_2to1_mux:
+total 148
+-rw-r--r-- 1 root root 55424 Aug 10 01:39 1a.png
+-rw-r--r-- 1 root root 60071 Aug 10 01:39 1b.png
+-rw-r--r-- 1 root root   232 Aug 10 01:39 1.sv
+-rw-r--r-- 1 root root   262 Aug 10 01:39 1t.sv
+
+./SV/SVWorkShop/Lab_work/day1/ses2/4_4to1_mux:
+total 420
+-rw-r--r-- 1 root root 59813 Aug 10 01:39 2a1.png
+-rw-r--r-- 1 root root 58114 Aug 10 01:39 2a2.png
+-rw-r--r-- 1 root root 58113 Aug 10 01:39 2a3.png
+-rw-r--r-- 1 root root 58635 Aug 10 01:39 2a.png
+-rw-r--r-- 1 root root 57383 Aug 10 01:39 2b1.png
+-rw-r--r-- 1 root root 55008 Aug 10 01:39 2b2.png
+-rw-r--r-- 1 root root   203 Aug 10 01:39 2.sv
+-rw-r--r-- 1 root root   375 Aug 10 01:39 2t.sv
+
+./SV/SVWorkShop/Lab_work/day1/ses2/5_2to4_decoder:
+total 292
+-rw-r--r-- 1 root root 58827 Aug 10 01:39 3a1.png
+-rw-r--r-- 1 root root 61633 Aug 10 01:39 3a2.png
+-rw-r--r-- 1 root root 60611 Aug 10 01:39 3a3.png
+-rw-r--r-- 1 root root 57389 Aug 10 01:39 3b.png
+-rw-r--r-- 1 root root   225 Aug 10 01:39 3.sv
+-rw-r--r-- 1 root root   490 Aug 10 01:39 3t.sv
+
+./SV/SVWorkShop/Lab_work/day1/ses2/6_simple_adder:
+total 300
+-rw-r--r-- 1 root root 59816 Aug 10 01:40 8a1.png
+-rw-r--r-- 1 root root 68290 Aug 10 01:40 8a2.png
+-rw-r--r-- 1 root root 63821 Aug 10 01:40 8a3.png
+-rw-r--r-- 1 root root 58856 Aug 10 01:40 8b.png
+-rw-r--r-- 1 root root   206 Aug 10 01:40 8.sv
+-rw-r--r-- 1 root root   365 Aug 10 01:40 8t.sv
+
+./SV/SVWorkShop/Lab_work/day1/ses2/7_even_parity_checker:
+total 144
+-rw-r--r-- 1 root root 56685 Aug 10 01:40 11a.png
+-rw-r--r-- 1 root root 55522 Aug 10 01:40 11b.png
+-rw-r--r-- 1 root root   225 Aug 10 01:40 11.sv
+-rw-r--r-- 1 root root   236 Aug 10 01:40 11t.sv
+
+./SV/SVWorkShop/Lab_work/day1/ses2/8_usage_bit_wise_operator:
+total 144
+-rw-r--r-- 1 root root 56757 Aug 10 01:40 12a.png
+-rw-r--r-- 1 root root 54773 Aug 10 01:40 12b.png
+-rw-r--r-- 1 root root   152 Aug 10 01:40 12.sv
+-rw-r--r-- 1 root root   226 Aug 10 01:40 12t.sv
+
+./SV/SVWorkShop/Lab_work/day1/ses2/9_terinary_operator:
+total 144
+-rw-r--r-- 1 root root 54547 Aug 10 01:40 13a.png
+-rw-r--r-- 1 root root 54608 Aug 10 01:40 13b.png
+-rw-r--r-- 1 root root   127 Aug 10 01:40 13.sv
+-rw-r--r-- 1 root root   266 Aug 10 01:40 13t.sv
+
+./SV/SVWorkShop/Lab_work/day1/ses3:
+total 48
+drwxr-xr-x 2 root root 4096 Aug 10 14:36 1_usage_of_function _ parameter
+drwxr-xr-x 2 root root 4096 Aug 10 14:36 2_casez_decoder
+drwxr-xr-x 2 root root 4096 Aug 10 14:36 3_uniqe_case
+drwxr-xr-x 2 root root 4096 Aug 10 14:36 4_generate_block
+drwxr-xr-x 2 root root 4096 Aug 10 14:36 5_task_usage
+drwxr-xr-x 2 root root 4096 Aug 10 14:36 6_priority_unique_if
+
+./SV/SVWorkShop/Lab_work/day1/ses3/1_usage_of_function _ parameter:
+total 232
+-rw-r--r-- 1 root root 64686 Aug 10 01:40 5a1.png
+-rw-r--r-- 1 root root 64024 Aug 10 01:40 5a2.png
+-rw-r--r-- 1 root root 63239 Aug 10 01:40 5b.png
+-rw-r--r-- 1 root root   360 Aug 10 01:40 5.sv
+-rw-r--r-- 1 root root   399 Aug 10 01:40 5t.sv
+
+./SV/SVWorkShop/Lab_work/day1/ses3/2_casez_decoder:
+total 296
+-rw-r--r-- 1 root root 63085 Aug 10 01:40 6a1a.png
+-rw-r--r-- 1 root root 61175 Aug 10 01:40 6a1.png
+-rw-r--r-- 1 root root 59999 Aug 10 01:40 6a2.png
+-rw-r--r-- 1 root root 64996 Aug 10 01:40 6b.png
+-rw-r--r-- 1 root root   608 Aug 10 01:40 6.sv
+-rw-r--r-- 1 root root   256 Aug 10 01:40 6t.sv
+
+./SV/SVWorkShop/Lab_work/day1/ses3/3_uniqe_case:
+total 300
+-rw-r--r-- 1 root root 66469 Aug 10 01:40 7a2.png
+-rw-r--r-- 1 root root 66946 Aug 10 01:40 7a3.png
+-rw-r--r-- 1 root root 60237 Aug 10 01:40 7a.png
+-rw-r--r-- 1 root root 56917 Aug 10 01:40 7b.png
+-rw-r--r-- 1 root root   353 Aug 10 01:40 7.sv
+-rw-r--r-- 1 root root   250 Aug 10 01:40 7t.sv
+
+./SV/SVWorkShop/Lab_work/day1/ses3/4_generate_block:
+total 712
+-rw-r--r-- 1 root root 60102 Aug 10 01:40 9a1.png
+-rw-r--r-- 1 root root 61482 Aug 10 01:40 9a2.png
+-rw-r--r-- 1 root root 61510 Aug 10 01:40 9a3.png
+-rw-r--r-- 1 root root 61735 Aug 10 01:40 9a4.png
+-rw-r--r-- 1 root root 61507 Aug 10 01:40 9a5.png
+-rw-r--r-- 1 root root 60139 Aug 10 01:40 9b1.png
+-rw-r--r-- 1 root root 58208 Aug 10 01:40 9b2.png
+-rw-r--r-- 1 root root 58315 Aug 10 01:40 9b3.png
+-rw-r--r-- 1 root root 58414 Aug 10 01:40 9b4.png
+-rw-r--r-- 1 root root 58251 Aug 10 01:40 9b5.png
+-rw-r--r-- 1 root root   611 Aug 10 01:40 9.sv
+-rw-r--r-- 1 root root   364 Aug 10 01:40 9t.sv
+
+./SV/SVWorkShop/Lab_work/day1/ses3/5_task_usage:
+total 152
+-rw-r--r-- 1 root root 65004 Aug 10 01:40 10a.png
+-rw-r--r-- 1 root root 56520 Aug 10 01:40 10b.png
+-rw-r--r-- 1 root root   616 Aug 10 01:40 10.sv
+-rw-r--r-- 1 root root   374 Aug 10 01:40 10t.sv
+
+./SV/SVWorkShop/Lab_work/day1/ses3/6_priority_unique_if:
+total 16
+-rw-r--r-- 1 root root 1118 Aug 10 01:40 priority_if.sv
+-rw-r--r-- 1 root root 1539 Aug 10 01:40 unique_if.sv
+
+./SV/SVWorkShop/Lab_work/day1/ses4:
+total 32
+drwxr-xr-x 2 root root 4096 Aug 10 14:36 1_enumerat
+drwxr-xr-x 2 root root 4096 Aug 10 14:36 2_structures
+drwxr-xr-x 2 root root 4096 Aug 10 14:36 3_user_data_types
+drwxr-xr-x 2 root root 4096 Aug 10 14:36 4_Packages
+
+./SV/SVWorkShop/Lab_work/day1/ses4/1_enumerat:
+total 32
+-rw-r--r-- 1 root root 224 Aug 10 01:40 en1.sv
+-rw-r--r-- 1 root root 555 Aug 10 01:40 en2.sv
+-rw-r--r-- 1 root root 412 Aug 10 01:40 enum_fun.sv
+-rw-r--r-- 1 root root 131 Aug 10 01:40 enum_range.sv
+
+./SV/SVWorkShop/Lab_work/day1/ses4/2_structures:
+total 24
+-rw-r--r-- 1 root root 420 Aug 10 01:40 p_str.sv
+-rw-r--r-- 1 root root 339 Aug 10 01:40 str_init.sv
+-rw-r--r-- 1 root root 366 Aug 10 01:40 u_str.sv
+
+./SV/SVWorkShop/Lab_work/day1/ses4/3_user_data_types:
+total 8
+-rw-r--r-- 1 root root 59 Aug 10 01:40 data1.sv
+
+./SV/SVWorkShop/Lab_work/day1/ses4/4_Packages:
+total 388
+-rw-r--r-- 1 root root 69562 Aug 10 01:40 1a.png
+-rw-r--r-- 1 root root 60153 Aug 10 01:40 1b.png
+-rw-r--r-- 1 root root 60176 Aug 10 01:40 1c.png
+-rw-r--r-- 1 root root 59330 Aug 10 01:40 1d.png
+-rw-r--r-- 1 root root 65955 Aug 10 01:40 1e.png
+-rw-r--r-- 1 root root   311 Aug 10 01:40 alu.sv
+-rw-r--r-- 1 root root   401 Aug 10 01:40 alut.sv
+-rw-r--r-- 1 root root   534 Aug 10 01:40 def.pkg
+-rw-r--r-- 1 root root   399 Aug 10 01:40 script
+
+./SV/SVWorkShop/Lab_work/day2:
+total 24
+drwxr-xr-x 9 root root 4096 Aug 10 14:36 session1
+drwxr-xr-x 3 root root 4096 Aug 10 14:36 session2
+drwxr-xr-x 3 root root 4096 Aug 10 14:36 session3
+
+./SV/SVWorkShop/Lab_work/day2/session1:
+total 56
+drwxr-xr-x 2 root root 4096 Aug 10 14:36 1_latch
+drwxr-xr-x 2 root root 4096 Aug 10 14:36 2_ff
+drwxr-xr-x 2 root root 4096 Aug 10 14:36 3_ff_a_reset
+drwxr-xr-x 2 root root 4096 Aug 10 14:36 4_ff_a_set_reset
+drwxr-xr-x 4 root root 4096 Aug 10 14:36 5_shift_registers
+drwxr-xr-x 5 root root 4096 Aug 10 14:36 6_memory
+drwxr-xr-x 5 root root 4096 Aug 10 14:36 7_counter
+
+./SV/SVWorkShop/Lab_work/day2/session1/1_latch:
+total 144
+-rw-r--r-- 1 root root   181 Aug 10 01:40 1.sv
+-rw-r--r-- 1 root root   239 Aug 10 01:40 1t.sv
+-rw-r--r-- 1 root root 54874 Aug 10 01:40 a.png
+-rw-r--r-- 1 root root 56844 Aug 10 01:40 b.png
+
+./SV/SVWorkShop/Lab_work/day2/session1/2_ff:
+total 144
+-rw-r--r-- 1 root root   144 Aug 10 01:40 2.sv
+-rw-r--r-- 1 root root   286 Aug 10 01:40 2t.sv
+-rw-r--r-- 1 root root 54454 Aug 10 01:40 a.png
+-rw-r--r-- 1 root root 57177 Aug 10 01:40 b.png
+
+./SV/SVWorkShop/Lab_work/day2/session1/3_ff_a_reset:
+total 212
+-rw-r--r-- 1 root root   194 Aug 10 01:41 3.sv
+-rw-r--r-- 1 root root   374 Aug 10 01:41 3t.sv
+-rw-r--r-- 1 root root 56766 Aug 10 01:41 a1.png
+-rw-r--r-- 1 root root 57594 Aug 10 01:41 a.png
+-rw-r--r-- 1 root root 54883 Aug 10 01:41 b.png
+
+./SV/SVWorkShop/Lab_work/day2/session1/4_ff_a_set_reset:
+total 284
+-rw-r--r-- 1 root root   233 Aug 10 01:41 4.sv
+-rw-r--r-- 1 root root   444 Aug 10 01:41 4t.sv
+-rw-r--r-- 1 root root 59481 Aug 10 01:41 a1.png
+-rw-r--r-- 1 root root 58881 Aug 10 01:41 a2.png
+-rw-r--r-- 1 root root 59111 Aug 10 01:41 a.png
+-rw-r--r-- 1 root root 55881 Aug 10 01:41 b.png
+
+./SV/SVWorkShop/Lab_work/day2/session1/5_shift_registers:
+total 16
+drwxr-xr-x 2 root root 4096 Aug 10 14:36 register
+drwxr-xr-x 2 root root 4096 Aug 10 14:36 shiftreg
+
+./SV/SVWorkShop/Lab_work/day2/session1/5_shift_registers/register:
+total 636
+-rw-r--r-- 1 root root 58891 Aug 10 01:41 1a.png
+-rw-r--r-- 1 root root 59562 Aug 10 01:41 1b.png
+-rw-r--r-- 1 root root 58447 Aug 10 01:41 1c.png
+-rw-r--r-- 1 root root 61147 Aug 10 01:41 1d.png
+-rw-r--r-- 1 root root 66492 Aug 10 01:41 1e.png
+-rw-r--r-- 1 root root 61100 Aug 10 01:41 1f.png
+-rw-r--r-- 1 root root 59177 Aug 10 01:41 1g.png
+-rw-r--r-- 1 root root 61190 Aug 10 01:41 2a.png
+-rw-r--r-- 1 root root 59714 Aug 10 01:41 2b.png
+-rw-r--r-- 1 root root   204 Aug 10 01:41 register.sv
+-rw-r--r-- 1 root root   338 Aug 10 01:41 registert.sv
+
+./SV/SVWorkShop/Lab_work/day2/session1/5_shift_registers/shiftreg:
+total 1120
+-rw-r--r-- 1 root root 64094 Aug 10 01:41 1a.png
+-rw-r--r-- 1 root root 61989 Aug 10 01:41 1b.png
+-rw-r--r-- 1 root root 58152 Aug 10 01:41 1c.png
+-rw-r--r-- 1 root root 58631 Aug 10 01:41 1d.png
+-rw-r--r-- 1 root root 59355 Aug 10 01:41 1e.png
+-rw-r--r-- 1 root root 59432 Aug 10 01:41 1f.png
+-rw-r--r-- 1 root root 62555 Aug 10 01:41 1g.png
+-rw-r--r-- 1 root root 60886 Aug 10 01:41 1h.png
+-rw-r--r-- 1 root root 60958 Aug 10 01:41 1i.png
+-rw-r--r-- 1 root root 65534 Aug 10 01:41 1j.png
+-rw-r--r-- 1 root root 59101 Aug 10 01:41 1.png
+-rw-r--r-- 1 root root 57080 Aug 10 01:41 2a.png
+-rw-r--r-- 1 root root 62375 Aug 10 01:41 2b.png
+-rw-r--r-- 1 root root 60394 Aug 10 01:41 2c.png
+-rw-r--r-- 1 root root 60644 Aug 10 01:41 2d.png
+-rw-r--r-- 1 root root 60840 Aug 10 01:41 2.png
+-rw-r--r-- 1 root root   595 Aug 10 01:41 shift_regt.sv
+-rw-r--r-- 1 root root   334 Aug 10 01:41 shitf_reg.sv
+
+./SV/SVWorkShop/Lab_work/day2/session1/6_memory:
+total 24
+drwxr-xr-x 2 root root 4096 Aug 10 14:36 rom
+drwxr-xr-x 2 root root 4096 Aug 10 14:36 static_ram
+drwxr-xr-x 2 root root 4096 Aug 10 14:36 sync
+
+./SV/SVWorkShop/Lab_work/day2/session1/6_memory/rom:
+total 792
+-rw-r--r-- 1 root root 61981 Aug 10 01:41 1a.png
+-rw-r--r-- 1 root root 63931 Aug 10 01:41 1b.png
+-rw-r--r-- 1 root root 60183 Aug 10 01:41 1c.png
+-rw-r--r-- 1 root root 61277 Aug 10 01:41 1d.png
+-rw-r--r-- 1 root root 58796 Aug 10 01:41 1e.png
+-rw-r--r-- 1 root root 59814 Aug 10 01:41 1.png
+-rw-r--r-- 1 root root 66895 Aug 10 01:41 2a.png
+-rw-r--r-- 1 root root 63582 Aug 10 01:41 2b.png
+-rw-r--r-- 1 root root 62027 Aug 10 01:42 2c.png
+-rw-r--r-- 1 root root 61916 Aug 10 01:42 2e.png
+-rw-r--r-- 1 root root 60389 Aug 10 01:41 2.png
+-rw-r--r-- 1 root root   495 Aug 10 01:42 rom.sv
+-rw-r--r-- 1 root root   212 Aug 10 01:42 romt.sv
+
+./SV/SVWorkShop/Lab_work/day2/session1/6_memory/static_ram:
+total 504
+-rw-r--r-- 1 root root 61592 Aug 10 01:42 1a.png
+-rw-r--r-- 1 root root 60291 Aug 10 01:42 1b.png
+-rw-r--r-- 1 root root 59101 Aug 10 01:42 1c.png
+-rw-r--r-- 1 root root 59892 Aug 10 01:42 2a.png
+-rw-r--r-- 1 root root 59420 Aug 10 01:42 2b.png
+-rw-r--r-- 1 root root 62704 Aug 10 01:42 2c.png
+-rw-r--r-- 1 root root 62499 Aug 10 01:42 2d.png
+-rw-r--r-- 1 root root   261 Aug 10 01:42 static_ram.sv
+-rw-r--r-- 1 root root   731 Aug 10 01:42 static_ramt.sv
+
+./SV/SVWorkShop/Lab_work/day2/session1/6_memory/sync:
+total 636
+-rw-r--r-- 1 root root 59228 Aug 10 01:42 1a.png
+-rw-r--r-- 1 root root 59476 Aug 10 01:42 1b.png
+-rw-r--r-- 1 root root 61806 Aug 10 01:42 1c.png
+-rw-r--r-- 1 root root 59033 Aug 10 01:42 2a.png
+-rw-r--r-- 1 root root 63219 Aug 10 01:42 2b.png
+-rw-r--r-- 1 root root 61860 Aug 10 01:42 2c.png
+-rw-r--r-- 1 root root 61658 Aug 10 01:42 2d.png
+-rw-r--r-- 1 root root 59701 Aug 10 01:42 2e.png
+-rw-r--r-- 1 root root 59256 Aug 10 01:42 2f.png
+-rw-r--r-- 1 root root   292 Aug 10 01:42 sync.sv
+
+./SV/SVWorkShop/Lab_work/day2/session1/7_counter:
+total 24
+drwxr-xr-x 2 root root 4096 Aug 10 14:36 1_counter
+drwxr-xr-x 3 root root 4096 Aug 10 14:36 2_updown
+drwxr-xr-x 2 root root 4096 Aug 10 14:36 3_jhonson
+
+./SV/SVWorkShop/Lab_work/day2/session1/7_counter/1_counter:
+total 296
+-rw-r--r-- 1 root root 57645 Aug 10 01:42 1a.png
+-rw-r--r-- 1 root root 61649 Aug 10 01:42 1b.png
+-rw-r--r-- 1 root root 59457 Aug 10 01:42 1c.png
+-rw-r--r-- 1 root root 56130 Aug 10 01:42 2.png
+-rw-r--r-- 1 root root   205 Aug 10 01:42 counter_1.sv
+-rw-r--r-- 1 root root   249 Aug 10 01:42 countert_1.sv
+-rw-r--r-- 1 root root   243 Aug 10 01:42 countert_1.sv~
+
+./SV/SVWorkShop/Lab_work/day2/session1/7_counter/2_updown:
+total 456
+-rw-r--r-- 1 root root 59459 Aug 10 01:42 1a.png
+-rw-r--r-- 1 root root 62435 Aug 10 01:42 1b.png
+-rw-r--r-- 1 root root 59465 Aug 10 01:42 1c.png
+-rw-r--r-- 1 root root 63192 Aug 10 01:42 1d.png
+-rw-r--r-- 1 root root 58739 Aug 10 01:42 2a.png
+-rw-r--r-- 1 root root 58736 Aug 10 01:42 2b.png
+-rw-r--r-- 1 root root   237 Aug 10 01:42 counter_up_down.sv
+-rw-r--r-- 1 root root   320 Aug 10 01:42 counter_up_downt.sv
+-rw-r--r-- 1 root root   311 Aug 10 01:42 counter_up_downt.sv~
+drwxr-xr-x 4 root root  4096 Aug 10 14:36 INCA_libs
+-rw-r--r-- 1 root root  3416 Aug 10 01:42 irun.log.txt
+
+./SV/SVWorkShop/Lab_work/day2/session1/7_counter/2_updown/INCA_libs:
+total 16
+drwxr-xr-x 2 root root 4096 Aug 10 14:36 irun.lnx86.12.20.nc
+drwxr-xr-x 2 root root 4096 Aug 10 14:36 worklib
+
+./SV/SVWorkShop/Lab_work/day2/session1/7_counter/2_updown/INCA_libs/irun.lnx86.12.20.nc:
+total 156
+-rw-r--r-- 1 root root  153 Aug 10 01:43 bind.lst.lnx86
+-rw-r--r-- 1 root root   21 Aug 10 01:43 cds.lib
+-rw-r--r-- 1 root root   26 Aug 10 01:43 cdsrun.lib
+-rw-r--r-- 1 root root  181 Aug 10 01:43 files.ts
+-rw-r--r-- 1 root root 1280 Aug 10 01:43 hdlrun.var
+-rw-r--r-- 1 root root  267 Aug 10 01:43 hdl.var
+-rw-r--r-- 1 root root   98 Aug 10 01:43 irun.args
+-rw-r--r-- 1 root root  239 Aug 10 01:43 ncelab.args
+-rw-r--r-- 1 root root  318 Aug 10 01:43 ncelab.env
+-rw-r--r-- 1 root root    0 Aug 10 01:43 _nclib.lock
+-rw-r--r-- 1 root root    0 Aug 10 01:43 _ncrun.lock
+-rw-r--r-- 1 root root  308 Aug 10 01:43 ncsim.args
+-rw-r--r-- 1 root root  218 Aug 10 01:43 ncsim.env
+-rw-r--r-- 1 root root  359 Aug 10 01:43 ncsim_restart.args
+-rw-r--r-- 1 root root  218 Aug 10 01:43 ncsim_restart.env
+-rw-r--r-- 1 root root    0 Aug 10 01:43 _ncv.lock
+-rw-r--r-- 1 root root  332 Aug 10 01:43 ncvlog.args
+-rw-r--r-- 1 root root  318 Aug 10 01:43 ncvlog.env
+-rw-r--r-- 1 root root  218 Aug 10 01:43 ncvlog.files
+-rw-r--r-- 1 root root  181 Aug 10 01:43 _timestamp.ts
+-rw-r--r-- 1 root root   37 Aug 10 01:43 UVMHOME
+
+./SV/SVWorkShop/Lab_work/day2/session1/7_counter/2_updown/INCA_libs/worklib:
+total 500
+-rw-r--r-- 1 root root     11 Aug 10 01:43 cdsinfo.tag
+-rw-r--r-- 1 root root      0 Aug 10 01:43 _cdsvmod
+-rw-r--r-- 1 root root      8 Aug 10 01:43 _inca.db.010.lnx86
+-rw-r--r-- 1 root root 481773 Aug 10 01:43 inca.lnx86.010.pak
+
+./SV/SVWorkShop/Lab_work/day2/session1/7_counter/3_jhonson:
+total 440
+-rw-r--r-- 1 root root 57558 Aug 10 01:42 1a.png
+-rw-r--r-- 1 root root 58349 Aug 10 01:42 1b.png
+-rw-r--r-- 1 root root 61094 Aug 10 01:42 1c.png
+-rw-r--r-- 1 root root 59288 Aug 10 01:42 1d.png
+-rw-r--r-- 1 root root 57681 Aug 10 01:42 2a.png
+-rw-r--r-- 1 root root 57612 Aug 10 01:42 2b.png
+-rw-r--r-- 1 root root   200 Aug 10 01:42 johnson.sv
+-rw-r--r-- 1 root root   199 Aug 10 01:42 johnson.sv~
+-rw-r--r-- 1 root root   286 Aug 10 01:42 johnsont.sv
+-rw-r--r-- 1 root root   280 Aug 10 01:42 johnsont.sv~
+
+./SV/SVWorkShop/Lab_work/day2/session2:
+total 8
+drwxr-xr-x 4 root root 4096 Aug 10 14:36 fsm
+
+./SV/SVWorkShop/Lab_work/day2/session2/fsm:
+total 16
+drwxr-xr-x 3 root root 4096 Aug 10 14:36 melay
+drwxr-xr-x 3 root root 4096 Aug 10 14:36 moore
+
+./SV/SVWorkShop/Lab_work/day2/session2/fsm/melay:
+total 168
+-rw-r--r-- 1 root root 68090 Aug 10 01:42 1.png
+-rw-r--r-- 1 root root 57503 Aug 10 01:42 2.png
+-rw-r--r-- 1 root root  1164 Aug 10 01:42 melay.sv
+-rw-r--r-- 1 root root  1177 Aug 10 01:42 melay.sv~
+-rw-r--r-- 1 root root   750 Aug 10 01:42 melayt.sv
+
+./SV/SVWorkShop/Lab_work/day2/session2/fsm/moore:
+total 160
+-rw-r--r-- 1 root root 56238 Aug 10 01:42 1.png
+-rw-r--r-- 1 root root 63428 Aug 10 01:42 2.png
+-rw-r--r-- 1 root root  1345 Aug 10 01:42 moore.sv
+-rw-r--r-- 1 root root  1285 Aug 10 01:42 moore.sv~
+-rw-r--r-- 1 root root   750 Aug 10 01:42 mooret.sv
+
+./SV/SVWorkShop/Lab_work/day2/session3:
+total 8
+drwxr-xr-x 3 root root 4096 Aug 10 14:36 mp
+
+./SV/SVWorkShop/Lab_work/day2/session3/mp:
+total 8
+drwxr-xr-x 2 root root 4096 Aug 10 14:36 micro_processor
+
+./SV/SVWorkShop/Lab_work/day2/session3/mp/micro_processor:
+total 2888
+-rw-r--r-- 1 root root 83621 Aug 10 01:42 a1.png
+-rw-r--r-- 1 root root 83305 Aug 10 01:42 a2.png
+-rw-r--r-- 1 root root 76590 Aug 10 01:42 alu1.png
+-rw-r--r-- 1 root root 80182 Aug 10 01:42 alu2.png
+-rw-r--r-- 1 root root 74810 Aug 10 01:43 alu3.png
+-rw-r--r-- 1 root root 76127 Aug 10 01:43 alum.png
+-rw-r--r-- 1 root root   480 Aug 10 01:42 alu.sv
+-rw-r--r-- 1 root root 70571 Aug 10 01:43 b.png
+-rw-r--r-- 1 root root 74694 Aug 10 01:43 c1.png
+-rw-r--r-- 1 root root 72829 Aug 10 01:43 c2.png
+-rw-r--r-- 1 root root 71690 Aug 10 01:43 c3.png
+-rw-r--r-- 1 root root   855 Aug 10 01:43 cpu_bus.sv
+-rw-r--r-- 1 root root   180 Aug 10 01:43 cpu_defs.sv
+-rw-r--r-- 1 root root   206 Aug 10 01:43 cpu.sv
+-rw-r--r-- 1 root root 75169 Aug 10 01:43 d1.png
+-rw-r--r-- 1 root root 72182 Aug 10 01:43 d2.png
+-rw-r--r-- 1 root root 72596 Aug 10 01:43 d3.png
+-rw-r--r-- 1 root root 74287 Aug 10 01:43 e1.png
+-rw-r--r-- 1 root root 72383 Aug 10 01:43 e2.png
+-rw-r--r-- 1 root root 71779 Aug 10 01:43 e3.png
+-rw-r--r-- 1 root root 82884 Aug 10 01:43 f1.png
+-rw-r--r-- 1 root root 82047 Aug 10 01:43 f2.png
+-rw-r--r-- 1 root root 75688 Aug 10 01:43 i1.png
+-rw-r--r-- 1 root root 74279 Aug 10 01:43 i2.png
+-rw-r--r-- 1 root root 73961 Aug 10 01:43 i3.png
+-rw-r--r-- 1 root root 75380 Aug 10 01:43 ir1.png
+-rw-r--r-- 1 root root 76392 Aug 10 01:43 ir2.png
+-rw-r--r-- 1 root root 74520 Aug 10 01:43 ir3.png
+-rw-r--r-- 1 root root 73282 Aug 10 01:43 ir4.png
+-rw-r--r-- 1 root root 74458 Aug 10 01:43 irm.png
+-rw-r--r-- 1 root root   392 Aug 10 01:43 ir.sv
+-rw-r--r-- 1 root root 82684 Aug 10 01:43 p1.png
+-rw-r--r-- 1 root root 79724 Aug 10 01:43 p2.png
+-rw-r--r-- 1 root root 80760 Aug 10 01:43 p3.png
+-rw-r--r-- 1 root root 81073 Aug 10 01:43 pc1.png
+-rw-r--r-- 1 root root 78955 Aug 10 01:43 pc2.png
+-rw-r--r-- 1 root root 78777 Aug 10 01:43 pc3.png
+-rw-r--r-- 1 root root 79214 Aug 10 01:43 pc.png
+-rw-r--r-- 1 root root   369 Aug 10 01:43 pc.sv
+-rw-r--r-- 1 root root   868 Aug 10 01:43 ram.sv
+-rw-r--r-- 1 root root  4075 Aug 10 01:43 rc.log.txt
+-rw-r--r-- 1 root root  1936 Aug 10 01:43 sequencer.sv
+-rw-r--r-- 1 root root   255 Aug 10 01:43 testcpu.sv
+
+./SV/SVWorkShop/Lab_work/library:
+total 20560
+-rw-r--r-- 1 root root 19911982 Aug 10 01:42 tcbn65gplusbc.lib
+-rw-r--r-- 1 root root  1100032 Aug 10 01:41 tcbn65gplus.v
+
+./untitled folder:
+total 0
+
+./Verification:
+total 11440
+-rwxr-xr-x 1 root root 4491788 Sep  1 14:09 Kluwer Academic - System-On-A-Chip Verification - Methodology And Techniques.pdf
+-rwxr-xr-x 1 root root 4446592 Sep  1 14:09 PROFESSIONAL VERIFICATION - A GUIDE TO ADVANCED FUNCTIONAL VERIFICATION - BOOK.pdf
+-rwxr-xr-x 1 root root 1478600 Sep  1 14:09 Springer - SystemVerilog for Verification.pdf
+drwx------ 2 root root    4096 Sep  1 14:09 SVTB_2006.06-SP1_InstructorPack
+-rwxr-xr-x 1 root root 1226752 Sep  1 14:09 Verification_CVS.ppt
+drwx------ 2 root root    4096 Sep  1 14:09 WTSV
+
+./Verification/SVTB_2006.06-SP1_InstructorPack:
+total 5464
+-rwxr-xr-x 1 root root 398848 Sep  1 14:09 SVTB_2006.06-SP1_LG_01.doc
+-rwxr-xr-x 1 root root 183808 Sep  1 14:09 SVTB_2006.06-SP1_LG_02.doc
+-rwxr-xr-x 1 root root 190464 Sep  1 14:09 SVTB_2006.06-SP1_LG_03.doc
+-rwxr-xr-x 1 root root 163840 Sep  1 14:09 SVTB_2006.06-SP1_LG_04.doc
+-rwxr-xr-x 1 root root 235008 Sep  1 14:09 SVTB_2006.06-SP1_LG_05.doc
+-rwxr-xr-x 1 root root 115712 Sep  1 14:09 SVTB_2006.06-SP1_LG_06.doc
+-rwxr-xr-x 1 root root 282624 Sep  1 14:09 SVTB_2006.06-SP1_SG_00.ppt
+-rwxr-xr-x 1 root root 297472 Sep  1 14:09 SVTB_2006.06-SP1_SG_01_DUT.ppt
+-rwxr-xr-x 1 root root 615424 Sep  1 14:09 SVTB_2006.06-SP1_SG_02_ENVIRONMENT.ppt
+-rwxr-xr-x 1 root root 384512 Sep  1 14:09 SVTB_2006.06-SP1_SG_03_LANGUAGE.ppt
+-rwxr-xr-x 1 root root 288768 Sep  1 14:09 SVTB_2006.06-SP1_SG_04_SIGNALS.ppt
+-rwxr-xr-x 1 root root 242688 Sep  1 14:09 SVTB_2006.06-SP1_SG_05_THREADS.ppt
+-rwxr-xr-x 1 root root 224768 Sep  1 14:09 SVTB_2006.06-SP1_SG_06_OOP.ppt
+-rwxr-xr-x 1 root root 412160 Sep  1 14:09 SVTB_2006.06-SP1_SG_07_RANDOMIZATION.ppt
+-rwxr-xr-x 1 root root 161792 Sep  1 14:09 SVTB_2006.06-SP1_SG_08_INHERITANCE.ppt
+-rwxr-xr-x 1 root root 211968 Sep  1 14:09 SVTB_2006.06-SP1_SG_09_ITC.ppt
+-rwxr-xr-x 1 root root 451072 Sep  1 14:09 SVTB_2006.06-SP1_SG_10_COVERAGE.ppt
+-rwxr-xr-x 1 root root 387072 Sep  1 14:09 SVTB_2006.06-SP1_SG_11_VMM.ppt
+-rwxr-xr-x 1 root root  51200 Sep  1 14:09 SVTB_200606_SP1_SG_TOC.doc
+-rwxr-xr-x 1 root root  47104 Sep  1 14:09 SVTB_LG_TitlePage_2007-08-13.doc
+-rwxr-xr-x 1 root root  47104 Sep  1 14:09 SVTB_SG_TitlePage.doc
+
+./Verification/WTSV:
+total 3824
+-rwxr-xr-x 1 root root 393676 Sep  1 14:09 chap-6.pdf
+-rwxr-xr-x 1 root root 290503 Sep  1 14:09 chapt-7.pdf
+-rwxr-xr-x 1 root root 233514 Sep  1 14:09 chp-1.pdf
+-rwxr-xr-x 1 root root 488294 Sep  1 14:09 chp-2_verfi_plan.pdf
+-rwxr-xr-x 1 root root 280401 Sep  1 14:09 chp-3_verifi_plan.pdf
+-rwxr-xr-x 1 root root 486043 Sep  1 14:09 chp-4 HLM.pdf
+-rwxr-xr-x 1 root root 435666 Sep  1 14:09 chpt-5 stimulus_and-respons.pdf
+-rwxr-xr-x 1 root root 302046 Sep  1 14:09 chpt-8.pdf
+-rwxr-xr-x 1 root root 911242 Sep  1 14:09 front-matter.pdf
